@@ -1,0 +1,35 @@
+# Theme metadata
+name = "ironhacks"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary
+primary = "rgb(255, 0, 60)"
+
+# Menu
+menu_primary = "#fcee0a"
+menu_text = "#000"
+menu_text_active = "rgb(255, 0, 60)"
+menu_title = "#000"
+
+# Links
+link = "#707070"
+link_hover = "#000"
+link_decoration = "underline"
+
+# Home sections
+home_section_odd = "#f9f7f6"
+home_section_even = "#ffffff"
+
+[dark]
+  # Menu
+  menu_primary = "#fcee0a"
+  menu_text = "#000"
+  menu_text_active = "#000"
+  menu_title = "#000"
+
+  # Backgrounds
+  background = "#000"
+  home_section_odd = "#000"
+  home_section_even = "#000"
