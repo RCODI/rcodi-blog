@@ -2,9 +2,9 @@
 widget: about
 active: true
 author: admin
-widget_id: about
+widget_id: about-rcodi
 headless: true
-weight: 50
+weight: 20
 title: RCODI
 subtitle: About
 design:
