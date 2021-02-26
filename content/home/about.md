@@ -14,4 +14,4 @@ The Research Center for Open Digital Innovation (RCODI) is an interdisciplinary
 
 
 
-RCODI is engaging in the revolution of innovation. We live an open and collaborative innovation landscape in which information and data are widely dispersed, technological systems are opened up, and organizations engage in boundary-spanning innovation activities. More decentralized innovation ecosystems have emerged in which a diverse set of actors co-create novel solutions to solve complex problems in areas such healthcare, regional development, financial services, and smart manufacturing
+RCODI is engaging in the revolution of innovation. We live an open and collaborative innovation landscape in which information and data are widely dispersed, technological systems are opened up, and organizations engage in boundary-spanning innovation activities. More decentralized innovation ecosystems have emerged in which a diverse set of actors co-create novel solutions to solve complex problems in areas such healthcare, regional development, financial services, and smart manufacturing.
