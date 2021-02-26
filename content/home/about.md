@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: about-widget
+widget_id: "13"
 headless: true
 weight: 20
 title: Research Center for Open Digital Innovation
