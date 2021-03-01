@@ -1,8 +1,7 @@
 ---
 widget: pages
 widget_id: recent-posts
-headless: true
-weight: 40
+weight: 20
 title: Recent Posts
 subtitle: null
 active: true
@@ -19,6 +18,7 @@ content:
     publication_type: ""
   offset: 0
   order: desc
+headless: true
 design:
   view: 2
 ---
