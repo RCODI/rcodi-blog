@@ -4,18 +4,31 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "About"
+  # url = "/about"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About RCODI"
+  url = "/about"
+  weight = 11
+  parent = "About"
+
+[[main]]
+  name = "Our People"
+  url = "/our-people"
+  weight = 12
+  parent = "About"
+
+[[main]]
+  name = "Blog"
+  url = "/post"
   weight = 20
+  # parent = "About"
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "/project"
   weight = 30
 
 [[main]]
@@ -27,6 +40,7 @@
   name = "Publications"
   url = "#featured"
   weight = 50
+
 
 [[main]]
   name = "Contact"

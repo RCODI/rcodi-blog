@@ -101,26 +101,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 ############################
 ## Contact details
-##
 ## These details power the Contact widget (if enabled).
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
 email = "test@example.org"
 phone = "888 888 88 88"
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "40.4211403", longitude = "-86.9246027"}
-
-# Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
-
-# Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
 
@@ -142,7 +131,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "Purdue_RCODI"
 
 ############################
 ## Regional Settings
@@ -186,12 +175,11 @@ abstract_length = 135
 plugins_js  = []
 
 # Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 [address]
-  street = "450 Serra Mall"
-  city = "Stanford"
+  street = "155 S. Grant St."
+  city = "West-Lafayette"
   region = "IN"
-  postcode = "94305"
+  postcode = "47907"
   country = "United States"
   country_code = "US"
 
@@ -208,9 +196,8 @@ plugins_js  = []
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://wowchemy.com/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  # Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "January 2006"
-
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
@@ -234,22 +221,20 @@ plugins_js  = []
 ############################
 [comments]
   # Comment provider:
-  #   "": Disabled
-  #   "disqus": Disqus (https://disqus.com)
-  #   "commento": Commento (https://commento.io)
+  #   ""         - Disabled
+  #   "disqus"   - Disqus (https://disqus.com)
+  #   "commento" - Commento (https://commento.io)
   provider = ""
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = true, project = true, publication = true, talk = true}
 
-  # Configuration of Disqus.
   [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+    shortname = ""
+    show_count = true
 
-  # Configuration of Commento.
   [comments.commento]
-    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
+    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com")
     url = ""
 
 ############################
@@ -257,9 +242,9 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   "": No search engine
-  #   "wowchemy": Built-in search engine
-  #   "algolia": Algolia (https://www.algolia.com)
+  #   ""          - No search engine
+  #   "wowchemy"  - Built-in search engine
+  #   "algolia"   - Algolia (https://www.algolia.com)
   provider = "wowchemy"
 
   # Configuration of Algolia search engine.
@@ -310,5 +295,6 @@ plugins_js  = []
 ############################
 ## Icon Pack Extensions
 ############################
+# Academicons icon pack https://jpswalsh.github.io/academicons/
 [icon.pack]
-  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true

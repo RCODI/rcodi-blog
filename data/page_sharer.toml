@@ -33,21 +33,21 @@
   icon = "linkedin-in"
   enable = true
 
-[[buttons]]
-  id = "whatsapp"
-  url = "whatsapp://send?text={title}%20{url}"
-  title = "WhatsApp"
-  icon_pack = "fab"
-  icon = "whatsapp"
-  enable = false
-
-[[buttons]]
-  id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
-  title = "Weibo"
-  icon_pack = "fab"
-  icon = "weibo"
-  enable = false
+# [[buttons]]
+#   id = "whatsapp"
+#   url = "whatsapp://send?text={title}%20{url}"
+#   title = "WhatsApp"
+#   icon_pack = "fab"
+#   icon = "whatsapp"
+#   enable = false
+#
+# [[buttons]]
+#   id = "weibo"
+#   url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+#   title = "Weibo"
+#   icon_pack = "fab"
+#   icon = "weibo"
+#   enable = false
 
 [[buttons]]
   id = "reddit"
@@ -57,26 +57,26 @@
   icon = "reddit-alien"
   enable = false
 
-[[buttons]]
-  id = "pinterest"
-  url = "https://pinterest.com/pin/create/link/?url={url}&description={title}"
-  title = "Pinterest"
-  icon_pack = "fab"
-  icon = "pinterest"
-  enable = false
-
-[[buttons]]
-  id = "xing"
-  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
-  title = "Xing"
-  icon_pack = "fab"
-  icon = "xing"
-  enable = false
-
-[[buttons]]
-  id = "tumblr"
-  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
-  title = "Tumblr"
-  icon_pack = "fab"
-  icon = "tumblr"
-  enable = false
+# [[buttons]]
+#   id = "pinterest"
+#   url = "https://pinterest.com/pin/create/link/?url={url}&description={title}"
+#   title = "Pinterest"
+#   icon_pack = "fab"
+#   icon = "pinterest"
+#   enable = false
+#
+# [[buttons]]
+#   id = "xing"
+#   url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
+#   title = "Xing"
+#   icon_pack = "fab"
+#   icon = "xing"
+#   enable = false
+#
+# [[buttons]]
+#   id = "tumblr"
+#   url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
+#   title = "Tumblr"
+#   icon_pack = "fab"
+#   icon = "tumblr"
+#   enable = false

@@ -1,20 +1,9 @@
 ---
 widget: slider
 headless: true  # This file represents a page section.
-
-# Order that this section appears on the page.
 weight: 10
-
-# ... Put Your Section Options Here (section position etc.) ...
-
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 3000
-
-# Minimum slide height.
-# Specify a height to ensure a consistent height for each slide.
+interval: 5000
 height: 80vh
-
 
 item:
   - title: The Research Center for Open Digital Innovation
@@ -32,14 +21,14 @@ item:
     cta_label: cta_label here
     cta_url: 'https://www.example.org'
     cta_icon_pack: fas
-    cta_icon: graduation-cap 
+    cta_icon: graduation-cap
    #    Cahange the icons
   - title: Left
     content: 'The Research Center for Open Digital Innovation works to bring the future today by studying open source systems and the innovation therein.'
-    align: left
+    align: center
     overlay_img: rcodi_ISPIMtalkPost.jpg
     overlay_filter: 0.5
-  - title: Right
+  - title: center
     content: 'Keynote speech at the OI Congerence'
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg

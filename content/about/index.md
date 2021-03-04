@@ -1,27 +1,16 @@
 ---
-id: "2585"
+title: "About Us"
+subtitle: ""
+summary: ""
 date: "2018-01-06T19:05:46"
 date_gmt: "2018-01-06T19:05:46"
-guid: "http://exp.thediyspecial.com/?page_id=2585"
 modified: "2018-08-08T20:12:16"
 modified_gmt: "2018-08-08T20:12:16"
-slug: "about"
+#slug: "about"
 status: "publish"
 type: "page"
-link: "https://rcodi.org/about/"
-title: "About"
-author: "2"
-featured_media: "0"
-parent: "0"
-menu_order: "0"
-comment_status: "closed"
-ping_status: "closed"
-template: ""
-href: "https://api.w.org/{rel}"
-embeddable: "true"
-count: "0"
-name: "wp"
-templated: "true"
-cover: "./VennDiagramsforRCODI-03v4-NEW-8-8-18.png"
+#link: "https://rcodi.org/about/"
 ---
-[vc_row full_width=&#x201D;stretch_row&#x201D; css=&#x201D;.vc_custom_1521683072441{padding-top: 2em !important;padding-right: 30% !important;padding-bottom: 2em !important;padding-left: 30% !important;}&#x201D;][vc_column css=&#x201D;.vc_custom_1521325537827{padding-top: 1em !important;}&#x201D;][vc_custom_heading text=&#x201D;About Us&#x201D; font_container=&#x201D;tag:h3|text_align:center&#x201D; use_theme_fonts=&#x201D;yes&#x201D; css=&#x201D;.vc_custom_1522077876222{padding-top: 1em !important;}&#x201D;][vc_column_text css=&#x201D;.vc_custom_1522077510932{padding-top: 2em !important;}&#x201D;]Our research group aspires to bring together a network of talented thinkers and thought leaders studying and shaping the revolution of Open Digital Innovation by tacking fundamental research questions related to it in interdisciplinary, sociology-technical, and empirical research projects. We follow an ambitious research agenda and aim to inform both academics and practitioners.[/vc_column_text][vc_column_text]![](./VennDiagramsforRCODI-03v4-NEW-8-8-18.png)![](./VennDiagramsforRCODI-03v4-NEW-8-8-18.png)![](./VennDiagramsforRCODI-03v4-NEW-8-8-18.png))[/vc_column_text][/vc_column][/vc_row]
+![](./VennDiagramsforRCODI-03v4-NEW-8-8-18.png)
+
+Our research group aspires to bring together a network of talented thinkers and thought leaders studying and shaping the revolution of Open Digital Innovation by tacking fundamental research questions related to it in interdisciplinary, sociology-technical, and empirical research projects. We follow an ambitious research agenda and aim to inform both academics and practitioners.

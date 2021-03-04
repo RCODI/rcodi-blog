@@ -17,6 +17,6 @@ image:
   preview_only: false
   caption: www.ironhacks.com
 ---
-## WHAT ARE IRONHACKS?
+## WHAT ARE IRONHACKS?
 
-IronHacks brings together a virtual hacking community who participate in high-energy IronHacks challenges. The IronHacks platform offers participants a no setup workspace and many powerful features. Participants get access to a Juypter Lab, BIG datasets, dashboards, tutorials so that they can excel in data exploration, prediction and visualization.
+IronHacks brings together a virtual hacking community who participate in high-energy IronHacks challenges. The IronHacks platform offers participants a no setup workspace and many powerful features. Participants get access to a JuypterLab, BIG datasets, dashboards, tutorials so that they can excel in data exploration, prediction and visualization.
