@@ -2,13 +2,6 @@
 # Guide: https://wowchemy.com/docs/get-started/
 # Documentation: https://wowchemy.com/docs/
 #
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each config section after this section is defined by a name in square brackets (e.g. `[search]`).
-
-############################
-## Theme
-############################
-
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #  - rose
@@ -27,9 +20,10 @@
 # CUSTOM THEMES
 #  - ironhacks
 
-#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
+#   Browse the latest built-in themes at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
 theme = "dark"
+
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -145,10 +139,6 @@ time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
-
-############################
-## Advanced
-############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
 main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
