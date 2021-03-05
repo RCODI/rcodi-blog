@@ -15,9 +15,9 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "news"
+    category: ""
     publication_type: ""
-    tag: ""
+    tag: "news"
   order: desc
 
 design:
