@@ -17,7 +17,7 @@ content:
     author: ""
     category: ""
     publication_type: ""
-    tag: "featured"
+    tag: "news"
   order: desc
 
 design:
