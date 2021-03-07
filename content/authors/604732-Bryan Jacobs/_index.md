@@ -26,7 +26,7 @@ social:
     link: mailto://bryan.herbert.jacobs@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ybvau
+    link: https://twitter.com/ybrva
   - icon: github
     icon_pack: fab
     link: https://github.com/ybvau
