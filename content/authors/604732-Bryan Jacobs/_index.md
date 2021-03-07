@@ -5,10 +5,10 @@ author_email: bryan.herbert.jacobs@gmail.com
 author_name: Bryan Jacobs
 author_first_name: Bryan
 author_last_name: Jacobs
----
 title: Bryan Jacobs
 role: Fellow
 authors: Bryan Jacobs
+---
 
 bio: I like new things and helping people.
 
