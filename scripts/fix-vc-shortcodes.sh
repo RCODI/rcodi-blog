@@ -1,6 +1,7 @@
 #!/bin/bash
 
 TARGET_FILE="${1}"
+BACKUP_FILE="${TARGET_FILE}.bak"
 
 # All shortcodes onto newline
 __split_shortcodes_to_newlines () {
@@ -26,9 +27,14 @@ __remove_multiple_empty_lines () {
   sed '/^$/N;/^\n$/D'
 }
 
+__main () {
+  __split_shortcodes_to_newlines \
+    | __decode_entities \
+    | __convert_custom_headings \
+    | __strip_shortcode_tags \
+    | __remove_multiple_empty_lines
+}
 
-__split_shortcodes_to_newlines \
-  | __decode_entities \
-  | __convert_custom_headings \
-  | __strip_shortcode_tags \
-  | __remove_multiple_empty_lines
+mv "${TARGET_FILE}" "${BACKUP_FILE}"
+cat "${BACKUP_FILE}" | __main > "${TARGET_FILE}"
+rm "${BACKUP_FILE}"

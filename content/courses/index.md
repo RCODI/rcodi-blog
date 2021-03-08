@@ -23,7 +23,8 @@ count: "0"
 name: "wp"
 templated: "true"
 ---
-[vc_row css=&#x201D;.vc_custom_1521409048737{padding-top: 2em !important;padding-bottom: 2em !important;}&#x201D;][vc_column][vc_custom_heading text=&#x201D;Our courses&#x201D; font_container=&#x201D;tag:h3|text_align:center&#x201D; use_theme_fonts=&#x201D;yes&#x201D; css=&#x201D;.vc_custom_1521426431618{padding-bottom: 1em !important;}&#x201D;][vc_text_separator title=&#x201D;Graduate Classes&#x201D;][vc_empty_space height=&#x201D;15px&#x201D;]
+
+## Our courses
 
 #### Blockchain Networks and People: An Intro
 
@@ -40,7 +41,7 @@ TECH599 Active learning experience: Purdue IronHacks Data Science Version (3 cre
 #### Foundations of Innovation 
 
 Code: TLI 520 [3 credit]
-TLI 520 Foundations of Innovation (3 credits) Foundations of Innovation Studies has been designed to provide a broad spectrum introduction to the field of innovation studies. Students will gain practical and theoretical knowledge of innovation at a variety of levels, including the individual, team, organizational, and ecosystem contexts. Students will examine innovation strategies and tensions within the innovation &#x201C;triple helix&#x201D; of industry, academia, and government through the use of case studies and individually selected research reports. Throughout the class, students will examine recent innovation efforts and present short innovation cases that align with the learning objectives of the class.
+TLI 520 Foundations of Innovation (3 credits) Foundations of Innovation Studies has been designed to provide a broad spectrum introduction to the field of innovation studies. Students will gain practical and theoretical knowledge of innovation at a variety of levels, including the individual, team, organizational, and ecosystem contexts. Students will examine innovation strategies and tensions within the innovation "triple helix" of industry, academia, and government through the use of case studies and individually selected research reports. Throughout the class, students will examine recent innovation efforts and present short innovation cases that align with the learning objectives of the class.
 
 #### Digital Innovation and Transformation 
 
@@ -55,9 +56,7 @@ Behavioral Analytics has been designed to provide a foundation of skills and too
 #### Research in Open Innovation 
 
 Code: TLI 625 [3 credit]
-This is a research-oriented course designed for graduate students who aim to develop and implement a scientific research project in the field of open innovation. They will critically discuss and evaluate scientific writings relevant to the new research area of &#x201C;open innovation&#x201D; from the fields and disciplines of innovation studies, information systems, and other social sciences. Through synthesis of theories and frameworks used in academic articles, the students will develop a theoretically and practically motivated research question. They will also implement a pilot study to examine their hypotheses. The Research Center for Open Digital Innovation (RCODI) in the Discovery Park at Purdue will offer opportunities to plan and implement individual questions, if students have not identified their own data source. In addition, the students will participate in an action-oriented research project in open innovation performed by the class as a group project to gain experience in experimental innovation research and practice.
-
-[vc_text_separator title=&#x201D;Undergraduate Classes&#x201D;]
+This is a research-oriented course designed for graduate students who aim to develop and implement a scientific research project in the field of open innovation. They will critically discuss and evaluate scientific writings relevant to the new research area of "open innovation" from the fields and disciplines of innovation studies, information systems, and other social sciences. Through synthesis of theories and frameworks used in academic articles, the students will develop a theoretically and practically motivated research question. They will also implement a pilot study to examine their hypotheses. The Research Center for Open Digital Innovation (RCODI) in the Discovery Park at Purdue will offer opportunities to plan and implement individual questions, if students have not identified their own data source. In addition, the students will participate in an action-oriented research project in open innovation performed by the class as a group project to gain experience in experimental innovation research and practice.
 
 #### Open Data Hacking
 
@@ -74,4 +73,3 @@ This course provides the foundation for understanding the manner in which compan
 
 ](www.rcodi.org/lio)
 
-[/vc_column][/vc_row]
