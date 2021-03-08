@@ -1,4 +1,3 @@
-Matt is a fullstack web and mobile applications developer. Matt has a background in Environmental Engineering, data visualization, and audio recording/analysis. His previous work includes lead developer for the Record The Earth citizen science initiatives and crowdsourcing platform at the Center for Global Soundscapes and DevOps for remote engineering teams with onsite servers for VCS, project management, CI/CD automation tasks.
 ---
 author_id: "604729"
 author_login: m.harris
