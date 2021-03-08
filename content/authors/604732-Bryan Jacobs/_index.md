@@ -10,15 +10,12 @@ role: Fellow
 authors: Bryan Jacobs
 ---
 
-bio: I like new things and helping people.
+bio: I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about the advancing use of independent data lakes within industrial settings and the potential implication on laggards.
 
 interests:
-  - Abstraction
+  - Abstraction & Praxeology
   - Accelerating Change
-  - Binary Opposition
-  - Cognitive Values
-  - Fuzzy Logic
-  - Theoretical CS 
+  - Binary Opposition & Fuzzy Logic
 
 social:
   - icon: envelope
@@ -37,5 +34,3 @@ social:
 user_groups:
   - Fellows
 ---
-
-I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about the advancing use of independent data lakes within industrial settings and the potential implication on laggards.
