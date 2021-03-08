@@ -8,7 +8,8 @@ __split_shortcodes_to_newlines () {
 }
 
 __decode_entities () {
-  sed 's/&#x201D;/"/g; s/&#x2033;/"/g; s/&#x201C;/"/g; s/&#xA0;/ /g; s/&#x200B;//g' | sed "s/&#x2019;/'/g"
+  sed 's/&#x201D;/"/g; s/&#x2033;/"/g; s/&#x201C;/"/g; s/&#xA0;/ /g; s/&#x200B;//g; s/&#x2013;/-/g' \
+  | sed "s/&#x2019;/'/g"
 }
 
 # EXAMPLE:

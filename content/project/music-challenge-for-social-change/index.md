@@ -1,11 +1,28 @@
 ---
 title: "Music Challenge for Social Change"
-slug: "music-challenge"
+summary: ""
 date: "2020-02-09T18:24:12"
 date_gmt: "2020-02-09T18:24:12"
 modified: "2020-02-18T17:24:41"
 modified_gmt: "2020-02-18T17:24:41"
-cover: "./globe-black-and-white-world-clip-art-earth-black-and-white.png"
+authors: []
+tags: []
+categories:
+  - experiments
+
+#creator: jealdana
+#external_link: ""
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+slides: ""
 ---
 ## The Tipping Point Community Platform for a &#x201C;Music for Social Change&#x201D; Challenge
 

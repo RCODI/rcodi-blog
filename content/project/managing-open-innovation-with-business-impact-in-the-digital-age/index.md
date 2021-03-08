@@ -1,49 +1,28 @@
 ---
-post_id: "4222"
-post_name: p04
-tags: []
-status: publish
 title: Managing Open Innovation with Business Impact in the Digital Age
-attachment_url: null
-comment_status: closed
+summary: ""
+authors: []
+tags: []
+post_date_gmt:
+date: 2010-03-14 22:24:08
 categories:
   - open-innovation
-creator: jealdana
-description: ""
-guid_isPermalink: "false"
-guid_text: https://rcodi.org/?p=4222
-is_sticky: "0"
-link: https://rcodi.org/p04/
-menu_order: "0"
-ping_status: closed
-post_date_gmt: 2010-03-14 22:24:08
-post_date: 2010-03-14 22:24:08
-post_parent: "0"
-post_type: post
-pubDate: Sun, 14 Mar 2010 22:24:08 +0000
-postmeta:
-  - - slide_template
-    - ""
-  - - mfn-post-slider
-    - "0"
-  - - mfn-post-slider-layer
-    - "0"
-  - - mfn-post-layout
-    - no-sidebar
-  - - mfn-post-bg
-    - "#000000"
-  - - mfn-post-header-bg
-    - ""
-  - - _ssb_hide
-    - "false"
-  - - _thumbnail_id
-    - "4279"
-  - - _dp_original
-    - "4211"
+#creator: jealdana
+#external_link: ""
 
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation.
-### **Managing Open Innovation with Business Impact in the Digital Age** 
+
+### **Managing Open Innovation with Business Impact in the Digital Age**
 
 In collaboration with the Accenture Institute for High Performance (AIHP), we have implemented a series of open innovation (OI) case studies to generate new insights on how large, innovative firms use open innovation to solve their strategic innovation problems.
 
@@ -61,8 +40,6 @@ This study aims to create a guided open innovation framework to help companies l
 
 **Investigators:** Sabine Brunswicker, Mehdi Bagherzadeh
 
-**Partners & Sponsorship** 
+**Partners & Sponsorship**
 
 Accenture Institute for High Performance (AIHP)
-
-### Related Research

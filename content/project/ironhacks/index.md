@@ -1,52 +1,96 @@
 ---
-id: "4151"
-date: "2018-03-12T03:10:22"
-date_gmt: "2018-03-12T03:10:22"
-guid: "https://rcodi.org/?page_id=4151"
-modified: "2018-03-12T05:19:34"
-modified_gmt: "2018-03-12T05:19:34"
-slug: "purdue-gold-ironhacks-fall-2017-and-purdue-unal-gold-ironhacks-bogota"
-status: "publish"
-type: "page"
-link: "https://rcodi.org/ironhacks/purdue-gold-ironhacks-fall-2017-and-purdue-unal-gold-ironhacks-bogota/"
-title: "IRONHACKS"
-author: "2"
-featured_media: "0"
-parent: "2474"
-menu_order: "0"
-comment_status: "closed"
-ping_status: "closed"
-template: ""
-href: "https://api.w.org/{rel}"
-embeddable: "true"
-count: "0"
-name: "wp"
-templated: "true"
+title: Purdue IronHacks
+summary: ""
+authors: []
+tags: []
+post_date_gmt:
+date: 2018-01-06T04:47:12
+categories:
+  - experiments
+#creator: jealdana
+#external_link: ""
+
+cover: "./Eat-Local-e1522688743279.jpg"
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+url_code: ""
+url_pdf: ""
+url_slides: "https://www.slideshare.net/RCODI/purdue-unal-iron-hacks-2018-spring-award-ceremony"
+url_video: ""
+
+slides: ""
+
 ---
-[vc_row full_width=&#x201D;stretch_row_content_no_spaces&#x201D;][vc_column][vc_single_image image=&#x201D;3950&#x2033; img_size=&#x201D;2000&#xD7;1000&#x2033;][/vc_column][/vc_row][vc_row css=&#x201D;.vc_custom_1520831467952{padding-top: 2em !important;}&#x201D;][vc_column][vc_custom_heading text=&#x201D;PURDUE GOLD IRONHACKS FALL 2017 AND PURDUE-UNAL GOLD IRONHACKS BOGOTA&#x201D; font_container=&#x201D;tag:h3|text_align:left&#x201D; use_theme_fonts=&#x201D;yes&#x201D;][vc_column_text]PURDUE IRONHACKS IS ALL ABOUT: &#xA0;USING OPEN DATA TO CREATE INNOVATIVE DIGITAL APPS WITH SOCIAL IMPACT![/vc_column_text][vc_custom_heading text=&#x201D;THE GOLD IRONHACKS WILL TAKE PLACE AS PART OF CLASSES BOTH AT PURDUE AND UNAL UNIVERSITY IN BOGOTA.&#x201D; font_container=&#x201D;tag:h3|text_align:left&#x201D; use_theme_fonts=&#x201D;yes&#x201D;][vc_column_text]Classes at UNAL: Ingenieria de Software I: Group 1 & 2&#xA0;Professors: Jairo Aponte, Yury Ni&#xF1;o
 
-Classes at Purdue: TECH499 Open Data Hacking, Professor: Sabine Brunswicker
+## What is IronHacks?
 
-Download the flyer&#xA0;[here](https://www.purdue.edu/opendigital/wp-content/uploads/2017/01/Fa2017-IronHacks-flyer.final_.pdf)!
+IronHacks is a global virtual open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process.  The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.
 
-**Prizes will be awarded for 3 categories&#xA0;**
+## Example challenges
 
-- Best solution to the challenge question (Amazon Giftcard $500)
-- Winning spirit (Amazon Giftcard $250)
-- Best community spirit (Amazon Giftcard $ 150)
-- Certificates
-- Potential opportunities to technology companies.
+### HEALTHY LIVING
 
-**TO LEARN MORE AND SIGN-UP FOR THE HACK VISIT: WWW.IRONHACKS.COM**[/vc_column_text][vc_custom_heading text=&#x201D;INTERNSHIP OPPORTUNITIES&#x201D; font_container=&#x201D;tag:h3|text_align:center&#x201D; use_theme_fonts=&#x201D;yes&#x201D;][vc_column_text]**SOCRATA: It is the global leader in software solutions that are designed exclusively for digital government.**
+![](./eat-local.jpg)
 
-**Socrata**&#xA0;is a privately-held cloud software company headquartered in Seattle&#x2019;s historic Pioneer Square with offices in Washington, D.C. and London. Our core team consists of&#xA0;**software engineers, designers, open government advocates**, and business professionals who are working hard to&#xA0;**unleash the power of data**&#xA0;to transform the world.
+Use open data and develop an app that helps citizens in finding cheap and seasonally fresh vegetables from local markets.
 
-Having an idea of internship opportunity might have working at&#xA0;**Socrata**:
+### AFFORDABLE HOUSING
 
-Winners will be introduced to hiring managers at Socrata and discuss internship opportunities in various roles at Socrata in either Seattle, WA or Washington, DC. Socrata interns work on real-world projects, many of which go into production to serve our hundreds of customers, and many interns have become full-time Socrata employees.
+![](./Housing-e1522688782877.jpg)
 
-UNIQUE opportunity for professional skills, don&#x2019;t miss it.&#xA0;**IRONHACK**&#xA0;rocks.
+Build a website with interactive visualizations that helps new students in finding safe and affordable housing near their university.
 
-**CONTACT:**
+### WORKFORCE ANALYTICS
 
-Questions or concerns? Please contact Prof. Sabine Brunswicker, Director of the Research Center for Open Digital Innovation&#xA0;at&#xA0;[sbrunswi@purdue.edu](mailto:sbrunswi@purdue.edu)&#xA0;and the Purdue IronHacks team at&#xA0;[opendigital@purdue.edu.&#xA0;](mailto:opendigital@purdue.edu)[/vc_column_text][/vc_column][/vc_row]
+![](./14_1-2X1-e1522941729110.jpg)
+
+Use workforce data to explore factors that affect successful career paths.
+
+---
+
+## The IronHacks process
+
+During an iterative multi-phased process, the competing participants have access to tutorials, standardized libraries and packages, and virtual help sessions. After each phase, submissions are being evaluated within a few hours days with the help of machine intelligence and human experts. Real time and targeted feedback accelerate learning and facilitate participants in hacking complex problems.
+
+## Our Impact
+
+Since 2015, more than 1000 participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.
+
+#### Innovation Impact
+
+Participants developed novel and useful open data solutions in an interactive environment. The platform's features helped them continuously improve their submissions while learning from real-time feedback and others participating in the hack.
+
+#### Globalization Impact
+
+A new virtual movement of hacking has emerged at Purdue and beyond. Participants come from the U.S., Colombia, and China. Virtual setting encourages a more diverse audience.
+
+#### Scientific Impact
+
+The scientific team at Purdue generated new knowledge and technologies on the implications of machine-enabled feedback and transparency on participant's productivity and innovation performance.
+
+## Watch and read more about IronHacks
+
+## About IronHacks
+
+[Presentation](https://www.slideshare.net/RCODI/purdue-unal-iron-hacks-2018-spring-award-ceremony)
+
+[Flyer](https://rcodi.org/wp-content/uploads/2018/04/Final-general-flyer_2018_v.01.png)
+
+[Connect with us](https://www.facebook.com/OpenDigitalPurdue/)
+
+## Are you interested in participating as:
+
+### Hackers
+
+[Sign up](http://www.ironhacks.com) to participate in IronHacks or contact us for next hacks.
+
+### Partners
+
+[Email us at](mailto:sbrunswi@purdue.edu)
+
+### Researchers
+
+Are you interested in behavioral computing? Are you interested in understanding the experimental framework on open innovation contests?

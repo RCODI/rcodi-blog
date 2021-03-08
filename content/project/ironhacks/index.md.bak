@@ -1,28 +1,28 @@
 ---
-id: "6571"
-date: "2018-01-06T04:47:12"
-date_gmt: "2018-01-06T04:47:12"
-guid: "http://exp.thediyspecial.com/?page_id=2474"
-modified: "2020-06-05T22:26:06"
-modified_gmt: "2020-06-05T22:26:06"
-slug: "ironhacks"
-status: "publish"
-type: "page"
-link: "https://rcodi.org/ironhacks/"
-title: "Purdue IronHacks"
-author: "2"
-featured_media: "0"
-parent: "0"
-menu_order: "0"
-comment_status: "closed"
-ping_status: "closed"
-template: ""
-href: "https://api.w.org/{rel}"
-embeddable: "true"
-count: "6"
-name: "wp"
-templated: "true"
+title: Purdue IronHacks
+summary: ""
+authors: []
+tags: []
+post_date_gmt:
+date: 2018-01-06T04:47:12
+categories:
+  - experiments
+#creator: jealdana
+#external_link: ""
+
 cover: "./Eat-Local-e1522688743279.jpg"
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+slides: ""
+
 ---
 [vc_row full_width=&#x201D;stretch_row&#x201D; css=&#x201D;.vc_custom_1522960671277{padding-right: 30% !important;padding-bottom: 2em !important;padding-left: 30% !important;background-color: #f8d056 !important;}&#x201D;][vc_column][vc_custom_heading text=&#x201D;What is IronHacks?&#x201D; font_container=&#x201D;tag:h3|text_align:center&#x201D; use_theme_fonts=&#x201D;yes&#x201D; css=&#x201D;.vc_custom_1522949728770{padding-top: 2em !important;}&#x201D;][vc_column_text css=&#x201D;.vc_custom_1522951586151{padding-top: 2em !important;}&#x201D;]IronHacks is a global virtual open data hacking program that empowers programmers &#x2013; from beginners to professionals &#x2013; to solve civic challenges during a multi-phase and learning-oriented process. &#xA0;The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.[/vc_column_text][vc_custom_heading text=&#x201D;Example challenges &#x2026;&#x201D; font_container=&#x201D;tag:h4|text_align:left&#x201D; use_theme_fonts=&#x201D;yes&#x201D; css=&#x201D;.vc_custom_1522955306842{padding-bottom: 1em !important;}&#x201D;][vc_row_inner][vc_column_inner width=&#x201D;1/3&#x2033;]
 
