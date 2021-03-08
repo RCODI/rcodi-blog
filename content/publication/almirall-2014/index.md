@@ -1,15 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '\" Internet of things\", Big Data y Small Data: infinitas posibilidades de
-  análisis'
+title: '"Internet of things", Big Data y Small Data: infinitas posibilidades de análisis'
 subtitle: ''
 summary: ''
 authors:
 - Esteve Almirall
 - Sabine Brunswicker
-tags: []
-categories: []
+tags:
+- test
+categories:
+- category1
 date: '2014-01-01'
 lastmod: 2021-02-15T18:58:12-05:00
 featured: false

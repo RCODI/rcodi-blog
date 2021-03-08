@@ -18,15 +18,19 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: cta_label here
-    cta_url: 'https://www.example.org'
+    cta_label: Publications
+    cta_url: '/publications'
     cta_icon_pack: fas
     cta_icon: graduation-cap
    #    Cahange the icons
-  - title: Left
+  - title: IronHacks Project
     content: 'The Research Center for Open Digital Innovation works to bring the future today by studying open source systems and the innovation therein.'
+    cta_url: '/project/ironhacks'
+    cta_label: IronHacks
+    cta_icon_pack: ''
+    cta_icon: ''
     align: center
-    overlay_img: rcodi_ISPIMtalkPost.jpg
+    overlay_img: ironhacks-banner.png
     overlay_filter: 0.5
   - title: center
     content: 'Keynote speech at the OI Congerence'

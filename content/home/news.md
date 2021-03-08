@@ -1,5 +1,4 @@
 ---
-# An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 headless: true
@@ -9,19 +8,16 @@ title: Latest News
 subtitle: ""
 
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: post
   count: 3
-  # Filter on criteria
   filters:
     author: ""
-    category: ""
+    category: "news"
     publication_type: ""
-    tag: "news"
+    tag: ""
   order: desc
 
 design:
-  # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
