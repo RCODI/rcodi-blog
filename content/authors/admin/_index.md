@@ -1,8 +1,7 @@
 ---
 title: RCODI
 role: ""
-bio: My research interests include distributed digital innovation, AI,
-  crowdsourcing, and open source software
+bio: My research interests include distributed digital innovation, AI, crowdsourcing, and open source software
 interests:
   - Artificial Intelligence
   - Open Source Software

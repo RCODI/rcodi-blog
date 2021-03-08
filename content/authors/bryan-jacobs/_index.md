@@ -1,16 +1,7 @@
 ---
-author_id: "604732"
-author_login: Bryan Jacobs
-author_email: bryan.herbert.jacobs@gmail.com
-author_name: Bryan Jacobs
-author_first_name: Bryan
-author_last_name: Jacobs
 title: Bryan Jacobs
 role: Fellow
-authors: Bryan Jacobs
----
-
-bio: I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about the advancing use of independent data lakes within industrial settings and the potential implication on laggards.
+authors: bryan-jacobs
 
 interests:
   - Abstraction & Praxeology
@@ -34,3 +25,4 @@ social:
 user_groups:
   - Fellows
 ---
+I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about the advancing use of independent data lakes within industrial settings and the potential implication on laggards.
