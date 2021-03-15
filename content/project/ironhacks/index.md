@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 
-url_code: ""
+url_code: "https://github.com/ironhacks/ironhacks-app"
 url_pdf: ""
 url_slides: "https://www.slideshare.net/RCODI/purdue-unal-iron-hacks-2018-spring-award-ceremony"
 url_video: ""
