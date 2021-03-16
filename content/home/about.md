@@ -1,6 +1,6 @@
 ---
 widget: blank
-active: true
+active: false
 author: admin
 widget_id: about-rcodi
 headless: true
