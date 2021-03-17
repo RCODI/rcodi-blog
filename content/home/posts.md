@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: recent-posts
-weight: 40
+weight: 20
 title: Recent Posts
 subtitle: null
 active: true
