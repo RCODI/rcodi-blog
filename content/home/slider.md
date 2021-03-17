@@ -29,7 +29,7 @@ item:
     cta_label: Learn More
     cta_icon_pack: ''
     cta_icon: ''
-    align: center
+    align: left
     overlay_img: ironhacks-banner.png
     overlay_filter: 0.5
   - title: Pioneering innovation research for tomorrow.
