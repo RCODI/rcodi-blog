@@ -8,6 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: project
+  count: 3
   filter_default: 0
 #  filter_button:
 #    - name: All
@@ -19,6 +20,5 @@ content:
 design:
   columns: "2"
   view: 2
-  count: 3
   flip_alt_rows: false
 ---
