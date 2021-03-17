@@ -24,7 +24,7 @@ item:
     cta_icon: graduation-cap
    #    Cahange the icons
   - title: IronHacks Project
-    content: 'The Research Center for Open Digital Innovation works to bring the future today by studying open source systems and the innovation therein.'
+    content: 'RCODI dedicates its time and resources towards initiatives that inspire change - such as IronHacks, the open innovation and crowdsourcing platform used to hack innovation for social change..'
     cta_url: '/project/ironhacks'
     cta_label: IronHacks
     cta_icon_pack: ''
