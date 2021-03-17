@@ -10,7 +10,7 @@ subtitle: ''
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  count: 5
+  count: 3
   offset: 0
   order: desc
   filter_button:
