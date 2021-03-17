@@ -3,12 +3,12 @@ widget: portfolio
 widget_id: recent-projects
 headless: true
 weight: 30
+count: 3
 title: Projects
 subtitle: ""
 active: true
 content:
   page_type: project
-  count: 3
   filter_default: 0
 #  filter_button:
 #    - name: All
