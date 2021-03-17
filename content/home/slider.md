@@ -36,5 +36,6 @@ item:
     content: 'Today digitial technologies have transformed the process and the outcome of innovation. More decentralized innovation ecosystems have emerged in which a diverse set of actors co-create novel solutions to solve complex problems in areas such healthcare, regional development, financial services, and smart manufacturing.'
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
+    image_position: top
     overlay_filter: 0.5
 ---
