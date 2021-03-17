@@ -23,10 +23,10 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
    #    Cahange the icons
-  - title: IronHacks Project
-    content: 'RCODI dedicates its time and resources towards initiatives that inspire change - such as IronHacks, the open innovation and crowdsourcing platform used to hack innovation for social change..'
+  - title: Hacking innovation for social change.
+    content: 'RCODI dedicates its time and resources towards initiatives that inspire change - such as IronHacks.'
     cta_url: '/project/ironhacks'
-    cta_label: IronHacks
+    cta_label: Learn More
     cta_icon_pack: ''
     cta_icon: ''
     align: center
