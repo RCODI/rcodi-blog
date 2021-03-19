@@ -7,7 +7,7 @@ height: 80vh
 
 item:
   - title: The Research Center for Open Digital Innovation
-    content: 'I am a Research Center'
+    content: 'RCODI is a leading research center focused on open digital innovation comprised of computational social scientists designing and studying platforms, crowds and AI. '
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -23,18 +23,18 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
    #    Cahange the icons
-  - title: IronHacks Project
-    content: 'The Research Center for Open Digital Innovation works to bring the future today by studying open source systems and the innovation therein.'
+  - title: Hacking innovation for social change.
+    content: 'RCODI dedicates its time and resources towards initiatives that inspire change - such as IronHacks.'
     cta_url: '/project/ironhacks'
-    cta_label: IronHacks
+    cta_label: Learn More
     cta_icon_pack: ''
     cta_icon: ''
-    align: center
+    align: left
     overlay_img: ironhacks-banner.png
-    overlay_filter: 0.5
-  - title: center
-    content: 'Keynote speech at the OI Congerence'
+  - title: Pioneering innovation research for tomorrow.
+    content: 'Today digitial technologies have transformed the process and the outcome of innovation. More decentralized innovation ecosystems have emerged in which a diverse set of actors co-create novel solutions to solve complex problems in areas such healthcare, regional development, financial services, and smart manufacturing.'
     align: right
+    image_size: conatain
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
     overlay_filter: 0.5
 ---

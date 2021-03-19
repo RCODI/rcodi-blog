@@ -4,9 +4,9 @@ role: Fellow
 authors: harsha-pavuluri
 
 interests:
-  - Abstraction & Praxeology
-  - Accelerating Change
-  - Binary Opposition & Fuzzy Logic
+  - Data science
+  - Machine learning
+  - Full-stack development
 
 social:
   - icon: github
@@ -19,4 +19,4 @@ social:
 user_groups:
   - Fellows
 ---
-Harsha is pursuing a BS in Computer Engineering at Purdue University.
+Harsha Pavuluri is an undergraduate senior majoring in computer engineering. His research interests include data science and machine learning. Although he is interested in data science, he continually works in other fields of computer science with experience in industry. His previous work includes building facial recognition security and a web application at ADT security and doing Full-Stack development within Purdue’s EPICS program. He hopes to learn more about ongoing research projects and contribute to the broader community.  

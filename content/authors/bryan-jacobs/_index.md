@@ -4,10 +4,10 @@ role: Fellow
 authors: bryan-jacobs
 
 interests:
-  - Abstraction & Praxeology
-  - Accelerating Change
-  - Binary Opposition & Fuzzy Logic
-
+  - Abstraction
+  - Accelerating change
+  - Logic
+ 
 social:
   - icon: envelope
     icon_pack: fab
