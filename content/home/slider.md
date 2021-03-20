@@ -29,6 +29,6 @@ item:
   - title: [Interested in joining our team](https://rcodi-blog.netlify.app/#contact)?
     content: ''
     align: left
-    overlay_img: Depositphotos_20334993_l-2015.png
+    overlay_img: Depositphotos_20334993_l-2015.jpg
     overlay_filter: 0.5
 ---
