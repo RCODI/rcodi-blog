@@ -9,8 +9,8 @@ item:
   - title: Shaping the future of digital innovation. 
     content: 'Click to see our publications [here](https://rcodi-blog.netlify.app/publication).'
     align: right
-    image_size: conatain
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
+    position: top
     overlay_filter: 0.5
   - title: Hacking data to solve global challenges.
     content: 'Learn more [here](https://rcodi-blog.netlify.app/about).'
