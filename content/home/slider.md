@@ -30,6 +30,6 @@ item:
   - title: Interested in joining our team?
     content: 'Reach out and let us know [here](https://rcodi-blog.netlify.app/#contact).'
     align: left
-    overlay_img: Starter-page-image.png
+    overlay_img: Depositphotos_20334993_l-2015.png
     image_position: top
 ---
