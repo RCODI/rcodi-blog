@@ -13,7 +13,7 @@ content:
     - Fellows
     - Grad Students
     - Administration
-    - Alumni
+   # - Alumni: Temp removal
 design:
   # Show user's social networking links? (true/false)
   show_social: true
