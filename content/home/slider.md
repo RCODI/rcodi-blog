@@ -7,7 +7,7 @@ height: 80vh
 
 item:
   - title: Shaping the future of digital innovation. 
-    content: 'Click to see our publications [here](https://rcodi-blog.netlify.app/publication).'
+    content: '[...](https://rcodi-blog.netlify.app/publication).'
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
     image_size: contain
