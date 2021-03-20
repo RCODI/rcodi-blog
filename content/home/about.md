@@ -5,8 +5,8 @@ author: admin
 widget_id: about-rcodi
 headless: true
 weight: 20
-title: About RCODI
-subtitle: Research Center for Open Digital Innovation
+title: [About RCODI](../about.md)
+subtitle: 
 design:
   columns: "1"
   #background:
