@@ -15,7 +15,7 @@ item:
   - title: Hacking data to solve global challenges.
     content: 'Learn more [here](https://rcodi-blog.netlify.app/about).'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
+    align: left
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: ''  # An HTML color value.
