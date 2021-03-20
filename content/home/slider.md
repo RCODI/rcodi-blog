@@ -31,6 +31,5 @@ item:
     content: 'Reach out and let us know [here](https://rcodi-blog.netlify.app/#contact).'
     align: left
     overlay_img: Starter-page-image.png
-    image_size: contain
     image_position: top
 ---
