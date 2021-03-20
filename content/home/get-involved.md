@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 headless: true
-weight: 129
+weight: 25
 title: Get Involved
 subtitle:
 
