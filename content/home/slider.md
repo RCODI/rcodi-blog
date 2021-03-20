@@ -10,7 +10,7 @@ item:
     content: 'Click to see our publications [here](https://rcodi-blog.netlify.app/publication).'
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
-    position: top: 0;
+    position: top;
     overlay_filter: 0.5
   - title: Hacking data to solve global challenges.
     content: 'Learn more [here](https://rcodi-blog.netlify.app/about).'
@@ -30,5 +30,5 @@ item:
     content: 'Reach out and let us know [here](https://rcodi-blog.netlify.app/#contact).'
     align: left
     overlay_img: data-immersion.jpg
-    position: top: 0;
+    position: top;
 ---
