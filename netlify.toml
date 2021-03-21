@@ -1,7 +1,8 @@
 ## og build command: "hugo --gc --minify -b $URL"
+## also tried "hugo"
 
 [build]
-  command = "hugo"
+  command = "CI= npm run build"
   publish = "public"
 
 [build.environment]
