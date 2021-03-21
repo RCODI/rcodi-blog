@@ -8,19 +8,18 @@ height: 80vh
 item:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 33297e5 (Update slider.md)
   - title: [Shaping the future of digital innovation](https://rcodi-blog.netlify.app/publication). 
     content: '  '
-=======
-  - title: Shaping the future of digital innovation. 
-    content: '[...](https://rcodi-blog.netlify.app/publication).'
->>>>>>> parent of 152840b (Update slider.md)
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
     image_size: contain
     overlay_filter: 0.5
-<<<<<<< HEAD
   - title: [Hacking data to solve global challenges](https://rcodi-blog.netlify.app/about).
     content: '  '
+<<<<<<< HEAD
 =======
   - title: Hacking data to solve global challenges.
     content: 'Learn more [here](https://rcodi-blog.netlify.app/about).'
@@ -29,6 +28,8 @@ item:
   - title: The Research Center for Open Digital Innovation
     content: 'RCODI is a leading research center focused on open digital innovation comprised of computational social scientists designing and studying platforms, crowds and AI. '
 >>>>>>> parent of 56bd54f (Update slider.md)
+=======
+>>>>>>> parent of 33297e5 (Update slider.md)
     # Choose `center`, `left`, or `right` alignment.
     align: left
     # Overlay a color or image (optional).
@@ -42,13 +43,8 @@ item:
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
 <<<<<<< HEAD
     #    Change the icons
-<<<<<<< HEAD
   - title: [Interested in joining our team](https://rcodi-blog.netlify.app/#contact)?
     content: '  '
-=======
-  - title: Interested in joining our team?
-    content: 'Reach out and let us know [here](https://rcodi-blog.netlify.app/#contact).'
->>>>>>> parent of 152840b (Update slider.md)
     align: left
     overlay_img: Depositphotos_20334993_l-2015.jpg
 =======
