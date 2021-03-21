@@ -7,13 +7,13 @@ height: 80vh
 
 item:
   - title: [Shaping the future of digital innovation](https://rcodi-blog.netlify.app/publication). 
-    content: ''
+    content: '  '
     align: right
     overlay_img: Sabine-OI-conference-with-photo-credit.jpg
     image_size: contain
     overlay_filter: 0.5
   - title: [Hacking data to solve global challenges](https://rcodi-blog.netlify.app/about).
-    content: ''
+    content: '  '
     # Choose `center`, `left`, or `right` alignment.
     align: left
     # Overlay a color or image (optional).
@@ -27,7 +27,7 @@ item:
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     #    Change the icons
   - title: [Interested in joining our team](https://rcodi-blog.netlify.app/#contact)?
-    content: ''
+    content: '  '
     align: left
     overlay_img: Depositphotos_20334993_l-2015.jpg
     overlay_filter: 0.5
