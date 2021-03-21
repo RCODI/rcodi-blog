@@ -5,7 +5,7 @@ author: admin
 widget_id: about-rcodi
 headless: true
 weight: 20
-title: [About RCODI](../about.md)
+title: About RCODI
 subtitle: 
 design:
   columns: "1"
