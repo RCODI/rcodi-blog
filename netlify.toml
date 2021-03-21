@@ -1,5 +1,7 @@
+## og build command: "hugo --gc --minify -b $URL"
+
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo"
   publish = "public"
 
 [build.environment]
