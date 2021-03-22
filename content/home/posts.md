@@ -20,5 +20,6 @@ content:
   order: desc
 headless: true
 design:
+  columns: 1
   view: 2
 ---
