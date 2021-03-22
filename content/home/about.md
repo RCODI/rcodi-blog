@@ -8,6 +8,7 @@ weight: 20
 title: About RCODI
 subtitle: 
 design:
+  view: 2
   columns: "1"
   #background:
     #gradient_start: DarkGreen
