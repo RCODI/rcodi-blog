@@ -1,13 +1,13 @@
 ---
 widget: pages
 widget_id: recent-posts
-weight: 40
+weight: 20
 title: Recent Posts
 subtitle: null
 active: true
 content:
   page_type: post
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""

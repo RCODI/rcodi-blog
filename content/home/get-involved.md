@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 headless: true
-weight: 21
+weight: 25
 title: Get Involved
 subtitle:
 
@@ -16,11 +16,11 @@ feature:
   icon: school
   icon_pack: fas
 - name: Research
-  description: We, at RCODI, are interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
+  description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
   icon: graduation-cap
   icon_pack: fas
 - name: Impact
-  description: We are always seeking industry partners to create business value and offer new frontiers of knowledge. [Learn more](/get-involved)
+  description: We are seeking industry partners to create business value and offer new frontiers of knowledge. [Learn more](/get-involved)
   icon: seedling
   icon_pack: fas
 

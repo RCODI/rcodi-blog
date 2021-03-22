@@ -25,4 +25,4 @@ social:
 user_groups:
   - Fellows
 ---
-Elizabeth is an entrepreneur and data enthusiast. She is the founder of Greater Innovations, commercializing sustainable technologies based on Purdue IP, and previously worked for a SaaS startup and as a development officer for Purdue. She received a B.A. and M.A. in Communication from the Brian Lamb School and is currently pursuing a Ph.D. in Technology with an interest in open sustainability and the intersection of open innovation and technology transfer.
+Elizabeth is an entrepreneur and data enthusiast. She was the founder of a company commercializing sustainable technologies based on Purdue IP. Prior to starting her own company, she worked for a SaaS startup and as a development officer for the College of Science at Purdue. She received a B.A. and M.A. in Communication from the Brian Lamb School and is currently pursuing a Ph.D. in Technology with an interest in HCI, data science for sustainable development, and digital platform ecosystems.
