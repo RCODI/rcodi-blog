@@ -19,7 +19,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
    #    Cahange the icons
-  - title: Hacking data to solve global challenges.
+  - title: [Hacking data to solve global challenges](www.placeholder.com).
     content: ''
     align: center
     overlay_img: dsc_maria.jpg
