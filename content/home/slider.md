@@ -19,13 +19,13 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
    #    Cahange the icons
-  - title: [Hacking data to solve global challenges](www.placeholder.com).
-    content: ''
+  - title: 
+    content: '[Hacking data to solve global challenges](./project/ironhack)'
     align: center
     overlay_img: dsc_maria.jpg
     overlay_filter: 0.5
   - title: Interested in joining our team?
-    content: 'Get in touch.'
+    content: '[Get in touch.](mailto:opendigital@purdue.edu)'
     align: right
     overlay_img: Depositphotos_20334993_l-2015.jpg
     overlay_filter: 0.5
