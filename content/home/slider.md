@@ -25,7 +25,7 @@ item:
     overlay_img: dsc_maria.jpg
     overlay_filter: 0.5
   - title: Interested in joining our team?
-    content: '[Get in touch.](mailto:opendigital@purdue.edu)'
+    content: '[Get in touch](mailto:opendigital@purdue.edu).'
     align: right
     overlay_img: Depositphotos_20334993_l-2015.jpg
     overlay_filter: 0.5
