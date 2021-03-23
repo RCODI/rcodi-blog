@@ -7,7 +7,7 @@ height: 80vh
 
 item:
   - title: Shaping the future of digital innovation.
-    content: ''
+    content: 'Contributing via [publications](/publication).'
     # Choose `center`, `left`, or `right` alignment.
     align: right
     # Overlay a color or image (optional).
@@ -19,8 +19,8 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
    #    Cahange the icons
-  - title: 
-    content: '[Hacking data to solve global challenges](./project/ironhack)'
+  - title: Hacking data to solve global challenges.
+    content: 'Building [IronHacks](/project/ironhacks) to empower data scientists to create change.' # or site page
     align: center
     overlay_img: dsc_maria.jpg
     overlay_filter: 0.5
