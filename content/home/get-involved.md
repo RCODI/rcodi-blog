@@ -16,11 +16,11 @@ feature:
   icon: school
   icon_pack: fas
 - name: Research
-  description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
+  description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/project)
   icon: graduation-cap
   icon_pack: fas
 - name: Impact
-  description: We are seeking industry partners to create business value and offer new frontiers of knowledge. [Learn more](/get-involved)
+  description: We are seeking talent to join the team and industry partners to create business value and offer new frontiers of knowledge. [Learn more](/get-involved)
   icon: seedling
   icon_pack: fas
 
