@@ -1,7 +1,7 @@
 ---
 # USE THIS PAGE TO ADD PEOPLE WHO DO NOT HAVE A FOLDER
 # IN THE CONTENT/AUTHORS PATH
-title: "Affiliated Faculty"
+title: "Collaborators"
 subtitle: ""
 weight: 20
 ---
