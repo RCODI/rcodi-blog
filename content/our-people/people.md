@@ -1,5 +1,5 @@
 ---
-widget: people
+	widget: people
 headless: true
 title: Our People
 subtitle:

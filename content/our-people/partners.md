@@ -1,6 +1,6 @@
 ---
 title: "Partners"
-subtitle: "RCODI Partners"
+subtitle: "Corporate Partners"
 weight: 30
 ---
 ##### **Accenture Institute for High Performance**
