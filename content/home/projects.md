@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: pages
 widget_id: recent-projects
 headless: true
 weight: 30
