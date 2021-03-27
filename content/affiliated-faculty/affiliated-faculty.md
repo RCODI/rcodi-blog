@@ -1,5 +1,5 @@
 ---
-title: "Collaborators"
+title: "Affiliated Faculty"
 subtitle: ""
 weight: 20
 ---
