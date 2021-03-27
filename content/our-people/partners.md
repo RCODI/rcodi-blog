@@ -3,12 +3,7 @@ widget: people
 headless: false
 title: Our People
 subtitle:
-active: true
-weight: 30
----
-
-title: "Partners"
-subtitle: "Corporate Partners"
+active: false
 weight: 30
 ---
 ##### **Accenture Institute for High Performance**
