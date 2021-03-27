@@ -1,6 +1,6 @@
 ---
 title: Corporate Partners
-subtitle:
+subtitle: ""
 weight: 30
 ---
 ##### **Accenture Institute for High Performance**
