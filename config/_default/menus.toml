@@ -19,6 +19,24 @@
   url = "/our-people"
   weight = 12
   parent = "About"
+  
+[[main]]
+  name = "Our Alumni"
+  url = "/our-alumni"
+  weight = 13
+  parent = "About"
+  
+[[main]]
+  name = "Affiliated Faculty"
+  url = "/affiliated-faculty"
+  weight = 14
+  parent = "About"
+  
+[[main]]
+  name = "Corporate Partners"
+  url = "/corporate-partners"
+  weight = 15
+  parent = "About"
 
 [[main]]
   name = "Blog"
