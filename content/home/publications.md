@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true
+headless: false
 weight: 30
 title: Recent Publications
 subtitle: ''
