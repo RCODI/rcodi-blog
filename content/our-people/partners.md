@@ -1,4 +1,12 @@
 ---
+widget: people
+headless: false
+title: Our People
+subtitle:
+active: true
+weight: 30
+---
+
 title: "Partners"
 subtitle: "Corporate Partners"
 weight: 30
