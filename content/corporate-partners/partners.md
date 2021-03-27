@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true
-title: Our People
+title: Corporate Partners
 subtitle:
 active: true
 weight: 30
