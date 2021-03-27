@@ -1,6 +1,8 @@
 ---
+widget: people
 title: "Our People"
 subtitle:
+active: true
 weight: 10
 content:
   user_groups:
