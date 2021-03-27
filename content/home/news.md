@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 headless: true
-weight: 15
+weight: 20
 
 title: Latest News
 subtitle: ""
