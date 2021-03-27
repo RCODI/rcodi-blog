@@ -1,5 +1,3 @@
-### USE THIS PAGE TO ADD PEOPLE WHO DO NOT HAVE A FOLDER
-### IN THE CONTENT/AUTHORS PATH
 ---
 title: "Collaborators"
 subtitle: ""
