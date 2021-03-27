@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: about-rcodi
 headless: true
-weight: 20
+weight: 15
 title: About RCODI
 subtitle: 
 design:
