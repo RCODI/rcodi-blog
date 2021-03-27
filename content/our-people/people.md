@@ -12,7 +12,7 @@ content:
     - Fellows
     - Grad Students
     - Administration
-    - Alumni
+     ### - Alumni (hashed out due to new page - remove if new page is good)
 design:
   show_social: true
   show_interests: true
