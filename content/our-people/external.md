@@ -3,6 +3,7 @@
 # IN THE CONTENT/AUTHORS PATH
 title: "Collaborators"
 subtitle: ""
+active: false
 weight: 20
 ---
 
