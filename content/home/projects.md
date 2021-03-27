@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: recent-projects
-headless: false
+headless: true
 weight: 30
 title: Projects
 subtitle: ""
