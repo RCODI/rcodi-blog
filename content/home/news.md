@@ -2,7 +2,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 headless: true
-weight: 15
+active: false
+weight: 20
 
 title: Latest News
 subtitle: ""
@@ -18,6 +19,7 @@ content:
   order: desc
 
 design:
+  columns: 1
   #   1 = List
   #   2 = Compact
   #   3 = Card

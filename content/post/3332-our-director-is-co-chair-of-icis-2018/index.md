@@ -14,7 +14,7 @@ lastmod: 2021-03-05T19:06:04-05:00
 categories:
   - news
 tags: []
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""

@@ -1,9 +1,6 @@
 ---
-widget: people
-headless: false
-title: Our People
-subtitle:
-active: false
+title: Corporate Partners
+subtitle: ""
 weight: 30
 ---
 ##### **Accenture Institute for High Performance**

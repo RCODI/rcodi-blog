@@ -1,9 +1,6 @@
 ---
-# USE THIS PAGE TO ADD PEOPLE WHO DO NOT HAVE A FOLDER
-# IN THE CONTENT/AUTHORS PATH
-title: "Collaborators"
+title: "Affiliated Faculty"
 subtitle: ""
-active: false
 weight: 20
 ---
 
@@ -65,8 +62,3 @@ is the Reilly Director of the Center for Predictive Materials and Devices (c-PRI
 **Johann Füller**
 
 is a professor and chair for Innovation and Entrepreneurship in the Department of Strategic Management, Marketing, and Tourism at the University of Innsbruck, Austria and Founder and CEO of Hyve AG. Before joining HYVE AG, he worked for PriceWaterhouseCoopers in the field of strategic change.
-
-
-
-
-

@@ -39,7 +39,7 @@ Use open data and develop an app that helps citizens in finding cheap and season
 
 ### AFFORDABLE HOUSING
 
-![](./Housing-e1522688782877.jpg)
+![](./topics-housing.jpg)
 
 Build a website with interactive visualizations that helps new students in finding safe and affordable housing near their university.
 
@@ -57,7 +57,7 @@ During an iterative multi-phased process, the competing participants have access
 
 ## Our Impact
 
-Since 2015, more than 1000 participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.
+Since 2015, thousands of participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.
 
 #### Innovation Impact
 

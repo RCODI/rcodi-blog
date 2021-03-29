@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent-posts
 weight: 20
-title: Recent Posts
+title: Latest Posts
 subtitle: null
 active: true
 content:
@@ -12,7 +12,7 @@ content:
     author: ""
     category: ""
     tag: ""
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
     publication_type: ""
@@ -20,5 +20,6 @@ content:
   order: desc
 headless: true
 design:
+  columns: 1
   view: 2
 ---
