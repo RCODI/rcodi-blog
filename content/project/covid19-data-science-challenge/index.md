@@ -1,3 +1,24 @@
+---
+title: COVID-19 Data Science Challenge
+summary: ""
+authors: []
+tags: []
+post_date_gmt:
+date: 2021-04-01-06T04:47:12
+categories:
+  - experiments
+  - open innovation
+#creator: Elizabeth
+#external_link: ""
+
+cover: "./Eat-Local-e1522688743279.jpg" #put cover here
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  
+  ---
+
 # IronHacks: COVID-19 Data Science Challenges
 Sign up here nowSign in
 
