@@ -1,24 +1,26 @@
 ---
-title: COVID19 Data Science Challenge
+title: "Covid19 Data Science Challenge"
 summary: ""
+date: "2020-02-09T18:24:12"
+date_gmt: "2020-02-09T18:24:12"
+modified: "2020-02-18T17:24:41"
+modified_gmt: "2020-02-18T17:24:41"
 authors: []
 tags: []
-post_date_gmt:
-date: 2018-01-06T04:47:12
 categories:
   - experiments
+  - open innovation
+
 #creator: jealdana
 #external_link: ""
-
-cover: "./Eat-Local-e1522688743279.jpg"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-url_code: "https://github.com/ironhacks/ironhacks-app"
+url_code: ""
 url_pdf: ""
-url_slides: "https://www.slideshare.net/RCODI/purdue-unal-iron-hacks-2018-spring-award-ceremony"
+url_slides: ""
 url_video: ""
 
 slides: ""
@@ -129,9 +131,10 @@ IronHacks is an initiative of the Research Center for Open Digital Innovation (R
 It is financially supported by the National Science Foundation (Award #1462044).
 
 Would you like to support us directly? You can contact us at <strong>here</strong> partnership with the Research Center for Open Digital Innovation at Purdue University.
-
+---
 Version 2.2.8
 
 RESEARCH CENTER FOR OPEN DIGITAL INNOVATION | RCODI
 
 All rights reserved IronHacks© 2021
+---
