@@ -48,6 +48,19 @@
   name = "Projects"
   url = "/project"
   weight = 30
+  
+
+[[main]]
+  name = "Featured Projects"
+  url = "/featured-projects"
+  weight = 31
+  parent = "Projects"
+  
+[[main]]
+  name = "Previous Projects"
+  url = "/previous-projects"
+  weight = 32
+  parent = "Projects"
 
 # [[main]]
 #   name = "Talks"
