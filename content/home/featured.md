@@ -3,7 +3,7 @@ widget: pages
 widget_id: featured-projects
 headless: true
 weight: 20
-title: Projects
+title: Featured Projects
 subtitle: ""
 active: true
 content:
@@ -19,7 +19,7 @@ content:
 #    - name: Other
 #      tag: Demo
 design:
-  columns: "1"
+  columns: "3"
   view: 3
   flip_alt_rows: false
 ---
