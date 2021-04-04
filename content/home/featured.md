@@ -11,6 +11,7 @@ content:
   count: 1
   tags: 
     - Featured
+  tag: "Featured"
   filter_default: 0
 #  filter_button:
 #    - name: All
