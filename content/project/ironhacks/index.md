@@ -83,7 +83,7 @@ Participants developed novel and useful open data solutions in an interactive en
 
 ## About IronHacks
 
-[Sign up on our Website](https://www.ironhacks.com/)
+[Hack in our next challenge!](https://www.ironhacks.com/)
 
 [Online walkthrough](https://www.youtube.com/watch?v=8YLLXMhtTB4)
 
