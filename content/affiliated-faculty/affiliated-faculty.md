@@ -6,11 +6,13 @@ weight: 20
 
 ![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png) <br>
 **[Esteve Almirall](http://estevealmirall.com/)** 
-Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations. <br>
+Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations.
+<br>
 
 ![bagherzadeh](https://user-images.githubusercontent.com/74989091/113508915-ad110d00-9520-11eb-805b-8c55589365a2.png) <br>
 **[Mehdi Bagherzadeh](https://mbagherz.bitbucket.io/)**
-Mehdi is an Assistant Professor of Innovation Management at NEOMA Business School, Department of Strategy & Entrepreneurship, in France. His research revolves around governance dynamics of open and collaborative innovation projects and its effect on innovation performance. <br>
+Mehdi is an Assistant Professor of Innovation Management at NEOMA Business School, Department of Strategy & Entrepreneurship, in France. His research revolves around governance dynamics of open and collaborative innovation projects and its effect on innovation performance. 
+<br>
 
 
 
