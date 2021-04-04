@@ -18,7 +18,7 @@ content:
   filters:
     tag: 'featured'
     category: 'project'
-    publication_type: 'project'
+    publication_type: ''
 design:
   # Toggle between the various page layout types.
   #   1 = List
