@@ -18,7 +18,7 @@ content:
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ['featured']
-    category: 'project'
+    category: ''
     publication_type: ''
 design:
   # Toggle between the various page layout types.
