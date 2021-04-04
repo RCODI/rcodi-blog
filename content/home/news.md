@@ -5,15 +5,15 @@ headless: true
 active: false
 weight: 20
 
-title: Latest News
+title: Featured Project
 subtitle: ""
 
 content:
   page_type: post
-  count: 3
+  count: 1
   filters:
     author: ""
-    category: "news"
+    category: "project"
     publication_type: ""
     tag: ""
   order: desc
