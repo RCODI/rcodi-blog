@@ -1,4 +1,5 @@
 ---
+featured: true
 title: Managing Open Innovation with Business Impact in the Digital Age
 summary: ""
 authors: []
