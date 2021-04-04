@@ -7,6 +7,7 @@ headless: true  # This file represents a page section.
 content:
   # Page type to display. E.g. project.
   page_type: project
+  title: Featured Projects
   tag:
     - Featured
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
