@@ -17,7 +17,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: 'featured'
+    tag: ['featured']
     category: 'project'
     publication_type: ''
 design:
