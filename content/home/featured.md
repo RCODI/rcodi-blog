@@ -8,7 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: project
-  count: 3
+  count: 1
   tags: "Featured"
   filter_default: 0
 #  filter_button:
@@ -19,7 +19,7 @@ content:
 #    - name: Other
 #      tag: Demo
 design:
-  columns: "3"
-  view: 3
+  columns: "1"
+  view: 2
   flip_alt_rows: false
 ---
