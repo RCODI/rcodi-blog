@@ -2,7 +2,7 @@
 widget: pages
 widget_id: featured-projects
 headless: true
-weight: 30
+weight: 20
 title: Projects
 subtitle: ""
 active: true
