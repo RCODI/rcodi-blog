@@ -1,6 +1,6 @@
 ---
 type: "widget_page"
-title: "Corporate Partners"
+title: "Partners and Sponsors"
 subtitle: null
 summary: ""
 date: "2018-01-06T02:02:40"
