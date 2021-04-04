@@ -18,7 +18,7 @@ categories:
 #  preview_only: false
 ---
 
-###Reinforcement Learning
+### Reinforcement Learning
 
 How would you teach a child to play a video game?
 
