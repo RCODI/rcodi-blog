@@ -2,7 +2,7 @@
 title: Purdue IronHacks
 summary: ""
 authors: []
-tags: []
+tags: "featured"
 post_date_gmt:
 date: 2018-01-06T04:47:12
 categories:
