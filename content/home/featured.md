@@ -9,7 +9,7 @@ active: true
 content:
   page_type: project
   count: 3
-  tag: "Featured"
+  tags: "Featured"
   filter_default: 0
 #  filter_button:
 #    - name: All
