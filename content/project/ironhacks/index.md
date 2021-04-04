@@ -1,5 +1,6 @@
 ---
 title: Purdue IronHacks
+featured: true
 summary: ""
 authors: []
 tags: []
@@ -7,7 +8,6 @@ post_date_gmt:
 date: 2018-01-06T04:47:12
 categories:
   - experiments
-  - Featured
 #creator: jealdana
 #external_link: ""
 
