@@ -33,8 +33,8 @@
   parent = "About"
   
 [[main]]
-  name = "Corporate Partners"
-  url = "/corporate-partners"
+  name = "Partners and Sponsors"
+  url = "/partners-sponsors"
   weight = 15
   parent = "About"
 
