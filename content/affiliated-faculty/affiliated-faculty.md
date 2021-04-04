@@ -4,7 +4,7 @@ subtitle: ""
 weight: 20
 ---
 
-![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png)
+![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png) <br>
 **[Esteve Almirall](http://estevealmirall.com/)** 
 Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations.
 ---
