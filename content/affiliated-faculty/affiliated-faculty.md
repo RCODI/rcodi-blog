@@ -4,17 +4,17 @@ subtitle: ""
 weight: 20
 ---
 
-**[Esteve Almirall](http://estevealmirall.com/)** ![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png)
+![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png)
+**[Esteve Almirall](http://estevealmirall.com/)** 
 Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations.
-
+---
 
 **[Mehdi Bagherzadeh](https://mbagherz.bitbucket.io/)**
-
 Mehdi is an Assistant Professor of Innovation Management at NEOMA Business School, Department of Strategy & Entrepreneurship, in France. His research revolves around governance dynamics of open and collaborative innovation projects and its effect on innovation performance.
+---
 
 
 **[Elisa Bertino](https://www.cs.purdue.edu/people/bertino)**
-
 Elisa is a professor at the Department of Computer Science, Director of the Cyber Center (Discovery Park), and Research Director of CERIAS. Her main research interests cover many areas in the fields of information security and database systems. Her research combines both theoretical and practical aspects, addressing as well applications on a number of domains, such as medicine and humanities.
 
 
