@@ -10,12 +10,12 @@ subtitle: ""
 
 content:
   page_type: post
-  count: 1
+  count: 3
   filters:
     author: ""
     category: "project"
     publication_type: ""
-    tag: "featured"
+    tag: ["featured"]
   order: desc
 
 design:
