@@ -9,7 +9,7 @@ title: Featured Project
 subtitle: ""
 
 content:
-  page_type: post
+  page_type: pages
   count: 3
   filters:
     author: ""
