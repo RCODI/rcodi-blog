@@ -1,6 +1,7 @@
 ---
 widget: featured
 headless: true  # This file represents a page section.
+weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Featured Projects
@@ -23,4 +24,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  columns: 1
 ---
