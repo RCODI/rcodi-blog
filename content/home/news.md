@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 headless: true
-active: false
+active: true
 weight: 20
 
 title: Featured Project
@@ -15,7 +15,7 @@ content:
     author: ""
     category: "project"
     publication_type: ""
-    tag: ""
+    tag: "featured"
   order: desc
 
 design:
