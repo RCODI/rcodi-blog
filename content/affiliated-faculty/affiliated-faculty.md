@@ -51,11 +51,13 @@ Michael J. Prietula (Ph.D., MPH) is Professor in the Goizueta Business School an
 ![schecter](https://user-images.githubusercontent.com/74989091/113509061-869fa180-9521-11eb-80f6-2181591c5bcb.jpg)<br>
 **Aaron Schecter**
 Aaron Schecter is an Assistant Professor of Management Information Systems at the University of Georgia, Terry College of Business. He received his PhD in Industrial Engineering and Management Science from Northwestern University. His research interests span a number of application areas, including teams and multiteam systems, human-agent interaction, software development, innovation, and cognition. Dr. Schecter has also conducted significant research in the area of social networks, particularly the development of methodologies which utilize temporal event data. His research has been supported by several grants from the ARL, ARI, NSF, and NASA.
+
 ---
 
 ![klimeck](https://user-images.githubusercontent.com/74989091/113509096-b189f580-9521-11eb-929b-583d4ce90317.png)<br>
 **Gerhard Klimeck** 
 is the Reilly Director of the Center for Predictive Materials and Devices (c-PRIMED) and the NCN (Network for Computational Nanotechnology) and Professor of Electrical and Computer Engineering. His research interest is the modeling of nanoelectronic devices, genetic algorithm based optimization, and image processing.
+
 ---
 
 ![fuller](https://user-images.githubusercontent.com/74989091/113509100-b77fd680-9521-11eb-9eec-8af121b0f2c7.png)<br>
