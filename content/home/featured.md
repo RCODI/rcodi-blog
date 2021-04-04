@@ -5,7 +5,7 @@ weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Featured Projects
-tag:
+category:
   - Featured
 content:
   # Page type to display. E.g. project.
