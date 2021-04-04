@@ -11,7 +11,7 @@ categories:
 #creator: jealdana
 #external_link: ""
 
-cover: "./Eat-Local-e1522688743279.jpg"
+# cover: "./Eat-Local-e1522688743279.jpg"
 image:
   caption: ""
   focal_point: ""
@@ -19,8 +19,8 @@ image:
 
 url_code: "https://github.com/ironhacks/ironhacks-app"
 url_pdf: ""
-url_slides: "https://www.slideshare.net/RCODI/purdue-unal-iron-hacks-2018-spring-award-ceremony"
-url_video: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
 
 slides: ""
 
