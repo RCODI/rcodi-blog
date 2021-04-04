@@ -18,9 +18,8 @@ categories:
 #  preview_only: false
 ---
 
-### Reinforcement Learning
 
-How would you teach a child to play a video game?
+### How would you teach a child to play a video game?
 
 You might sit down with them, put the controller in their hands, and push buttons with them. You might do the first level with them, and have them copy what you do until they get it down exactly right. They’ll learn pretty quickly - if they have the right aptitude - and they’d be able to teach their friends.
 
