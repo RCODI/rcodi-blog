@@ -1,15 +1,16 @@
 ---
 widget: portfolio
 headless: true  # This file represents a page section.
+weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title: Featured Projects
+tag:
+  - Featured
 content:
   # Page type to display. E.g. project.
   page_type: project
-  title: Featured Projects
-  tag:
-    - Featured
+
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
 
