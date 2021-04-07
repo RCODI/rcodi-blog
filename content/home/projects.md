@@ -5,7 +5,7 @@ headless: true
 weight: 30
 title: Projects
 subtitle: ""
-active: true
+active: false # removed due to repetition
 content:
   page_type: project
   count: 3
