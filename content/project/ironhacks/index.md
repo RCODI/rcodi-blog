@@ -1,6 +1,10 @@
 ---
 title: Purdue IronHacks
 featured: true
+highlight: true
+image:
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 summary: ""
 authors: []
 tags: []
@@ -25,6 +29,7 @@ url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
 slides: ""
 
 ---
+
 
 ## IronHacks
 
