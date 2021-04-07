@@ -3,10 +3,6 @@ widget: featured
 headless: false
 # cms_exclude: true
 title: Projects
-content:
-  page_type: project
-  count: 0
-  order: desc
 design:
   # Toggle between the various page layout types.
   #   1 = List
