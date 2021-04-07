@@ -3,14 +3,8 @@ title: Our Projects
 cms_exclude: true
 design:
   columns: "1"
-  view: 3
+  view: 2
   flip_alt_rows: false
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
