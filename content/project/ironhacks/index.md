@@ -1,33 +1,19 @@
 ---
 title: Purdue IronHacks
 featured: true
-highlight: true
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
-summary: ""
-authors: []
-tags: []
-post_date_gmt:
-date: 2018-01-06T04:47:12
 categories:
   - experiments
-#creator: jealdana
-#external_link: ""
-
 # cover: "./Eat-Local-e1522688743279.jpg"
 image:
+  placement: 3
   caption: ""
   focal_point: ""
   preview_only: false
-
 url_code: "https://github.com/ironhacks/ironhacks-app"
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
-
 slides: ""
-
 ---
 
 
