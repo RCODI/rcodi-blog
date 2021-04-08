@@ -2,10 +2,10 @@
 widget: pages
 widget_id: recent-projects
 headless: true
-weight: 30
-title: Projects
+weight: 20
+title: Featured Projects
 subtitle: ""
-active: false # removed due to repetition
+active: true # removed due to repetition
 content:
   page_type: project
   count: 3
