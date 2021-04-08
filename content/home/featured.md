@@ -27,6 +27,6 @@ design:
   columns: 1
   
   cta:
-  url: '/content/projects'
+  url: '/content/project'
   label: See more
 ---
