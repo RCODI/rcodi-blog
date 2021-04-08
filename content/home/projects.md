@@ -9,7 +9,7 @@ active: true # removed due to repetition
 content:
   page_type: project
   count: 3
-  filter_default: 0
+  filter_default: Featured
 #  filter_button:
 #    - name: All
 #      tag: "*"
