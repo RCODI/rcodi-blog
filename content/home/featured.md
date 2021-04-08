@@ -25,4 +25,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
   columns: 1
+  
+  cta:
+  url: '/content/projects'
+  label: See more
 ---
