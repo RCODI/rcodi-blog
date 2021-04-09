@@ -17,7 +17,7 @@ content:
     - name: All
   filters:
     tag: ''
-    category: ''
+    category: '2021'
     publication_type: ''
     author: ''
     exclude_featured: true
@@ -30,3 +30,4 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+[View the complete list](/our-people)
