@@ -3,6 +3,7 @@ title: Purdue IronHacks
 featured: true
 categories:
   - experiments
+  - Featured
 # cover: "./Eat-Local-e1522688743279.jpg"
 image:
   placement: 3
