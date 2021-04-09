@@ -12,7 +12,7 @@ url_slides: ""
 url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
 slides: ""
 ---
-
+![featured](https://user-images.githubusercontent.com/74989091/114110737-34a2a700-98a6-11eb-8932-e84b84571cd0.png)
 
 ## IronHacks
 
