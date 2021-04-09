@@ -8,6 +8,7 @@ post_date_gmt:
 date: 2010-03-14 22:24:08
 categories:
   - open-innovation
+  - Featured
 #creator: jealdana
 #external_link: ""
 
