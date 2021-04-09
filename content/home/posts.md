@@ -10,7 +10,7 @@ content:
   count: 3
   filters:
     author: ""
-    category: ""
+    category: "2021"
     tag: ""
     exclude_featured: false
     exclude_future: false
@@ -23,3 +23,4 @@ design:
   columns: 1
   view: 2
 ---
+[View the complete list](/posts)
