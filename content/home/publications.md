@@ -30,4 +30,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-[SEE ALL >](/publication)
