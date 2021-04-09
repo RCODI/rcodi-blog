@@ -16,8 +16,12 @@ content:
     exclude_featured: false
     exclude_past: false
     exclude_future: false 
+  offset: 0
+  order: desc
+headless: true
 design:
-  columns: "3"
-  view: 3
-  flip_alt_rows: false
+  columns: 1
+  view: 2
 ---
+
+See All
