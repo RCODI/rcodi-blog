@@ -6,10 +6,6 @@ categories:
   - Featured
 # cover: "./Eat-Local-e1522688743279.jpg"
 image:
-  placement: 3
-  caption: ""
-  focal_point: ""
-  preview_only: false
 url_code: "https://github.com/ironhacks/ironhacks-app"
 url_pdf: ""
 url_slides: ""
