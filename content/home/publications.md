@@ -17,7 +17,7 @@ content:
     - name: All
   filters:
     tag: ''
-    category: '2021'
+    category: ''
     publication_type: ''
     author: ''
     exclude_featured: true
