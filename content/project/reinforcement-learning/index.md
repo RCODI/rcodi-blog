@@ -2,7 +2,7 @@
 title: Reinforcement Learning
 featured: true
 summary: ""
-authors: [Shatayu Kulkarni]
+authors: [Shatayu Kulkarni, Sabine Brunswicker]
 tags: []
 post_date_gmt:
 date: 2018-01-06T04:47:12
