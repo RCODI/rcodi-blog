@@ -10,7 +10,7 @@ content:
   page_type: project
   count: 3
   filters:
-    tag: 'Featured'
+    tag: ''
     category: 'Featured'
     publication_type: ''
     exclude_featured: false
