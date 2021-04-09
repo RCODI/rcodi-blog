@@ -24,4 +24,4 @@ design:
   view: 2
 ---
 
-See All
+[View the complete list](/projects)
