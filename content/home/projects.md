@@ -9,14 +9,13 @@ active: true # removed due to repetition
 content:
   page_type: project
   count: 3
-  filter_default: Featured
-#  filter_button:
-#    - name: All
-#      tag: "*"
-#    - name: Deep Learning
-#      tag: Deep Learning
-#    - name: Other
-#      tag: Demo
+  filters:
+    tag: 'Featured'
+    category: 'Featured'
+    publication_type: ''
+    exclude_featured: false
+    exclude_past: false
+    exclude_future: false 
 design:
   columns: "3"
   view: 3
