@@ -24,4 +24,4 @@ design:
   view: 2
 ---
 
-[SEE ALL >](/projects)
+[SEE ALL >](/project)
