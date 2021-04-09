@@ -7,7 +7,7 @@ summary: ''
 authors:
 - ' RCODI'
 tags: []
-categories: []
+categories: [2021]
 date: '2021-01-01'
 lastmod: 2021-02-15T18:58:39-05:00
 featured: false
