@@ -24,6 +24,10 @@
 #   Browse user installed themes in `data/themes/`
 theme = "dark"
 
+# OVERRIDE
+i_am_a_sponsor = true
+# [power_ups]
+#   hide_published_with = true
 
 # Enable users to switch between day and night mode?
 day_night = true
