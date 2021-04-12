@@ -4,25 +4,9 @@
 #
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
-#  - rose
-#  - mr_robot
-#  - minimal
-#  - coffee
-#  - forest
-#  - earth
-#  - strawberry
-#  - cyberpunk
-#  - dark
-#  - ocean
-#  - 1950s
-#  - apogee
-
-# CUSTOM THEMES
-#  - ironhacks
-
 #   Browse the latest built-in themes at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "dark"
+theme = "rcodi"
 
 # OVERRIDE
 i_am_a_sponsor = true
@@ -30,7 +14,7 @@ i_am_a_sponsor = true
 #   hide_published_with = true
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -143,7 +127,7 @@ time_format = "3:04 PM"
 address_format = "en-us"
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
