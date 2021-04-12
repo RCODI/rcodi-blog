@@ -14,12 +14,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `filter_button` below.
   filter_button:
+    - name: All
+      tag: '*'
     - name: Current
       tag: Current
     - name: Concluded
       tag: Concluded
-    - name: All
-      tag: '*'
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
