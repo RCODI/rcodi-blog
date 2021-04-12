@@ -9,35 +9,35 @@ authors:
 - M. Cataldo
 - J. D. Herbsleb
 tags:
-- '"Programming"'
-- '"Organizations"'
-- '"Productivity"'
-- '"software metrics"'
-- '"Complexity theory"'
-- '"modularization"'
-- '"software engineering"'
-- '"software quality"'
-- '"Context"'
-- '"coordination activity"'
-- '"coordination breakdowns"'
-- '"coordination requirements"'
-- '"development process"'
-- '"development productivity"'
-- '"dynamic development contexts"'
-- '"engineering activity"'
-- '"interdependent modules"'
-- '"large-scale projects"'
-- '"Metrics/measurement"'
-- '"organizational management and coordination"'
-- '"process maturity"'
-- '"product maturity"'
-- '"quality analysis and evaluation"'
-- '"socio-technical congruence"'
-- '"software development projects"'
-- '"software failures"'
-- '"software reliability"'
-- '"technical dependency"'
-- '"work dependency"'
+- Programming
+- Organizations
+- Productivity
+- Software metrics
+- Complexity theory
+- Modularization
+- Software engineering
+- Software quality
+- Context
+- Coordination activity
+- Coordination breakdowns
+- Coordination requirements
+- Development process
+- Development productivity
+- Dynamic development contexts
+- Engineering activity
+- Interdependent modules
+- Large-scale projects
+- Metrics/measurement
+- Organizational management and coordination
+- Process maturity
+- Product maturity
+- Quality analysis and evaluation
+- Socio-technical congruence
+- Software development projects
+- Software failures
+- Software reliability
+- Technical dependency
+- Work dependency
 categories: []
 date: '2013-03-01'
 lastmod: 2021-02-15T18:58:05-05:00
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:05.344438Z'
+publishDate: '2021-04-12T16:48:57.629140Z'
 publication_types:
 - '2'
 abstract: The success of software development projects depends on carefully coordinating

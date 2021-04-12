@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:13.329638Z'
+publishDate: '2021-04-12T16:49:03.798085Z'
 publication_types:
 - '2'
 abstract: Modern science has become collaborative and digital. The Internet has supported

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ben Cotton
 tags:
-- '"Media coverage"'
+- Media coverage
 categories: []
 date: '2016-04-01'
 lastmod: 2021-02-15T18:58:21-05:00
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:20.877068Z'
+publishDate: '2021-04-12T16:49:09.740936Z'
 publication_types:
 - '0'
 abstract: ''

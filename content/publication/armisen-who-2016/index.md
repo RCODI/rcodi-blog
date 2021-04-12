@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:10.444768Z'
+publishDate: '2021-04-12T16:49:01.347656Z'
 publication_types:
 - '1'
 abstract: 'Digital technologies have transformed how firms and individuals collaborate

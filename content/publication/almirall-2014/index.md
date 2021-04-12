@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '"Internet of things", Big Data y Small Data: infinitas posibilidades de análisis'
+title: '"Internet of things", Big Data y Small Data: infinitas posibilidades de
+  análisis'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:11.927989Z'
+publishDate: '2021-04-12T16:49:02.552504Z'
 publication_types:
 - '2'
 abstract: ''

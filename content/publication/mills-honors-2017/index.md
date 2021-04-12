@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:57:56.740481Z'
+publishDate: '2021-04-12T16:48:50.361542Z'
 publication_types:
 - '0'
 abstract: Three Honors College students received top honors in the Fall 2017 Purdue

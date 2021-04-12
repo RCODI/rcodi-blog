@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '\"Alpbach Technology Forum 2016\": \"New Enlightenment\"'
+title: '"Alpbach Technology Forum 2016": "New Enlightenment"'
 subtitle: ''
 summary: ''
 authors:
-- ' Computerwelt'
+- 'Computerwelt'
 tags: []
 categories: []
 date: '2016-08-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:19.198070Z'
+publishDate: '2021-04-12T16:49:08.352667Z'
 publication_types:
 - '2'
 abstract: ''

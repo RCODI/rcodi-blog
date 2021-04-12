@@ -8,8 +8,8 @@ authors:
 - Sabine Brunswicker
 - Henry Chesbrough
 tags:
-- '"Open innovation"'
-- '"Survey"'
+- Open innovation
+- Survey
 categories: []
 date: '2018-01-01'
 lastmod: 2021-02-15T18:58:01-05:00
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:00.900161Z'
+publishDate: '2021-04-12T16:48:54.064960Z'
 publication_types:
 - '2'
 abstract: OVERVIEWWe present a large-sample survey of open innovation adoption and

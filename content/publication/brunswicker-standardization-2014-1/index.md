@@ -9,12 +9,12 @@ authors:
 - Jorge Rodriguez
 - Jonathan Douglas Wareham
 tags:
-- '"innovation"'
-- '"governance"'
-- '"Standardization"'
-- '"compatibility"'
-- '"paradox of tensions"'
-- '"SDOs"'
+- Innovation
+- Governance
+- Standardization
+- Compatibility
+- Paradox of tensions
+- Sdos
 categories: []
 date: '2014-12-01'
 lastmod: 2021-02-15T18:58:37-05:00
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:37.431638Z'
+publishDate: '2021-04-12T16:49:22.591899Z'
 publication_types:
 - '4'
 abstract: Formal de jure Standard Development Organizations (SDOs) coordinate the

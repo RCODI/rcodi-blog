@@ -9,13 +9,13 @@ authors:
 - Sabine Brunswicker
 - Satyam Mukherjee
 tags:
-- '"loose coupling"'
-- '"architecture"'
-- '"DSM"'
-- '"open collaboration"'
-- '"modular system theory"'
-- '"network motifs"'
-- '"propagation cost"'
+- Loose coupling
+- Architecture
+- Dsm
+- Open collaboration
+- Modular system theory
+- Network motifs
+- Propagation cost
 categories: []
 date: '2019-12-01'
 lastmod: 2021-02-15T18:58:33-05:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:33.659588Z'
+publishDate: '2021-04-12T16:49:19.591111Z'
 publication_types:
 - '2'
 abstract: 'The established stream of literature on design architectures argues that

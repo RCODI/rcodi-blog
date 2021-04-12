@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:39.063135Z'
+publishDate: '2021-04-12T16:49:23.824982Z'
 publication_types:
 - '0'
 abstract: Purdue Polytechnic’s Sabine Brunswicker, Soowon Chang, Dominic Kao and Alejandra

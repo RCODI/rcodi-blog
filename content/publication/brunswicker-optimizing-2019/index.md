@@ -10,15 +10,15 @@ authors:
 - Esteve Almirall
 - Ann Majchrzak
 tags:
-- '"loose coupling"'
-- '"platform architecture"'
-- '"platforms"'
-- '"apps"'
-- '"design strategy"'
-- '"modular systems"'
-- '"NK model"'
-- '"simulation"'
-- '"software design"'
+- Loose coupling
+- Platform architecture
+- Platforms
+- Apps
+- Design strategy
+- Modular systems
+- Nk model
+- Simulation
+- Software design
 categories: []
 date: '2019-01-01'
 lastmod: 2021-02-15T18:57:55-05:00
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:57:55.188545Z'
+publishDate: '2021-04-12T16:48:49.130321Z'
 publication_types:
 - '2'
 abstract: 'Two-sided platforms are gaining increasing attention in practice and as

@@ -27,8 +27,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-02-15T23:55:46.053335Z'
+projects:
+- ironhacks
+publishDate: '2021-04-12T16:48:48.576040Z'
 publication_types:
 - '0'
 abstract: New IronHacks software is developed as a tool for running multiphase hackathons,

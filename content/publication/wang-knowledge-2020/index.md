@@ -10,12 +10,12 @@ authors:
 - Sabine Brunswicker
 - Ann Majchrzak
 tags:
-- '"Innovation performance"'
-- '"Control mechanism"'
-- '"Knowledge search breadth and depth"'
-- '"OI project"'
-- '"Process/outcome control"'
-- '"Project complexity"'
+- Innovation performance
+- Control mechanism
+- Knowledge search breadth and depth
+- Oi project
+- Process/outcome control
+- Project complexity
 categories: []
 date: '2020-01-01'
 lastmod: 2021-02-15T18:58:39-05:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T23:58:39.318020Z'
+publishDate: '2021-04-12T16:49:23.997409Z'
 publication_types:
 - '2'
 abstract: Purpose This study aims to investigate the effects of project-level external
