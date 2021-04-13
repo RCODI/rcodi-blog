@@ -3,7 +3,7 @@ featured: true
 title: Managing Open Innovation with Business Impact in the Digital Age
 summary: ""
 authors: []
-tags: [Concluded]
+tags: [Current]
 post_date_gmt:
 date: 2010-03-14 22:24:08
 categories:
