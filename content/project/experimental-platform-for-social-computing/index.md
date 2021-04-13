@@ -1,7 +1,7 @@
 ---
 post_id: "4321"
 post_name: p14
-tags: []
+tags: [Concluded]
 status: publish
 title: Experimental platform for social computing
 attachment_url: null
