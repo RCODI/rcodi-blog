@@ -1,7 +1,7 @@
 ---
 post_id: "4223"
 post_name: p09
-tags: []
+tags: [Concluded]
 status: publish
 title: Global Open Innovation Executive Study 2014/2015
 attachment_url: null
