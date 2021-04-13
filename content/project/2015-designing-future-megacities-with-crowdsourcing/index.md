@@ -1,7 +1,7 @@
 ---
 post_id: "4219"
 post_name: p07
-tags: []
+tags: [Concluded]
 status: publish
 title: "Designing Future Megacities with the Crowd: Wicked Urban Problems and
   Firm-sponsored Civic Innovation Crowdsourcing 2015"
