@@ -8,6 +8,7 @@ modified_gmt: "2019-11-05T05:25:01"
 authors: ["admin"]
 tags:
 - Artificial Intelligence
+- Current
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
