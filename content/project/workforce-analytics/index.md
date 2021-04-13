@@ -2,7 +2,7 @@
 title: Workforce Analytics
 summary: ""
 authors: []
-tags: []
+tags: [Concluded]
 post_date_gmt:
 date: 2010-07-08 20:46:52
 categories:

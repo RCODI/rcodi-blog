@@ -10,6 +10,7 @@ tags:
   - design-theory
   - network-science
   - open-innovation
+  - Concluded
 #creator: jealdana
 #external_link: ""
 
