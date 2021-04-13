@@ -8,6 +8,7 @@ attachment_url: null
 comment_status: closed
 categories:
   - open-innovation
+  - Concluded
 creator: jealdana
 description: ""
 guid_isPermalink: "false"
