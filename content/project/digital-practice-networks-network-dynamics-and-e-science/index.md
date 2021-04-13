@@ -1,7 +1,7 @@
 ---
 post_id: "4215"
 post_name: p06
-tags: []
+tags: [Concluded]
 status: publish
 title: Digital practice networks, network dynamics and e-science
 attachment_url: null
