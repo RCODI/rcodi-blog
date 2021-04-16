@@ -1,7 +1,7 @@
 ---
 post_id: "4220"
 post_name: p12
-tags: []
+tags: [Concluded]
 status: publish
 title: Increasing Creativity through Anonymous Dissent 2015
 attachment_url: null

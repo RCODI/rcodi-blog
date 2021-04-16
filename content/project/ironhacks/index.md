@@ -1,6 +1,7 @@
 ---
 title: Purdue IronHacks
 featured: true
+tags: [Current]
 categories:
   - experiments
   - Featured

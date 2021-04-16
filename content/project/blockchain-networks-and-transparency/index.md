@@ -1,7 +1,7 @@
 ---
 post_id: "3842"
 post_name: p01
-tags: []
+tags: [Concluded]
 status: publish
 title: Blockchain Networks and Transparency
 attachment_url: null

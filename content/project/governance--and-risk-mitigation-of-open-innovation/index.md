@@ -1,13 +1,14 @@
 ---
 post_id: "4217"
 post_name: p03
-tags: []
+tags: [Concluded]
 status: publish
 title: Governance  and Risk-mitigation of Open Innovation
 attachment_url: null
 comment_status: closed
 categories:
   - open-innovation
+  - Concluded
 creator: jealdana
 description: ""
 guid_isPermalink: "false"
