@@ -24,9 +24,7 @@ name: "wp"
 templated: "true"
 ---
 
-                                  GET INVOLVED 
 
----
 ### Students
 
 Become an [IronHacker](https://ironhacks.com)     
