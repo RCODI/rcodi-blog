@@ -46,7 +46,7 @@ If you want to apply as a visiting scholar or fellow to be part of our research 
 ### Partners
 Interest in partnering up with us? Let us know what your area of interest have.
 
-### IronHacks Partners
+#### IronHacks Partners
 
 If you are interested in being a partner of RCODI's IronHacks, contact us for more information on different ways to partner with us in designing exciting app development challenges that lead to novel apps and data science solutions.  If  you like tackling real-world industry challenges through virtual app development, check out our Purdue IronHacks competitions. Purdue IronHacks promotes open data and open source innovation and creativity. The Research Center for Open Digital Innovation hosts 4 IronHacks events each year, and none of them would be possible without the great deal of hard work, time and help we get from our students and our sponsors.  
 
