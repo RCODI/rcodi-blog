@@ -26,51 +26,35 @@ templated: "true"
 
                                   GET INVOLVED 
 
-STUDENTS: 
+---
+### Students
 
-BECOME AN IRONHACKER 
+Become an [IronHacker](https://ironhacks.com)     
 
-STUDENT:    
+Get involved in classes or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure) 
 
-Get involved in classes or get a degree in Open Digital Innovation!!! 
+---
+### Research Fellows 
 
-RESEARCH GROUP: 
+Fellowship programs are great opportunities to collaborate and expand areas of research to benefit corporations and industry partners. There are thousands of researchers worldwide that are investigating in different fields related to our center and we are eager to create interdisciplinary research projects with scholars and fellows. 
 
-Become part of the research group 
+See what we have open to conduct research with the Center
 
-FELLOWS: 
+If you want to apply as a visiting scholar or fellow to be part of our research areas and contribute of cutting-edge knowledge, please, send us an email here: [opendigital@purdue.edu](mailto:opendigital@purdue.edu) 
 
-There are thousands of researchers worldwide that are investigating in different fields related to our center and we are eager to create interdisciplinary research projects with scholars and fellows. 
+---
+### Partners
+Interest in partnering up with us? Let us know what your area of interest have.
 
-If you want to apply as a visiting scholar or fellow to be part of our research areas and contribute of cutting-edge knowledge, please, send us an email here:&#x202F;[opendigital@purdue.edu](mailto:opendigital@purdue.edu) 
+### IronHacks Partners
 
-PARTNERS: 
+If you are interested in being a partner of RCODI's IronHacks, contact us for more information on different ways to partner with us in designing exciting app development challenges that lead to novel apps and data science solutions.  If  you like tackling real-world industry challenges through virtual app development, check out our Purdue IronHacks competitions. Purdue IronHacks promotes open data and open source innovation and creativity. The Research Center for Open Digital Innovation hosts 4 IronHacks events each year, and none of them would be possible without the great deal of hard work, time and help we get from our students and our sponsors.  
 
-KEYNOTE SPEAKER: 
-
-If you want to gain cutting-edge insights from a leading expert, click here to invite Professor Brunswicker to be a speaker at your next conference. 
-
-ESTABLISH A FELLOWSHIP: 
-
-Fellowship programs are great opportunities to collaborate and expand areas of research to benefit corporations and industry partners. 
-
-Award Sponsor 
-
+---
+### Award Sponsor 
 If you are interested in being an Award Sponsor for RCODI's IronHacks, you can mail your contribution (made payable to Purdue Foundation) to the address below. 
 
+---
+### Keynote Speaking 
+If you want to gain cutting-edge insights from a leading expert, [click here]() to invite Professor Brunswicker to be a speaker at your next conference. 
  
-
-BECOME AN IRON HACKS PARTNER: 
-
-If you are interested in being a partner of RCODI's IronHacks, contact us for more information on different ways to partner with us in designing exciting app development challenges that lead to novel apps and data science solutions. 
-
-Actively Involved With IronHacks 
-
-If  you're interested in tackling real-world industry challenges through virtual app development, check out our Purdue IronHacks competitions. Purdue IronHacks promotes open data and open source innovation and creativity. 
-
- 
-
-The Research Center for Open Digital Innovation hosts 4 IronHacks events each year, and none of them would be possible without the great deal of hard work, time and help we get from our students and our sponsors. 
-
- 
-
