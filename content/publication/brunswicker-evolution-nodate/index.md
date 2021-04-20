@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Evolution of Coordination Structures in OSS Development: An Exponential Random
-  Graph Model'
-subtitle: ''
-summary: ''
-authors:
-- Sabine Brunswicker
-- Satyam Mukherjee
-tags: []
-categories: []
-date: -01-01
-lastmod: 2021-02-15T18:58:38-05:00
-featured: false
-draft: false
+# title: 'Evolution of Coordination Structures in OSS Development: An Exponential Random
+#  Graph Model'
+# subtitle: ''
+# summary: ''
+#  authors:
+#  - Sabine Brunswicker
+# - Satyam Mukherjee
+# tags: []
+# categories: []
+# date: -01-01
+# lastmod: 2021-02-15T18:58:38-05:00
+# featured: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
