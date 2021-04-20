@@ -4,8 +4,8 @@
 widget: featurette
 headless: true
 weight: 25
-title: [Get Involved >](/get-involved)
-subtitle:
+title: '[Get Involved](/get-involved)'
+subtitle: ''
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
