@@ -27,12 +27,16 @@ templated: "true"
 
 ### Students
 
+As an undergraduate or graduate student, you can become involved in the Open Digital Innovation field at RCODI.
+
 Become an [IronHacker](https://ironhacks.com)     
 
 Get involved in classes or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure) 
 
 ---
 ### Research Fellows 
+
+We are seeking talent to join the team and industry partners to create business value and offer new frontiers of knowledge.
 
 Fellowship programs are great opportunities to collaborate and expand areas of research to benefit corporations and industry partners. There are thousands of researchers worldwide that are investigating in different fields related to our center and we are eager to create interdisciplinary research projects with scholars and fellows. 
 
@@ -42,7 +46,9 @@ If you want to apply as a visiting scholar or fellow to be part of our research 
 
 ---
 ### Partners
-Interest in partnering up with us? Let us know what your area of interest have.
+Interest in partnering up with us? Our center is always open to collaborating with sharp minds in the field of Open Digital Innovation. Let us know what your area of interest have.
+
+
 
 #### IronHacks Partners
 

@@ -4,23 +4,23 @@
 widget: featurette
 headless: true
 weight: 25
-title: Get Involved
+title: [Get Involved >](/get-involved)
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: Learn
-  description: As an undergraduate or graduate student, you can become involved in the Open Digital Innovation field at RCODI. [Learn more](/education)
+- name: Participate in Open Innovation
+  # description:  [Learn more](/education)
   icon: school
   icon_pack: fas
-- name: Research
-  description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
+- name: Join the RCODI team
+  # description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
   icon: graduation-cap
   icon_pack: fas
-- name: Impact
-  description: We are seeking talent to join the team and industry partners to create business value and offer new frontiers of knowledge. [Learn more](/get-involved)
+- name: Partner with RCODI
+  # description: We are seeking talent to join the team and industry partners to create business value and offer new frontiers of knowledge.
   icon: seedling
   icon_pack: fas
 
