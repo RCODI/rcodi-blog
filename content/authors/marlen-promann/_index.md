@@ -22,10 +22,10 @@ social:
     icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=mPNcVhEAAAAJ   
   - icon: researchgate
-    icon_pack: fontawesome
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Marlen_Promann
   - icon: user-alt
-    icon_pack: fontawesome
+    icon_pack: fab
     link: https://www.marlenpromann.com     
     
     
