@@ -38,7 +38,7 @@
   <div class="wg-hero dark carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="container" style="text-align: {{$item.align | default "left"}};">
       {{ with $item.overlay_img }}
-        <div style="position: absolute; height:100%; width:100%; top:0; left:0;{{$img_css | safeCSS}}"></div>
+        <div style="position: absolute; height: 100%; width: 100%; top: 0; left: 0; background-size: cover;{{$img_css | safeCSS}}"></div>
       {{ end }}
         <div class="slider-content" style="position: relative; z-index:1;">
           <h1 class="hero-title">
