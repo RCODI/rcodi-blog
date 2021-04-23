@@ -42,7 +42,7 @@ Fellowship programs are great opportunities to collaborate and expand areas of r
 
 See what we have open to conduct research with the Center
 
-If you want to apply as a visiting scholar or fellow to be part of our research areas and contribute of cutting-edge knowledge, please, send us an email here: [opendigital@purdue.edu](mailto:opendigital@purdue.edu) 
+If you want to apply as a visiting scholar or fellow to be part of our research areas and contribute of cutting-edge knowledge, please, send us an email [here](mailto:eea8c1ab.groups.purdue.edu@amer.teams.ms) 
 
 ---
 ### Partners
