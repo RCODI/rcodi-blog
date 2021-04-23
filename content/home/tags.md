@@ -3,7 +3,7 @@
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
 headless: true
-weight: 120
+weight: 24
 
 title: Popular Topics
 subtitle: ''
