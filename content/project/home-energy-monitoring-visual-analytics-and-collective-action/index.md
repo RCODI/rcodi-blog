@@ -1,7 +1,8 @@
 ---
 post_id: "4218"
 post_name: p02
-tags: [Currrent]
+tags: 
+  - Currrent
 status: publish
 title: Home Energy Monitoring, Visual Analytics and Collective-Action
 attachment_url: null
