@@ -31,7 +31,7 @@ As an undergraduate or graduate student, you can become involved in the Open Dig
 
 Become an [IronHacker](https://ironhacks.com)     
 
-Get involved in classes or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure) 
+Get involved by [taking classes](/courses) or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure) 
 
 ---
 ### Research Fellows 
