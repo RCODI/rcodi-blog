@@ -1,21 +1,17 @@
 ---
 title: Open Source Software practices
 summary: ""
-authors: []
+authors: [Satyam Mukherjee, Sabine Brunswicker]
 post_date_gmt:
 date: 2010-07-09 22:24:08
 categories:
   - experiments
-tags:
-  - design-theory
-  - network-science
-  - open-innovation
-  - Current
+tags: [Current]
 #creator: jealdana
 #external_link: ""
 
 image:
-  caption: "![](/assets/media/OSS-graph.jpg)"
+  caption: "(/OSS-graph.jpg)"
   focal_point: ""
   preview_only: false
 
