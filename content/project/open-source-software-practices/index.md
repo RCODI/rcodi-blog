@@ -2,11 +2,11 @@
 title: Open Source Software practices
 summary: ""
 authors: [Satyam Mukherjee, Sabine Brunswicker]
+tags: [Current]
 post_date_gmt:
 date: 2010-07-09 22:24:08
 categories:
   - experiments
-tags: [Current]
 #creator: jealdana
 #external_link: ""
 
