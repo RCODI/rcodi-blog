@@ -12,7 +12,7 @@ subtitle: ''
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: Get involved as student
-  description: Learn more here
+  description: Learn more [here](/get-involved)
   icon: school
   icon_pack: fas
 - name: Join our projects as a researcher
