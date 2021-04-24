@@ -26,6 +26,9 @@ url_video: ""
 
 slides: ""
 ---
+
+![](./OSS-graph.jpg)
+
 The study aims to understand how Open Source Software practices are evolving by focusing on studying a prominent community 'OpenStack' that is effectively using the latest practices.
 
 ### Open Source Software practices
