@@ -11,16 +11,16 @@ subtitle: ''
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: Participate in Open Innovation
-  # description:  [Learn more](/education)
+- name: Get involved as student
+  description: Learn more [here](/get-involved)
   icon: school
   icon_pack: fas
-- name: Join the RCODI team
+- name: Join our projects as a researcher
   # description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
   icon: graduation-cap
   icon_pack: fas
-- name: Partner with RCODI
-  # description: We are seeking talent to join the team and industry partners to create business value and offer new frontiers of knowledge.
+- name: Partner with RCODI as a business/professional
+  #description: 
   icon: seedling
   icon_pack: fas
 

@@ -1,6 +1,7 @@
 ---
 title: "Music Challenge for Social Change"
 summary: ""
+authors: [Shatayu Kulkarni, Sabine Brunswicker]
 date: "2020-02-09T18:24:12"
 date_gmt: "2020-02-09T18:24:12"
 modified: "2020-02-18T17:24:41"
@@ -10,7 +11,7 @@ tags: [Concluded]
 categories:
   - experiments
 
-#creator: jealdana
+creator:  sabine
 #external_link: ""
 image:
   caption: ""

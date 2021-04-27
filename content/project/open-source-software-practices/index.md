@@ -1,21 +1,17 @@
 ---
 title: Open Source Software practices
 summary: ""
-authors: []
+authors: [Satyam Mukherjee, Sabine Brunswicker]
+tags: [Current]
 post_date_gmt:
 date: 2010-07-09 22:24:08
 categories:
   - experiments
-tags:
-  - design-theory
-  - network-science
-  - open-innovation
-  - Concluded
 #creator: jealdana
 #external_link: ""
 
 image:
-  caption: ""
+  caption: "(/OSS-graph.jpg)"
   focal_point: ""
   preview_only: false
 
@@ -26,9 +22,12 @@ url_video: ""
 
 slides: ""
 ---
+
+![](./OSS-graph.jpg)
+
 The study aims to understand how Open Source Software practices are evolving by focusing on studying a prominent community 'OpenStack' that is effectively using the latest practices.
 
-### Open Source Software practices
+### Modeling Complex Open Source Software Structures as Networks
 
 Reflecting the commitment to foster and build Open Source Software practices, Red Hat Inc. sponsors a two-year Red Hat fellowship for Discovery Park's Research Center for Open Digital Innovation (RCODI).
 

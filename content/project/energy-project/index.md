@@ -14,7 +14,7 @@ featured_media: "0"
 menu_order: "0"
 cover: "./Product-1-demo-app.jpg"
 tags:
-  - Concluded
+  - Current
   - Deep Learning
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
