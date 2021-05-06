@@ -1,6 +1,8 @@
 ---
 title: 'We need you to hack COVID 2.0'
-date: 2021-05-05
+date: 2021-05-06
+tags:
+  - IronHacks
 ---
 
 #### The day you've been waiting for is here – the Spring and Summer IronHacks Data Science Challenge is live, and society needs your help. 
