@@ -28,7 +28,7 @@ item:
   - title: Interested in making a difference during COVID-19?
     content: '[Sign up to hack for social change](https://ironhacks.com).'
     align: right
-    overlay_img: slide-get-in-touch.png
+    overlay_img: slide-get-in-touch.jpg
     overlay_filter: 0.75
 advanced:
   css_style: ''
