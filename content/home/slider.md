@@ -25,11 +25,11 @@ item:
     align: center
     overlay_img: slide-challenges.jpg
     overlay_filter: 0.5
-  - title: Interested in joining our team?
-    content: '[Get in touch](mailto:opendigital@purdue.edu).'
+  - title: Interested in hacking for social good?
+    content: '[Sign up to hack for social change](https://ironhacks.com).'
     align: right
-    overlay_img: slide-get-in-touch.jpg
-    overlay_filter: 0.5
+    overlay_img: slide-get-in-touch.png
+    overlay_filter: 0.75
 advanced:
   css_style: ''
   css_class: 'home-slider'
