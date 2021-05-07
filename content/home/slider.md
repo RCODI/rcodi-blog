@@ -25,7 +25,7 @@ item:
     align: center
     overlay_img: slide-challenges.jpg
     overlay_filter: 0.5
-  - title: Interested in hacking for social good?
+  - title: Interested in making a difference during COVID-19?
     content: '[Sign up to hack for social change](https://ironhacks.com).'
     align: right
     overlay_img: slide-get-in-touch.png
