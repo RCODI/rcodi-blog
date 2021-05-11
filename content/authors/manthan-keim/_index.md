@@ -2,14 +2,10 @@
 title: Manthan Keim
 role: Fellow
 authors: manthan-keim
----
-
 interests:
   - Data Mining
   - Software Engineering
   - Back End Development
-  - 
-
 social:
   - icon: twitter
     icon_pack: fab
@@ -23,7 +19,6 @@ social:
   - icon: portfolio
     icon_pack: fab
     link: Portfolio: http://manthankeim.me
-
 user_groups:
   - Fellows
 ---
