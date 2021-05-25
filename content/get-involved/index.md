@@ -56,7 +56,7 @@ If you are interested in being a partner of RCODI's IronHacks, contact us for mo
 
 ---
 ### Award Sponsor 
-If you are interested in being an Award Sponsor for RCODI's IronHacks, you can mail your contribution (made payable to Purdue Foundation) to the address below. 
+If you are interested in being an Award Sponsor for RCODI's IronHacks, you can mail your contribution (made payable to Purdue Foundation) [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073).
 
 ---
 ### Keynote Speaking 

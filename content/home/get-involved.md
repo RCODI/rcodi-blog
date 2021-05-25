@@ -23,6 +23,10 @@ feature:
   #description: 
   icon: seedling
   icon_pack: fas
+- name: Donate
+  description: Donate [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073)
+  icon: seedling
+  icon_pack: fas
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
