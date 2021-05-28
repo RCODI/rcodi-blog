@@ -1,21 +1,12 @@
 ---
-post_id: "6600"
-post_name: best-paper-award-AOM
+
+title: 'AOM Best Paper Award 2021-Brunswicker-Mukjerhee'
 tags:
   - Open Source
   - Research
-status: publish
-title: AOM Best Paper Award 2021-Brunswicker-Mukjerhee
 creator: Sabine
-is_sticky: "0"
-link: https://rcodi.org/new-edsurge-podcast-series-features-rcodi-director/
-menu_order: "0"
-#post_date_gmt: 2021-05-27 
-#post_date: 2021-05-27
-post_parent: "0"
-post_type: post
+date: 2021-05-06
 
-draft:false
 ---
 
 
