@@ -1,11 +1,11 @@
 ---
 
-title: 'AOM Best Paper Award 2021-Brunswicker-Mukjerhee'
+title: 'AOM Best Paper Proceedings for RCODI'
 tags:
   - Open Source
   - Research
 creator: Sabine
-date: 2021-05-06
+date: 2021-05-27
 
 ---
 
