@@ -76,7 +76,7 @@ AI Community
 
 **Novel FACT platform distributed AI with novel human-AI interaction design:**
 
-- Memory engine (Hebbian learning & agent-based simulation
+- Memory engine (Hebbian learning & agent-based simulation)
 - Intelligence engine (generative adversarial networks & agent-based modeling)
 - Human-AI interaction design
 
@@ -92,12 +92,3 @@ AI Community
 - News produced with FACT by citizen journalists
 - Co-authored work with advisory board
 
-## FACT's Team
-
-(http://www.rcodi.org/)),  and an AAAI affiliate. She has been heavily involved with computational social science (agent-based simulation, network dynamics, AI) and social computing, behavioral implications of platforms and algorithmic feedback, "digital nudging", and large scale experiments. She has involved thousands of citizens in the design & evaluations of digital platforms.
-
-**Jia "Jay"** is pursuing Computer Science at Purdue University. She is the little kangaroo living in the pocket of Prof. Sabine Brunswicker &#x2013; the mother kangaroo. Why I say so? She loves to jump in and out of the mother kangaroo's pocket and explores the outside world but will eventually hop back into her pocket at the end of the day. She has been Prof. Sabine's student since her undergraduate freshman years and is a soon-to-be PhD student of the mother kangaroo.
-
-**Dr. Alok Chaturvedi** is a professor in Purdue University's Krannert School of Management and the Department of Computer Sciences  and the Director of the Institute for Social Empowerment through Entrepreneurship and Knowledge (ISEEK) ([https://krannert.purdue.edu/centers/iseek/](https://krannert.purdue.edu/centers/iseek/)). He has developed and applied AI techniques for over 30 years, intensive experience in large scale modeling and distributed AI , agent-based modeling as well as developed AI for the US government and NATO: e.g. the Synthetic Environment for Analysis and Simulation &#x2013; Virtual International System (SEAS-VIS), was deployed in Iraq and Afghanistan to test communication strategies ([https://goo.gl/ETFuVa](https://goo.gl/ETFuVa)).
-
-**Rachael Tan** was the Communications Manager for RCODI. As an undergraduate Computer Engineering student at Purdue, Rachael is also in organizations such as Society for Asian Scientists and Engineers, the Women in Engineering Program, and Asian dance team Variasian. She has a passion for design and journalism.
