@@ -49,7 +49,6 @@
   url = "/our-projects"
   weight = 30
 
-
 # [[main]]
 #   name = "Talks"
 #   url = "#talks"
@@ -60,11 +59,15 @@
   url = "/publication"
   weight = 50
 
-
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Support & Collaboration"
+  url = "/get-involved"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

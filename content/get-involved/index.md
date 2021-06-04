@@ -24,6 +24,10 @@ name: "wp"
 templated: "true"
 ---
 
+###  Donors and Sponsors
+If you are interested in donating towards ROCDI and its endeavors, please fill out this form to contribute [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073)!
+
+---
 
 ### Students
 
