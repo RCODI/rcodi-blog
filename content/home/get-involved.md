@@ -16,10 +16,10 @@ feature:
   icon: school
   icon_pack: fas
 - name: Join our projects as a researcher
-  # description: Our center is interested in collaboration with sharp minds in the field of Open Digital Innovation.  [Learn more](/our-projects)
+  description:[Learn more](/our-projects)
   icon: graduation-cap
   icon_pack: fas
-- name: Donate to RCODI to support projects such as IronHacks
+- name: Donate to RCODI
   description: Donate [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073)
   icon: seedling
   icon_pack: fas
