@@ -36,4 +36,4 @@ This program develops leaders with a global mindset who are prepared to tackle t
 
 ## Ph.D. and Master's Degrees In Open Digital Innovation
 
-The graduate program's mission is two-fold. It aims to educate a new generation of leaders and system designers who are capable of providing new vision and competencies   [**Read more**](https://polytechnic.purdue.edu/degrees/ms-technology-leadership-and-innovation/open-digital-innovation)
+The graduate program's mission is two-fold. It aims to educate a new generation of leaders and system designers who are capable of providing new vision and competencies   [**Read more &#x2026;**](https://polytechnic.purdue.edu/degrees/ms-technology-leadership-and-innovation/open-digital-innovation)
