@@ -16,7 +16,7 @@ feature:
   icon: school
   icon_pack: fas
 - name: Join our projects as a researcher
-  description:[Learn more](/our-projects)
+  description: Learn more [here](/our-projects)
   icon: graduation-cap
   icon_pack: fas
 - name: Donate to RCODI
