@@ -1,11 +1,11 @@
 ---
-title: 'Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills & platform engagement
-image:
-  placement: 3
-  caption: 'Image credit: [**ACM.org**](https://www.acm.org/)'
-pubDate: Mon, 28 Jun 2021 00:00:50 +0000
+title: 'Spotlight Feature: Elkady, Patel, Dr. Brunswicker present about skills & platform engagement'
+subtitle: ""
+summary: ""
+draft: false
+pubDate: 28 Jun 2021 00:00:50 +0000
 post_date_gmt: 2021-06-28 00:00:50
-# creator: jealdana
+# creator: Bryan
 # authors: []
 post_date: 2021-06-28 00:00:50
 date: 2021-06-28T21:32:09.540Z
@@ -13,12 +13,12 @@ lastmod: 2021-06-28T19:06:04-05:00
 #status: publish
 categories:
   - news
-tags: [Collective Intelligence, IronHacks]
+tags: []
 featured: true
-image: featured.jpg
+image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 > RCODI Fellows Mai Elkady, Feny Patel, and RCODI Director Dr. Sabine Brunswicker recently wrote about research on skills and engagement relative to Collective Intelligence. The three were  and were invited to present at the [2021 ACM-CI Conference](https://www.acm-ci2021.com/) to present their findings.
