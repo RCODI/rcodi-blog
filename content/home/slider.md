@@ -15,6 +15,11 @@ height: 80vh
 # Overlay a color or image (optional).
 #   overlay_color: '#000'
 item:
+  - title: Happy New Year!
+    content: 'Did you make a resolution to get involved in scientific research? Get in contact and we can collaborate!'
+    align: right
+    overlay_img: slide-newyear.jpg
+    overlay_filter: 0.5
   - title: Shaping the future of digital innovation.
     content: 'Contributing via [publications](/publication).'
     align: right
