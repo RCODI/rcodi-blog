@@ -15,10 +15,6 @@ categories:
   - news
 tags: [General]
 featured: true
-image: featured.jpg
-  caption: ""
-  focal_point: ""
-  preview_only: false
 ---
 
 > It's a new year, and RCODI is embarking on some exciting new research endeavors. Are you? 
