@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning
-featured: true
+featured: false
 summary: ""
 authors: [Shatayu Kulkarni, Sabine Brunswicker]
 tags: [Current]

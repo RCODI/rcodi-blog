@@ -27,5 +27,4 @@ _[Learn more about RCODI from our About page!](https://rcodi.org/about/)_
 ---
 Interested in partnering or have a question?
 [Email us](mailto:sbrunswi@purdue.edu)
-[Connect with us](https://www.facebook.com/OpenDigitalPurdue/)
 ### [Follow us on Twitter! 🙌](https://twitter.com/purdue_rcodi)
