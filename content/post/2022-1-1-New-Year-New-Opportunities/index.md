@@ -1,5 +1,5 @@
 ---
-title: 'New Year, New Opportunities'
+'title: 'New Year, New Opportunities' # Broke the code here for draft
 image:
   placement: 3
 ##   caption: 'Image credit: [**ACM.org**](https://www.acm.org/)'
@@ -19,7 +19,7 @@ featured: true
 
 > It's a new year, and RCODI is embarking on some exciting new research endeavors. Are you? 
 
- Sab pgh reference
+
 
 
 _[Learn more about RCODI from our About page!](https://rcodi.org/about/)_
