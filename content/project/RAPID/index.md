@@ -13,7 +13,6 @@ image:
 ## url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
 ## slides: ""
 ---
-![featured](https://user-images.githubusercontent.com/74989091/114110737-34a2a700-98a6-11eb-8932-e84b84571cd0.png)
 
 ## RAPID
  is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&D contacts. With government contracting, there are types of parties that are consistently applying and winning contracts. DARPA solicited the general public for a means to address the segmented competition within contracts, with the hopes of engaging more small businesses, opening the narrowly-perceived corridor for defense contract innovation.
