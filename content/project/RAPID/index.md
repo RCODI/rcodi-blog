@@ -1,5 +1,5 @@
 ---
-'title: 'RAPID' # Breaking the code here for draft
+title: 'RAPID' # Breaking the code here for draft
 featured: true
 tags: [Current]
 categories:
@@ -25,18 +25,7 @@ image:
 The SFL:RCODI partnership was offered a Phase I contract through DARPA to conduct research and propsoe a means to identifying factors of engagement and performance for SBIR contracts.
 
 
-
----
-
-
-## Our Impact
-
-The scientific team at Purdue generated new knowledge and technologies on the implications of machine-enabled feedback and transparency on participant's productivity and innovation performance.
-
-Since 2015, thousands of participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.
-
-Participants developed novel and useful open data solutions in an interactive environment. The platform's features helped them continuously improve their submissions while learning from real-time feedback and others participating in the hack. A new virtual movement of hacking has emerged at Purdue and beyond. Participants come from the U.S., Colombia, and China. Virtual setting encourages a more diverse audience.
-
+This project description will be finished within the following week. Stay tuned!
 
 ---
 Interested in partnering or have a question?

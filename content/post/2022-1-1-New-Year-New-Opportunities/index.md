@@ -1,5 +1,5 @@
 ---
-'title: 'New Year, New Opportunities' # Broke the code here for draft
+title: 'New Year, New Opportunities' # Broke the code here for draft
 image:
   placement: 3
 ##   caption: 'Image credit: [**ACM.org**](https://www.acm.org/)'
