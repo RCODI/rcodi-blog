@@ -1,5 +1,5 @@
 ---
-title: RAPID
+title: 'RAPID' # Breaking the code here for draft
 featured: true
 tags: [Current]
 categories:
@@ -13,29 +13,13 @@ image:
 ## url_video: "https://www.youtube.com/watch?v=8YLLXMhtTB4"
 ## slides: ""
 ---
-![featured](https://user-images.githubusercontent.com/74989091/114110737-34a2a700-98a6-11eb-8932-e84b84571cd0.png)
 
 ## RAPID
+ is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&D contacts. With government contracting, there are types of parties that are consistently applying and winning contracts. DARPA solicited the general public for a means to address the segmented competition within contracts, with the hopes of engaging more small businesses, opening the narrowly-perceived corridor for defense contract innovation.
 
- is a partner-project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&D contacts. 
+RCODI and SFL are currently exploring the reasons behind such a limited workforce with the hopes of enabling more small business participation within government contracting.
 
-
-### Phase I
-
-The SFL:RCODI partnership was offered a Phase I contract through DARPA to conduct research and propsoe a means to identifying factors of engagement and performance for SBIR contracts.
-
-
-
----
-
-
-## Our Impact
-
-The scientific team at Purdue generated new knowledge and technologies on the implications of machine-enabled feedback and transparency on participant's productivity and innovation performance.
-
-Since 2015, thousands of participants have hacked in parallel virtually around the globe gaining valuable experience in coding as well as work for the chance to win internships, Amazon gift cards, cool swag, and certificates. In addition to the students participation and learning, IronHacks provide the opportunity to do research on open innovation contest processes.
-
-Participants developed novel and useful open data solutions in an interactive environment. The platform's features helped them continuously improve their submissions while learning from real-time feedback and others participating in the hack. A new virtual movement of hacking has emerged at Purdue and beyond. Participants come from the U.S., Colombia, and China. Virtual setting encourages a more diverse audience.
+The collaboration is currently on-going.
 
 
 ---
