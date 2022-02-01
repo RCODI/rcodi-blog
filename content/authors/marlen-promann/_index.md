@@ -1,6 +1,6 @@
 ---
 title: Marlen Promann
-role: Fellow
+role: Alumni
 authors: marlen-promann
 
 interests:

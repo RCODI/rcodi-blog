@@ -1,6 +1,6 @@
 ---
 title: Feny Patel
-role: Fellow
+role: Alumni
 authors: Feny Patel
 
 interests:

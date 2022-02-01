@@ -1,6 +1,6 @@
 ---
 title: Mai Elkady
-role: Fellow
+role: Alumni
 authors: mai-elkady
 
 interests:
