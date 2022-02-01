@@ -23,6 +23,6 @@ social:
     link: https://www.linkedin.com/in/feny-patel/
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
 Feny is an undergraduate at Purdue studying computer engineering. She is interested in researching machine learning.

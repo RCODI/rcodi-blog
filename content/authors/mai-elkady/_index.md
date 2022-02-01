@@ -20,5 +20,5 @@ social:
     link: https://www.linkedin.com/in/mai-elkady/
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
