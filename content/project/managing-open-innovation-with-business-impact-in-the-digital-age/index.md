@@ -22,7 +22,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-![featured](./acc-logo.png)
+![featured](acc-logo.PNG)
 This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation.
 
 ### **Managing Open Innovation with Business Impact in the Digital Age**

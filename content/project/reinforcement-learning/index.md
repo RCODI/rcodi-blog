@@ -3,12 +3,13 @@ title: Reinforcement Learning
 featured: false
 summary: ""
 authors: [Shatayu Kulkarni, Sabine Brunswicker]
-tags: [Current]
+tags: [Concluded]
 post_date_gmt:
 date: 2018-01-06T04:47:12
 categories:
   - experiments
   - Featured
+tags: [Concluded]
 #creator: jealdana
 #external_link: ""
 

@@ -23,5 +23,3 @@ design:
   columns: 1
   view: 2
 ---
-
-[SEE ALL >](/project)

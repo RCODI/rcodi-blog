@@ -1,7 +1,7 @@
 ---
 title: "Energy Project"
 subtitle: "Commons Game"
-summary: An example of using the in-built project page.
+summary: 
 date: "2018-02-22T02:05:32"
 date_gmt: "2018-02-22T02:05:32"
 #guid: "https://rcodi.org/?page_id=4001"
@@ -9,7 +9,7 @@ modified: "2018-06-10T22:47:34"
 modified_gmt: "2018-06-10T22:47:34"
 authors:
 - "admin"
-- "jay"
+- "Jia Lin Cheoh"
 featured_media: "0"
 menu_order: "0"
 cover: "./Product-1-demo-app.jpg"
