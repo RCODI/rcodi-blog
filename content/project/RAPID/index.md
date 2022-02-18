@@ -1,5 +1,5 @@
 ---
-title: 'RAPID' # Breaking the code here for draft
+title: 'Simulating Performance of DoD Contracts' # Breaking the code here for draft
 featured: true
 tags: [Current]
 categories:
