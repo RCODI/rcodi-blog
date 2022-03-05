@@ -14,16 +14,10 @@ image:
 ## slides: ""
 ---
 
-## RAPID
- is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&D contacts. With government contracting, there are types of parties that are consistently applying and winning contracts. DARPA solicited the general public for a means to address the segmented competition within contracts, with the hopes of engaging more small businesses, opening the narrowly-perceived corridor for defense contract innovation.
-
-RCODI and SFL are currently exploring the reasons behind such a limited workforce with the hopes of enabling more small business participation within government contracting.
+## Simulating Performance of DoD Contracts
+ is a collaborative project where RCODI works alongside Software Factory Labs (SFL) to conduct research concerning engagement and performance of R&D contacts. With government contracting, there are different-sized businesses that typically aply for contracts, and small business enagement can be raised. DARPA solicited for a means to address the lack of small businesses within government contract applicants. RCODI and SFL are currently exploring the reasons behind such a limited workforce with the hopes of enabling more small business participation within government contracting.
 
 The collaboration is currently on-going.
 
 
 ---
-Interested in partnering or have a question?
-[Email us](mailto:sbrunswi@purdue.edu)
-[Connect with us](https://www.facebook.com/OpenDigitalPurdue/)
-### [Follow us on Twitter! 🙌](https://twitter.com/purdue_rcodi)

@@ -44,7 +44,7 @@ slides: ""
 
   
 ## Background
-Researcher Vineet Mohanty is working resolve a number of defects and improve the mean repair time of the interdependices of open-source supply chain software instances. Reduction of repair time and defects will lead to a more efficient supply chain model, with the potential to save a substantial amount of resources within the supply chain industry. 
+Researcher Vineet Mohanty is working resolve a number of defects and improve the mean repair time of the interdependices of open-source supply chain software instances. Reduction of repair time and defects will lead to a more efficient supply chain model, which in turn could save a substantial amount of resources within supply chains. 
 <br>
   
 ## Objective
@@ -74,3 +74,4 @@ The following research milestones are explained in Mohanty's words:
 
 *3. Protect the process*
 > The objective is to obtain actionable insights from the data and network science approach we plan on implementing. It will enable better decision making by having a more informed idea of the software design process and test our model in the field. We make use of cumulative yearly graph generation to investigate and monitor the degree centrality of the highly connected packages as they change over time. 
+
