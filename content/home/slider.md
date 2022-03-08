@@ -20,6 +20,12 @@ item:
     align: right
     overlay_img: slide-innovation.jpg
     overlay_filter: 0.5
+  item:
+  - title: Do you have a passion you'd like to pursue through research?
+    content: 'Consider getting involved with our research center and join a team of passionate, driven individuals all working to benefit the world through research, one project at a time. View [Get Involved](/get-involved) for more information.'
+    align: right
+    overlay_img: slide-newyear.jpg
+    overlay_filter: 0.5
   - title: Hacking data to solve global challenges.
     content: 'Building [IronHacks](/project/ironhacks) to empower data scientists to create change.'
     align: center
