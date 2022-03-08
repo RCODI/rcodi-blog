@@ -34,18 +34,18 @@ Would you like to engage in the effort of exploring open digital innovation? Our
 As an undergraduate or graduate student, you can become involved in the Open Digital Innovation field at RCODI.  
 
 ### Projects to collaborate on
-Select this link to view the projects we are actively working on. If you want to engage with the research center on an ongoing project, follow [this link]() to see what is available and reach out to us [here] with your CV as well as what interests you about the project.
+If you want to engage with the research center on an ongoing project, [browse our active projects]() and send us a cover letter expressing interest in a project and explaining why you might be a good fit to help out. Things to write about include why you are interested in the concept and how you would like to be involved. **You can email us at opendigital at purdue dot edu** with your letter and you will hear back from us shortly!
 
 ### Become an IronHacker 
 Are you interested in data science and would like to use real-world data to make a difference? Join [IronHacks](https://ironhacks.com), our data science challenge platform that refines your skills and solves real problems. 
 
 ### Interested in learning?
-Get involved by [taking classes](/courses) or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure) 
+Get involved by [taking classes](/courses) or [enroll in an Open Digital Innovation degree](https://polytechnic.purdue.edu/degrees/global-digital-innovation-dual-degree/program-structure)   
 
---
+---
 
 ##  Donors and Sponsors
-If you are interested in donating towards ROCDI and its endeavors, please fill out this form to contribute [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073)!
+If you are interested in donating towards ROCDI and its endeavors, please fill out this form to contribute [here](https://connect.purdue.edu/s/givenow?dids=067974&appealcode=18073)!  
 
 ---
 
@@ -54,7 +54,7 @@ We are seeking talent to join the team and industry partners to create business 
 
 Fellowship programs are great opportunities to collaborate and expand areas of research to benefit corporations and industry partners. There are thousands of researchers worldwide that are investigating in different fields related to our center and we are eager to create interdisciplinary research projects with scholars and fellows. 
 
-See what we have open to conduct research with the Center
+See what we have open to conduct research with the Center by browsing our Active Projects widget. If you are interested, please forward your resume and a cover letter expressing interest in an active project (or potentially propogate a project of your own). **You can email us at opendigital at purdue dot edu** with your letter and you will hear back from us shortly!.
 
 If you want to apply as a visiting scholar or fellow to be part of our research areas and contribute of cutting-edge knowledge, please, send us an email [here](mailto:eea8c1ab.groups.purdue.edu@amer.teams.ms) 
 
