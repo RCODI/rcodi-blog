@@ -1,7 +1,7 @@
 ---
 featured: false
 title: Managing Open Innovation with Business Impact in the Digital Age
-summary: ""
+summary: "This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation."
 authors: []
 tags: [Current]
 post_date_gmt:
@@ -22,12 +22,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-![featured](acc-logo.PNG)
-This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation.
+![featured](acc-logo.PNG)  
 
 ### **Managing Open Innovation with Business Impact in the Digital Age**
 
-In collaboration with the Accenture Institute for High Performance (AIHP), we have implemented a series of open innovation (OI) case studies to generate new insights on how large, innovative firms use open innovation to solve their strategic innovation problems. One particular example concluded in 2017 is that of Samsung, and its endeavor to seek IoT prototypes created by communities participating in an open innovatoin challenge. Read about it [here](https://www.accenture.com/t00010101t000000__w__/gb-en/_acnmedia/pdf-43/accenture-open-innovation-at-samsung.pdf). Dr. Brunswicker and 
+In collaboration with the Accenture Institute for High Performance (AIHP), we have implemented a series of open innovation (OI) case studies to generate new insights on how large, innovative firms use open innovation to solve their strategic innovation problems. One particular example concluded in 2017 is that of Samsung, and its endeavor to seek IoT prototypes created by communities participating in an open innovatoin challenge. **Read about it [here](https://www.accenture.com/t00010101t000000__w__/gb-en/_acnmedia/pdf-43/accenture-open-innovation-at-samsung.pdf).** Dr. Brunswicker and 
 
 With the increased digital transformation of many sectors, such problems are increasingly difficult to address. Our preliminary research suggests that one of the keys to running a successful open innovation program is choosing the correct operational mode of open innovation for the business problem at hand. This requires evaluating problem complexity and knowledge uncertainty associated with a business problem.
 
