@@ -20,9 +20,8 @@ item:
     align: right
     overlay_img: slide-innovation.jpg
     overlay_filter: 0.5
-  item:
-  - title: Do you have a passion you'd like to pursue through research?
-    content: 'Consider getting involved with our research center and join a team of passionate, driven individuals all working to benefit the world through research, one project at a time. View [Get Involved](/get-involved) for more information.'
+  - title: Are you passionate about research?
+    content: 'Get involved with RCODI to join a team of driven researchers  working to advance open digital innovation. Visit [Get Involved](/get-involved) for more information.'
     align: right
     overlay_img: slide-newyear.jpg
     overlay_filter: 0.5
