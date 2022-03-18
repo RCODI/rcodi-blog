@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Securing OSS Supply Chain data through Modeling & Analysis"
-summary: "RCODI researcher Vineet Mohanty is engaged in thoroughly examining the interdependencies in open source supply chain software to reduce dependencices"
+title: "Securing OSS Supply Chain Data through Modeling & Analysis"
+summary: "RCODI researcher Vineet Mohanty is engaged in thoroughly examining the interdependencies in open source supply chain software to reduce dependencies"
 authors: [Vineet Mohanty]
 tags: []
 categories:
