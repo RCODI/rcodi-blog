@@ -2,7 +2,7 @@
 title: 'Dr. Brunswicker to panel about bridging art and science'
 tags:
   - News
-draft: false
+draft: true
 date: 2021-10-27
 ---
 
