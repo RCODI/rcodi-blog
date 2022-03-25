@@ -2,7 +2,7 @@
 title: 'Professors Brunswicker and Mukherjee to present Coordination Structures in OSS Development at Bayes Business in London'
 tags:
   - Research
-draft: true
+draft: false
 date: 2021-03-15
 ---
 
