@@ -5,8 +5,8 @@ authors: bryan-jacobs
 
 interests:
   - Abstraction
-  - Accelerating change
   - Logic
+  - Information
  
 social:
   - icon: envelope
@@ -25,4 +25,4 @@ social:
 user_groups:
   - Fellows
 ---
-I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about the advancing use of independent data lakes within industrial settings and the potential implication on laggards.
+I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about complex system automation.

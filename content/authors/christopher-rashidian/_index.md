@@ -1,8 +1,7 @@
 ---
-title: Christopher
-role: Undefined
-authors: christopher-
-active: false
+title: Christopher Rashidian
+role: Fellow
+authors: christopher-rashidian
 interests:
   - ABC
   - XYZ
