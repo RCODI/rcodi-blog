@@ -4,25 +4,16 @@ role: Fellow
 authors: miriam-attal
 
 interests:
-  - Social Media Privacy
-  - Open Innovation
-  - Technology Transfer
+  - Surveillance
+  - Social Media
+  - AI Ethics
 
-social:
-  - icon: envelope
-    icon_pack: fab
-    link: mailto://thompsone948@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ThompsonElizR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ERThompson765
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/elizabeth-thompson-2b921a8/
+## social:
+##  - icon: envelope
+##    icon_pack: fab
+##    link: mailto://thompsone948@gmail.com
 
 user_groups:
   - Fellows
 ---
-XYZABC
+Miriam is receiving her M.S in Communication at the Brian Lamb School of Communication. Her interests revolve around privacy, surveillance, and content moderation on digital platforms. She hopes to use her experience working in libraries, anti-privacy organizations, and research to continue advocating for technology justice.
