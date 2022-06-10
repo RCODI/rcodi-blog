@@ -5,7 +5,6 @@ The purpose of the best practices are to enable those who maintain the website t
 ## POSTS
 * Run post content through a grammar checker.
 * Upon post writing, upload as a _draft_ and have a peer review the content. The intention is to remove easily preventable errors by means of third-party review.
-* 
 
 
 ## PROJECTS
