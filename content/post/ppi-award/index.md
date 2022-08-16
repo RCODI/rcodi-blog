@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "RCODI receives research grant for simulating governance structure imapcts"
+title: "RCODI receives research grant for simulating governance structure impacts"
 subtitle: ""
 summary: ""
 authors: []
