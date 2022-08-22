@@ -30,4 +30,4 @@ postmeta:
     - "0"
 
 ---
-Check out our new IronHack event in association with [platzi.com](http://www.platzi.com/)! This hackathon is a great opportunity to use your creativity to use open data to make something useful and cool. Purdue-Platzi IronHacks is open for everybody. For more information and to sign-up, visit: [ironhacks.com](http://www.ironhacks.com/) Check out the new blogpost from platzi [here](https://platzi.com/blog/ironhacks-2017/)
+Check out our new IronHack event in association with [platzi.com](http://www.platzi.com/)! This hackathon is a great opportunity to use your creativity to use open data to make something useful and cool. Purdue-Platzi IronHacks is open for everybody. For more information and to sign-up, visit: [ironhacks.com](http://www.ironhacks.com/) Check out the new blogpost from Platzi [here](https://platzi.com/blog/ironhacks-2017/)

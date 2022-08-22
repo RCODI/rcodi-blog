@@ -7,7 +7,7 @@ tags:
 
 #### The day you've been waiting for is here – the Spring and Summer IronHacks Data Science Challenge is live, and society needs your help. 
 
-As vaccines are distributed and society is returning to the norm, data scientists seasoned and new are using the IronHacks platform to make an impact in the community by predicting what the foot traffic at COVID hotspots will be over time. While hacking for social cause over the course of two months, top participants have a shot at winning a share of $1,000 in prizes for developing insightful models policymakers can reference to protect communities.
+As vaccines are distributed and society is returning to the norm, data scientists seasoned and new are using the IronHacks platform to make an impact in the community by predicting what the foot traffic at COVID hot-spots will be over time. While hacking for social cause over the course of two months, top participants have a shot at winning a share of $1,000 in prizes for developing insightful models policymakers can reference to protect communities.
 
 **Your challenge:** 
 * Predict which restaurants in Tippecanoe and Marion counties should expect the highest number of visits as COVID-19 restrictions decrease.

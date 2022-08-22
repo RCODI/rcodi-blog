@@ -30,4 +30,4 @@ postmeta:
     - "0"
 
 ---
-Marlen Promann, a Ph.D. candidate at RCODI and our director Dr. Brunswicker will be presenting their latest work on the eco-feedback design in the home energy monitoring context at the Americas Conference on Information Systems (AMCIS) in Boston, MA this August. They will be talking about the affordances current eco-feedback systems grant their users in the residential energy conservation context. AMCIS is a premiere venue for the exchange of ideas on information system and technology research. https://amcis2017.aisnet.org/
+Marlen Promann, a Ph.D. candidate at RCODI and our director Dr. Brunswicker will be presenting their latest work on the eco-feedback design in the home energy monitoring context at the Americas Conference on Information Systems (AMCIS) in Boston, MA this August. They will be talking about the liberties current eco-feedback systems grant their users in the residential energy conservation context. AMCIS is a premiere venue for the exchange of ideas on information system and technology research. https://amcis2017.aisnet.org/
