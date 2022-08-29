@@ -19,7 +19,7 @@ featured: true
 
 > RCODI Fellows Mai Elkady, Feny Patel, and RCODI Director Dr. Sabine Brunswicker recently wrote about research on skills and engagement relative to Collective Intelligence. The three were  and were invited to present at the [2021 ACM-CI Conference](https://www.acm-ci2021.com/) to present their findings.
 
-The paper covers the role of skills and platform engagement within a crowdsourcing platform. The three researchers used data generated from the Purdue IronHacks project. Their methods include using a variety of machine learning models (survival with Kaplan-Meier estimator, K-means & centroids derived from Ward's agglomerative hierarchical clustering) to understand temporal engagement, provile skillsets and engagement, and to build predictive user submission models. 
+The paper covers the role of skills and platform engagement within a crowd-sourcing platform. The three researchers used data generated from the Purdue IronHacks project. Their methods include using a variety of machine learning models (survival with Kaplan-Meier estimator, K-means & centroids derived from Ward's agglomerative hierarchical clustering) to understand temporal engagement, profile skill sets and engagement, and to build predictive user submission models. 
 
 Elkady, Patel, and Dr. Brunswicker will be presenting research on June 29th between 15.00-16.00 Central European Time. Find more about the program [on the ACM-Ci website](https://www.acm-ci2021.com/program).
 

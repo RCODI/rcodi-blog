@@ -38,4 +38,4 @@ postmeta:
 
 ### Our director gives keynote at global open science conference in Vienna on September, 9 2018.
 
-The University Discourse Austria of the Austrian Universities Conference (uniko) creates space for scientific dialogue on socially relevant topics. Open Science is gaining importance in the scientific community through new ways to collect and share data and research results. Especially Citizen Science wins not least methodically in importance. [Read more here](https://uniko.ac.at/aktuelles/veranstaltungen/): [https://uniko.ac.at/aktuelles/veranstaltungen/](https://uniko.ac.at/aktuelles/veranstaltungen/) no-repeat;center top;;
+The University Discourse Austria of the Austrian Universities Conference (UNIKO) creates space for scientific dialogue on socially relevant topics. Open Science is gaining importance in the scientific community through new ways to collect and share data and research results. Especially Citizen Science wins not least methodically in importance. [Read more here](https://uniko.ac.at/aktuelles/veranstaltungen/): [https://uniko.ac.at/aktuelles/veranstaltungen/](https://uniko.ac.at/aktuelles/veranstaltungen/) no-repeat;center top;;

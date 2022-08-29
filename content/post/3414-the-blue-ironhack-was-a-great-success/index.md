@@ -30,7 +30,7 @@ postmeta:
     - "0"
 
 ---
-With many engaged and motivated developers from Purdue University, the Blue IronHacks awards ceremony came to a great conclusion! With a problem that challenged the students to create a mashup that could help West Lafayette citizens in choosing optimal housing based on a number of criteria, the competition was tough but we witnessed a lot of great solutions. Those that really stood out won great prizes in the form of Amazon giftcards and lots of Socrata and RedHat swag! The winners are as follows:
+With many engaged and motivated developers from Purdue University, the Blue IronHacks awards ceremony came to a great conclusion! With a problem that challenged the students to create a mashup that could help West Lafayette citizens in choosing optimal housing based on a number of criteria, the competition was tough but we witnessed a lot of great solutions. Those that really stood out won great prizes in the form of Amazon gift cards and lots of Socrata and RedHat swag! The winners are as follows:
 
 1.  Best Solution: Qing Wei
 2.  Greatest Improvement and Winning Spirit: En-Hsin Peng

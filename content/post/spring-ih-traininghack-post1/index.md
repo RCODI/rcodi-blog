@@ -7,7 +7,7 @@ featured: true
 ---
 
 ## Data science is something everyone should learn about.
-That's why the Spring 2022 IronHacks Data Science Challenge opened up the 2022 Spring Training Hack! It is part of the IronHacks initiative to promote valuable data science education to people across the globe. For the past two years, IronHacks challenges have been focused on COVID-19. This hack is a training hack scheduled to last one week from start to finish. It's geared towards learning and preparing for data science challenges in the future and can provide partiicpants with valuable data visualizaton and data science skills. If you are new to data science, IronHacks is offering an excellent opportunity for you to get hands-on experience with real data.
+That's why the Spring 2022 IronHacks Data Science Challenge opened up the 2022 Spring Training Hack! It is part of the IronHacks initiative to promote valuable data science education to people across the globe. For the past two years, IronHacks challenges have been focused on COVID-19. This hack is a training hack scheduled to last one week from start to finish. It's geared towards learning and preparing for data science challenges in the future and can provide participants with valuable data visualization and data science skills. If you are new to data science, IronHacks is offering an excellent opportunity for you to get hands-on experience with real data.
 
 
 ## About this Hack
@@ -15,9 +15,9 @@ That's why the Spring 2022 IronHacks Data Science Challenge opened up the 2022 S
 
 ## What's the timeline?
 * Registration opened 3/28! Be sure to [sign up on the website.](https://ironhacks.com/)
-* The task is relessed on 4/11.
+* The task is released on 4/11.
 * The first submission is require don 4/13.
 * The second submission is required on 4/15. 
 * Winners are announced on 4/18.
 
-**Are you intereted in participating or learning more?** Register for the IronHacks platform, then be sure to check out the newly released [Spring 2022 Jupyter Notebooks Python Training Hack page.](https://ironhacks.com/hacks/spring-2022---jupyter-notebooks-python-training-hack/register)
+**Are you interested in participating or learning more?** Register for the IronHacks platform, then be sure to check out the newly released [Spring 2022 Jupyter Notebooks Python Training Hack page.](https://ironhacks.com/hacks/spring-2022---jupyter-notebooks-python-training-hack/register)

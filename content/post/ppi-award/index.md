@@ -29,6 +29,6 @@ projects: [RAPID]
 ---
 
 ## Dr. Brunswicker investigates modeling the impact of governance on contractors
-In this month's PPI announcements, it was revealed Dr. Brunswicker was awarded a research grant for simulating the impact of governance structures on small-medium enterprise participation in defense contracting. This research was spurred by Dr. Brunswicker's engagement with the Software Factory Labs, the principal inspector of the RAPID project: a DARPA-funded project engaged in identifiying properties that impact particiupation and performance within defense contracts. 
+In this month's PPI announcements, it was revealed Dr. Brunswicker was awarded a research grant for simulating the impact of governance structures on small-medium enterprise participation in defense contracting. This research was spurred by Dr. Brunswicker's engagement with the Software Factory Labs, the principal inspector of the RAPID project: a DARPA-funded project engaged in identifying properties that impact participation and performance within defense contracts. 
 
 Congratulations, Dr. Brunswicker!

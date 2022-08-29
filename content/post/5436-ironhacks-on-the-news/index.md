@@ -39,5 +39,3 @@ postmeta:
 ### The Purdue Research Center for Open Digital Innovation honored four students from the Universidad Nacional de Colombia (UNAL) for their work in the spring IronHacks competition.
 
 #### Read more about it [here](https://www.purdue.edu/newsroom/releases/2018/Q3/appointments,-honors-and-activities3.html)
-
-no-repeat;center top;;
