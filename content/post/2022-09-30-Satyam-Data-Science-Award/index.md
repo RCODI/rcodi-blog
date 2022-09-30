@@ -1,5 +1,5 @@
 ---
-title: 'New Year, New Opportunities'
+title: 'Professor Satyam Mukherjee won Data Science Award'
 image:
   placement: 3
 pubDate: Sat, 1 Jan 2022 00:00:50 +0000
