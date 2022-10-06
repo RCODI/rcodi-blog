@@ -1,7 +1,7 @@
 # Key information about static website
-The website is built with ![Hugo](https://github.com/gohugoio/hugo), which is the academic template. 
+The website is built with [Hugo](https://github.com/gohugoio/hugo), which is the academic template. 
 
-![Wowchemy](https://wowchemy.com/) is the theme used. 
+[Wowchemy](https://wowchemy.com/) is the theme used. 
 
 - 👉 [**Get Started**](https://wowchemy.com/templates/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
