@@ -19,3 +19,17 @@ The website is built with [Hugo](https://github.com/gohugoio/hugo), which is the
 - [Git LFS](https://packagecloud.io/github/git-lfs/install#bash-deb)
 - [Netlify CLI](npm install netlify-cli -g)
 - [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) - Automatically import publications from BibTeX
+
+## Website specific instructions
+
+**How to write a post**
+
+To create a post, you will need to create a folder with the post name and post date, e.g. `2022-01-01-title-of-post`. In the folder, create an index file, `index.md`. This is the link to the template [here](https://github.com/RCODI/rcodi-blog/blob/master/content/post/README.md). This is the template of an index file. Make sure to use the metadata correctly. 
+
+
+
+
+
+
+
+
