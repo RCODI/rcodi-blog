@@ -1,17 +1,8 @@
 ---
-title: 'Professor Satyam Mukherjee won Data Science Award'
-image:
-  placement: 3
-pubDate: Fri, 30 Sep 2022 00:00:50 +0000
-post_date_gmt: 2022-09-30 00:00:50
-post_date: 2022-09-30 00:00:50
-date: 2022-09-30T21:32:09.540Z
-lastmod: 2022-09-30T19:06:04-05:00
-status: publish
-categories:
-  - news
-tags: [General
-featured: true
+title: 'Prof. Satyam Murkheejee won Data Science Award'
+tags:
+  - Research
+date: 2022-10-06
 ---
 ## RCODI Fellow Professor Satyam Mukherjee was recently honored in the Indian Analytics Magazine
 
