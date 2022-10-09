@@ -30,8 +30,23 @@ Between February and June 2023; negotiable and depending on graduation date.
 **Application Deadline**: Applications are accepted starting July 11, 2022. Application closes on November 1, 2023
 Apply by creating a profile [here](https://purdue.infoready4.com/?_ga=2.41183973.65491694.1664385080-123922525.1663852064#competitionDetail/1877897) 
 
+**Eligibility:**
+* U.S. citizens and permanent residents, who have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences, can apply. Non-U.S. citizens or non-permanent residents can apply only if they are currently in the U.S. AND have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences.* Non-U.S. citizens or non-permanent residents currently residing outside of the U.S. can apply with endorsement from a Purdue Engineering faculty member, if they have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences; however, their applications will only be considered if they are endorsed by the proposed co-advisors. 
+* Applicants with PhDs granted on or after Dec. 31, 2019 will also be considered in cases of childbirth or adoption.
+* U.S. Scholars from underrepresented backgrounds (Black, Native, Latinx, women, LGBTQIA) are encouraged to apply.
+* Note: A candidate's Lillian Gilbreth Postdoctoral Fellowship co-advisor(s) cannot include their PhD thesis advisor(s). 
 
+**Application**
+Application materials include the following items:
 
-Interested or have a question?
-[Email us](mailto:sbrunswi@purdue.edu)
-[Follow us on Twitter! 🙌](https://twitter.com/purdue_rcodi)
+* Cover letter describing how the Gilbreth Fellowship will help the candidate progress toward their goals in Engineering academia.
+* Curriculum Vitae including list of publications.
+* One-page research statement that includes goals and significance of proposed interdisciplinary work and lists potential Purdue engineering faculty members who can be co-advisors.
+* A one-page essay on the candidate’s proposed broader impact through education/outreach/engagement.
+* Three letters of recommendation that include detailed assessments of (a) the candidate’s qualifications and (b) potential for success in academia through scholarly research and broader impact through research/education/engagement. Letters from potential Purdue co-advisors will not be accepted
+* Applications of non-U.S. citizens or non-permanent residents currently residing outside of the U.S. will be internally routed to proposed co-advisors for endorsement before submission to the selection committee for review.
+
+**Interested but questions?**
+[Email us](mailto:sbrunswi@purdue.edu) or [Follow us on Twitter! 🙌](https://twitter.com/purdue_rcodi)
+
+[Download details as PDF](/Lillian-Gillbert-Postdoctoral-FellowFocus-area.pdf)
