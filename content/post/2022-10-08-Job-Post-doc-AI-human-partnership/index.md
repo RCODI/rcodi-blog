@@ -5,10 +5,9 @@ tags:
   - Jobs
 date: 2022-10-08
 ---
-## Apply for Post-doctoral Fellowship in AI-human partnership and human-robot modeling in emergency response: Deadline November 1, 2023
+### Post-doctoral Fellowship AI & Human Partnership in Emergency Response: Apply by November 1! 
 
-RCODI and its collaborators at Purdue are looking for outstanding candidates for the [Gilbreth Postdoctoral Fellowships at Purdue](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about) in the area of **AI and Human Parternership Modeling in Emergency Response**.The fellowship is awarded in memory of Dr. Lillian Moller Gilbreth, Professor at Purdue from 1935-1948 and a world-renowned pioneer in the application of psychology to industrial engineering. 
-Position topic: AI and Human Partnership Modeling in Emergency Dispatch
+RCODI and its collaborators at Purdue are looking for outstanding candidates for the [Gilbreth Postdoctoral Fellowships at Purdue](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about) in the area of [AI and Human Parternership Modeling in Emergency Response](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships/ResearchProposals/2023-24/ai-and-human-partnership-modeling-for-emergency-dispatch).The fellowship is awarded in memory of Dr. Lillian Moller Gilbreth, Professor at Purdue from 1935-1948 and a world-renowned pioneer in the application of psychology to industrial engineering. 
 
 **Description**:
 When emergencies like wildfires or hurricanes happen, fast and targeted responses with dispatching and relocation of rescue teams, helicopters, or UVAs are needed. New emergency response technologies make use of advancements in AI (including ML and autonomous systems) to increase the success of targeted dispatching. Meanwhile, with the ability to trace emergency-related data at scale, digital twins offer new ways to prepare for future emergency responses in the “virtual” but “very real” representation of distinct emergency response systems. However, given the complex socio-technical nature and social dynamics in emergency response decision-making, it is important to consider the “human-in-the-loop” and optimize the collaboration between AI and humans. This post-doctoral interdisciplinary research project aims to develop new theories, models, and technologies that advance science on modeling human-in-the-loop AI and translate it into emergency response practice. The project team will advance existing emergency response systems with the help of AI/ML and digital twin technologies, and perform large-scale AI-human partnership experiments with the goal to optimize the decisions of humans in partnership with AI-decision support considering human biases, cognitive limitations, and social dynamics. The research will be performed in collaboration with industry partners and citizens. RCODI is particularly interested in recruiting candidates with a background in computational social science and an interest in UVAs and unmanned aviation for humanitarian aid and disaster management (e.g. firefighting). 
@@ -27,8 +26,7 @@ The ideal candidate holds a PhD in areas such as Computer Science, Computational
 **Start date**: 
 Between February and June 2023; negotiable and depending on graduation date.  
 
-**Application Deadline**: Applications are accepted starting July 11, 2022. Application closes on November 1, 2023
-Apply by creating a profile [here](https://purdue.infoready4.com/?_ga=2.41183973.65491694.1664385080-123922525.1663852064#competitionDetail/1877897) 
+**Application Deadline**: Applications are accepted starting July 11, 2022. Application closes on November 1, 2023. Apply by creating a profile [here](https://purdue.infoready4.com/?_ga=2.41183973.65491694.1664385080-123922525.1663852064#competitionDetail/1877897). You find more details on the prestigous fellowship program [here](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about)
 
 **Eligibility:**
 * U.S. citizens and permanent residents, who have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences, can apply. Non-U.S. citizens or non-permanent residents can apply only if they are currently in the U.S. AND have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences.* Non-U.S. citizens or non-permanent residents currently residing outside of the U.S. can apply with endorsement from a Purdue Engineering faculty member, if they have either completed their PhD on or after Dec. 31, 2020, or are in the final year of their PhD program in engineering or related sciences; however, their applications will only be considered if they are endorsed by the proposed co-advisors. 
@@ -49,4 +47,4 @@ Application materials include the following items:
 **Interested but questions?**
 [Email us](mailto:sbrunswi@purdue.edu) or [Follow us on Twitter! 🙌](https://twitter.com/purdue_rcodi)
 
-[Download details as PDF](/Lillian-Gillbert-Postdoctoral-FellowFocus-area.pdf)
+
