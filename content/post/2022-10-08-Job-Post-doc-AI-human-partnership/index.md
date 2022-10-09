@@ -1,11 +1,11 @@
 ---
-title: 'Prestigious Postdoctoral Fellowship at RCODI on AI-human partnership in emergency response '
+title: 'Prestigious Postdoctoral Fellowship in the Area of AI-Human Partnership in Emergency Response'
 tags:
   - Research
   - Jobs
 date: 2022-10-08
 ---
-### Post-doctoral Fellowship AI & Human Partnership in Emergency Response: Apply by November 1! 
+### Postdoctoral Fellowship AI & Human Partnership in Emergency Response: Apply by November 1! 
 
 RCODI and its collaborators at Purdue are looking for outstanding candidates for the [Gilbreth Postdoctoral Fellowships at Purdue](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#about) in the area of [AI and Human Parternership Modeling in Emergency Response](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships/ResearchProposals/2023-24/ai-and-human-partnership-modeling-for-emergency-dispatch).The fellowship is awarded in memory of Dr. Lillian Moller Gilbreth, Professor at Purdue from 1935-1948 and a world-renowned pioneer in the application of psychology to industrial engineering. 
 
