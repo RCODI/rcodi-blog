@@ -13,4 +13,4 @@ type: "page"
 ---
 ![](./VennDiagramsforRCODI-03v4-NEW-8-8-18.png)
 
-Our research group aspires to bring together a network of talented thinkers and thought leaders studying and shaping the revolution of Open Digital Innovation by tacking fundamental research questions related to it in interdisciplinary, sociology-technical, and empirical research projects. We follow an ambitious research agenda and aim to inform both academics and practitioners.
+Our research group aspires to bring together a network of talented thinkers and thought leaders studying and shaping the revolution of Open Digital Innovation by tacking fundamental research questions related to it in interdisciplinary, sociology-technical, and empirical research projects. We follow an ambitious research agenda and aim to inform both academics and practitioners
