@@ -32,10 +32,12 @@ To create a post,
 
 **How to create a page not visible on navigation bar**
 
+**How to update Publications site with .bib file**
 
+1. Export BiBTex file from Zotero, and import it into the rcodi-blog directory.
+2. Install academic library if you haven't installed it first from command - pip3 install -U academic
+3. Process the bibtex file from command - academic import --bibtex publications.bib
+4. You will see new publications created in the content/publication directory.
+5. Commit new changes and push.
 
-
-
-
-
-
+More information can be found [here]((https://wowchemy.com/docs/content/publications/)).
