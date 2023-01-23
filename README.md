@@ -40,4 +40,4 @@ To create a post,
 4. You will see new publications created in the content/publication directory.
 5. Commit new changes and push.
 
-More information can be found [here]([url](https://wowchemy.com/docs/content/publications/))
+More information can be found [here](https://wowchemy.com/docs/content/publications/)
