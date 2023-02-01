@@ -7,11 +7,13 @@ date: 2023-01-30
 ---
 ## Windracers Chairman - Stephen Wright’s visit to Purdue University
 
+![Windracers](rm-1.jpg)
+
 Stephen Wright had his first executive visit to Purdue University on January 23rd & 24th in the welcome of RCODI Director - Sabine Brunswicker and research collaborators from other departments at Purdue.
 
 To briefly introduce Windracers, the company aims to simplify the delivery of essential items through the use of cost-effective and highly efficient air transportation. The autonomous ULTRA UAV (unmanned aerial vehicle) whose carrying capacity is up to 100kg to over 1000km has proven to operate seamlessly even during harsh weather. Windracers is currently partnered with the Royal Mail Group to develop un-crewed drone services in delivering parcels to remote locations across the UK.
 
-In this two-day visit, Windracers & Purdue faculty members had great discussions meteorology and hurricane tracking. In-person visits to Purdue facilities such as the UAS Research & Test Facility (PURT), Saab Facility, factory tours were insightful. Windracers' technological advancements are pioneering new approaches to solve logistical problems and we are looking forward to opportunities to collaborate with Windracers for further research on discussed matters about UAVs.
+In this two-day visit, Windracers & Purdue faculty members had great discussions on meteorology and hurricane tracking. In-person visits to Purdue facilities such as the UAS Research & Test Facility (PURT), Saab Facility, factory tours were insightful. Windracers' technological advancements are pioneering new approaches to solve logistical problems and we are looking forward to opportunities to collaborate with Windracers for further research on discussed matters about UAVs.
 
 To learn more about Windracers, click [here](https://windracers.org/).
 
