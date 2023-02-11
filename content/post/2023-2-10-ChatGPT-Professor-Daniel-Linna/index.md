@@ -1,5 +1,5 @@
 ---
-title: 'Decoding ChatGPT: A Conversation with Professor Daniel Linna on its Functionalities on WGN Radio'
+title: 'Decoding ChatGPT - A Conversation with Professor Daniel Linna on its Functionalities on WGN Radio'
 tags:
   - Research
 date: 2023-02-10
