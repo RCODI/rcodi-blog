@@ -4,12 +4,12 @@ authors: [Sahithi Kasim]
 categories:
   - Research & Development
   - Featured
+date: 2023-03-17T23:00:59-10:00
 image:
 url_code: "https://github.com/opendigital/guac-alytics"
 url_pdf: ""
 url_slides: ""
 url_video: ""
-date: 2023-03-17 23:00:59 -1000
 slides: ""
 ---
 
