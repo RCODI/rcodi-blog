@@ -31,4 +31,8 @@ Using the acquired data, we are constructing various models to visualize and ass
 
 The use of network science methods in software supply chain security is an innovative approach that can revolutionize how organizations detect and prevent software supply chain vulnerabilities. By leveraging the power of data analytics and visualization, we aims to provide organizations with a new toolset to enhance their security posture and protect their systems from sophisticated cyber threats.
 
-The results are still under way.
+![](./out-degree.png)
+
+Based on our initial findings (from above figure), we have identified that kernel builds are the most interconnected in our dataset. Furthermore, we have observed that specific versions of these kernel builds are used more frequently than others. We were surprised to see that these kernel builds were reported as "all" architectures, and we will need to investigate further to understand why this is the case.
+
+Our analysis also suggests that based on the out-degree metric, these highly connected kernel builds pose a higher risk. Therefore, it will be vital for us to focus our attention on understanding these kernel builds in more detail and assessing any potential vulnerabilities or security risks associated with them. These preliminary results highlight the importance of conducting thorough analyses of interconnected systems to identify potential risks and inform effective risk management strategies.
