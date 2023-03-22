@@ -23,6 +23,6 @@ social:
     link: https://www.linkedin.com/in/elizabeth-thompson-2b921a8/
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
 XYZABC
