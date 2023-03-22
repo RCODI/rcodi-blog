@@ -1,6 +1,6 @@
 ---
 title: Alejandro Rodriguez de Jesus
-role: Fellow
+role: Alumni
 authors: alejandro-rodriguez-de-jesus
 
 interests:
