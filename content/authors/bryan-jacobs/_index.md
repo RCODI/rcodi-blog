@@ -1,6 +1,6 @@
 ---
 title: Bryan Jacobs
-role: Fellow
+role: Alumni
 authors: bryan-jacobs
 
 interests:
@@ -23,6 +23,6 @@ social:
     link: https://www.linkedin.com/in/bryanhj
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
 I'm a senior at Purdue majoring transdisciplinary studies in technology and unmanned aerial systems. I'm currently learning about complex system automation.
