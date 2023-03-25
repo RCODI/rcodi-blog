@@ -1,6 +1,6 @@
 ---
 title: Iryna Ashby
-role: Fellow
+role: Alumni
 authors: iryna-ashby
 
 interests:
@@ -17,6 +17,6 @@ social:
     link: https://www.linkedin.com/in/irynaashby/
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
 My research interests include competency-based education, competency design and assessment, interdisciplinarity in education, and how to improve online learning experience in instructor-led and self-paced courses.
