@@ -4,6 +4,13 @@ subtitle: ""
 weight: 20
 ---
 
+<img src="https://github.com/RCODI/rcodi-blog/blob/master/content/authors/santiago-torres-arias/avatar.png?raw=true"  width="150" height="150">
+**[Santiago Torres Arias](https://badhomb.re/)** 
+Santiago is an Assistant Professor at Purdue's Electrical and Computer Engineering Department. His interests include binary analysis, cryptography, operating systems, and security-oriented software engineering. His current research focuses on securing the software development lifecycle, password storage mechanisms, and update systems. Santiago is a member of the Arch Linux security team and has contributed patches to F/OSS projects on various degrees of scale, including Git, the Linux Kernel, Reproducible Builds, NeoMutt, and the Briar project. Santiago is also the lead of the in-toto and Sigstore projects.
+
+
+---
+
 ![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png) <br>
 **[Esteve Almirall](http://estevealmirall.com/)** 
 Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations.
