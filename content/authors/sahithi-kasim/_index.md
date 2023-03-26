@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/sahithikasim/
 
 user_groups:
-  - Fellow
+  - Fellows
 ---
 
 Sahithi is a master's student majoring in Information Security. She is passionate about the intersection of software security and data science. She has completed her bachelor's in Computer Science and Engineering. She has worked on several Machine Learning projects, including Darknet Traffic Classification System, Rice Leaf Disease Detection and many more.
