@@ -1,5 +1,5 @@
 ---
-title: GUAC-ALYTICS
+title: GUAC-ALYTICS: Increasing Transparency of Open Source Software Supply-Chains with Network Analytics and AI/ML
 authors: [Sabine Brunswicker, Santiago Torres Arias, Sahithi Kasim]
 categories:
   - Research & Development
@@ -7,21 +7,22 @@ categories:
 date: 2023-03-17T11:00:59-10:00
 image:
 url_code: "https://github.com/TSELab/guac-alytics"
-url_pdf: ""
+url_pdf: "" #Do we also have a PDF to upload
 url_slides: ""
-url_video: ""
+url_video: "" 
 slides: ""
 ---
 
 ![](./guac-1.jpeg)
-## Introduction
+## What's GUAC-ALYTICS? 
+This research project aims to increase increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. 
 An open source is software whose source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development.
 
 However, like any other software, open-source packages can contain vulnerabilities that attackers can exploit. Vulnerabilities are weaknesses or flaws in software or hardware systems that attackers can use to gain unauthorized access or control over the system. Vulnerabilities can be introduced during the development process or added by third-party dependencies. These vulnerabilities can pose severe risks to software systems, ranging from data breaches to system failures. Therefore, it is essential to manage and monitor open-source software and packages for vulnerabilities (Zapata et al., 2018; Duan, 2020) and take necessary measures to mitigate potential risks.
 
 In cyber-security, a security compromise (IQTLabs, n.d.) refers to a violation of security expectations in a software product that causes harm to its users. These violations may be caused by various actions (or inactions) that include operator misbehaviour (e.g., insider threats), operator negligence and outsider threats (e.g., a malicious hacker exploiting a security vulnerability). The security expectations are confidentiality (or privacy), integrity, and availability of computer software and services. 
 
-## Motivation
+## Why GUAC-ALYTICS of OSS
 ![](./dependency.png)
 The Open Source Software (OSS) supply chain (Mair, 2022) has become an essential part of the software development process, enabling organizations to reduce development time and costs by reusing and integrating packages from different OSS products. However, this approach has also increased the risk of security vulnerabilities and software attacks compromising the confidentiality, integrity, and availability of sensitive data and system operations. In addition, because OSS is often developed and maintained by a large community of contributors like Debian (Debian -- the Universal Operating System, 2022b), it is challenging to identify and patch vulnerabilities promptly and effectively. Moreover, OSS often relies on third-party libraries and components (Ohm et al., 2020), which can introduce additional vulnerabilities. The OSS supply-chain network graph above subsumes multiple direct and indirect dependencies between packages, often hidden for the individual developer working on different chain parts. Therefore, it is critical to understand the interdependencies and potential vulnerabilities introduced by such dependencies to ensure the overall security of the software.
 
