@@ -15,7 +15,7 @@ slides: ""
 
 ![](./guac-1.jpeg)
 ## What's GUAC-ALYTICS? 
-This research project aims to increase increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. 
+This research project aims to increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. 
 An open source is software whose source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development.
 
 However, like any other software, open-source packages can contain vulnerabilities that attackers can exploit. Vulnerabilities are weaknesses or flaws in software or hardware systems that attackers can use to gain unauthorized access or control over the system. Vulnerabilities can be introduced during the development process or added by third-party dependencies. These vulnerabilities can pose severe risks to software systems, ranging from data breaches to system failures. Therefore, it is essential to manage and monitor open-source software and packages for vulnerabilities (Zapata et al., 2018; Duan, 2020) and take necessary measures to mitigate potential risks.
@@ -25,7 +25,7 @@ In cyber-security, a security compromise (MITRE ATT&CK®, n.d.) refers to a viol
 ## Why GUAC-ALYTICS of OSS
 Open Source Software (OSS) (Mair, 2022) has become an essential part of the software development process, enabling organizations to reduce development time and costs by reusing and integrating packages from different OSS products. However, recent studies have revealed that around 80% of software contains OSS components, increasing the risks associated with OSS supply chain interdependencies. In addition, while this approach offers significant benefits, it has also raised concerns about security vulnerabilities and software attacks that could compromise sensitive data and system operations.
 
-![](./dependency.png)
+![](./network-supply-chain.png)
 One of the most significant challenges of OSS development is the large community of contributors like Debian (Debian – the Universal Operating System, 2022b) involved in maintaining it, which makes it challenging to identify and patch vulnerabilities promptly and effectively. Furthermore, OSS often relies on third-party libraries and components (Ohm et al., 2020), which can introduce additional vulnerabilities. The OSS supply-chain network graph above represents multiple dependencies between packages, making it difficult for individual developers to understand the interdependencies and potential vulnerabilities introduced by such dependencies.
 
 The SolarWinds hack (Jena, 2023) is one example of the risks associated with OSS-related security incidents (IQTLabs, n.d.). This attack exploited vulnerabilities in the software supply chain to infiltrate multiple government agencies and private companies. Therefore, it is critical to understand the interdependencies and potential risks introduced by such dependencies to ensure the overall security of the software.
