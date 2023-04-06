@@ -15,7 +15,8 @@ slides: ""
 
 ![](./guac-1.jpeg)
 ## What's GUAC-ALYTICS? 
-This research project aims to increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. 
+This research project aims to increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. **Guac-alytics** (Graph for Understanding Artifact Composition Analytics) (n.d.) is a collection of tools and resources designed to help researchers and practitioners better understand the risk profile of open-source software ecosystems.
+
 An open source is software whose source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development.
 
 However, like any other software, open-source packages can contain vulnerabilities that attackers can exploit. Vulnerabilities are weaknesses or flaws in software or hardware systems that attackers can use to gain unauthorized access or control over the system. Vulnerabilities can be introduced during the development process or added by third-party dependencies. These vulnerabilities can pose severe risks to software systems, ranging from data breaches to system failures. Therefore, it is essential to manage and monitor open-source software and packages for vulnerabilities (Zapata et al., 2018; Duan, 2020) and take necessary measures to mitigate potential risks.
@@ -26,6 +27,7 @@ In cyber-security, a security compromise (MITRE ATT&CK®, n.d.) refers to a viol
 Open Source Software (OSS) (Mair, 2022) has become an essential part of the software development process, enabling organizations to reduce development time and costs by reusing and integrating packages from different OSS products. However, recent studies have revealed that around 80% of software contains OSS components, increasing the risks associated with OSS supply chain interdependencies. In addition, while this approach offers significant benefits, it has also raised concerns about security vulnerabilities and software attacks that could compromise sensitive data and system operations.
 
 ![](./network-supply-chain.png)
+
 One of the most significant challenges of OSS development is the large community of contributors like Debian (Debian – the Universal Operating System, 2022b) involved in maintaining it, which makes it challenging to identify and patch vulnerabilities promptly and effectively. Furthermore, OSS often relies on third-party libraries and components (Ohm et al., 2020), which can introduce additional vulnerabilities. The OSS supply-chain network graph above represents multiple dependencies between packages, making it difficult for individual developers to understand the interdependencies and potential vulnerabilities introduced by such dependencies.
 
 The SolarWinds hack (Jena, 2023) is one example of the risks associated with OSS-related security incidents (IQTLabs, n.d.). This attack exploited vulnerabilities in the software supply chain to infiltrate multiple government agencies and private companies. Therefore, it is critical to understand the interdependencies and potential risks introduced by such dependencies to ensure the overall security of the software.
@@ -38,7 +40,7 @@ Using network science methods (Izenman, 2023) in software supply chain security 
 Using the acquired data, we construct various models to visualize and assess the risks associated with software supply chain susceptibilities. These models help identify potential weaknesses and interdependencies in the supply chain, enabling organizations to mitigate the risks proactively. In addition, using network science methods, we are trying to identify patterns and anomalies in the data that are difficult to detect using traditional security techniques.
 
 ## Preliminary Results
-![](./out-deg.png)
+![](./top-20.png)
 Based on our initial findings, we have identified that kernel builds (Wikipedia contributors, 2023) are the most interconnected in our dataset. Furthermore, we have observed that specific versions of these kernel builds are used more frequently than others. We were surprised to see older versions with higher connectivity and different processor architectures (e.g., MIPS - processor of routers, set-up boxes) more connected than others, such as x86_64 (architecture of Intel's 64-bit CPUs) or ARM (architecture of Apple's chip).
 
 Our analysis also suggests that this highly connected kernel builds pose a higher risk based on the out-degree metric (Node Degree Definition - Math Insight, n.d.). Therefore, it will be vital for us to focus our attention on understanding these kernel builds in more detail and assessing any potential vulnerabilities or security risks associated with them. These preliminary results highlight the importance of conducting thorough analyses of interconnected systems to identify potential risks and inform effective risk management strategies.
@@ -51,6 +53,7 @@ The broader impact of this research is mainly on software engineering and cyber 
 ## References and Citations
 
 - MITRE ATT&CK®. (n.d.). https://attack.mitre.org/
+- G. (n.d.). GitHub - guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database. GitHub. https://github.com/guacsec/guac
 - Node degree definition - Math Insight. (n.d.). https://mathinsight.org/definition/node_degree
 - Mair, D. (2022, November 21). Understanding open source software supply chain risks. https://www.redhat.com/en/blog/understanding-open-source-software-supply-chain-risks
 - Jena, B. K. (2023, February 28). SolarWinds Attack And All The Details You Need To Know About It. Simplilearn.com. https://www.simplilearn.com/tutorials/cryptography-tutorial/all-about-solarwinds-attack
