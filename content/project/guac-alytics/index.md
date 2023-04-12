@@ -15,7 +15,13 @@ slides: ""
 
 ![](./guac-1.jpeg)
 ## What's GUAC-ALYTICS? 
-This research project aims to increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. **Guac-alytics** (Graph for Understanding Artifact Composition Analytics) (n.d.) is a collection of tools and resources designed to help researchers and practitioners better understand the risk profile of open-source software ecosystems.
+Software supply chain attacks are an increasingly-worrying risk for both open source and closed source software.
+According to estimates, millions of dollars are lost every year to this attack vector (n.d.,).
+The reason these attacks take place is due to the lack of visibility into what software used and how it moves throughout the software supply chain.
+In other words, there is a dire need to *study and model software supply chain security risks*.
+
+This research project aims to increase the transparency about Complex Open Source Software Supply-Chains using theories and models of network science and machine learning. **Guac-alytics** builds on top of the [GUAC project](https://www.youtube.com/watch?v=xFRNgIEzbkA) (Graph for Understanding Artifact Composition) in collaboration with Google and Kusari (n.d.).
+Guac-alytics is a collection of tools and resources designed to help researchers and practitioners better understand the risk profile of open-source software ecosystems.
 
 An open source is software whose source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development.
 
