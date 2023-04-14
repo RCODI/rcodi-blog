@@ -16,7 +16,7 @@ slides: ""
 ![](./guac-1.jpeg)
 ## What's GUAC-ALYTICS? 
 Software supply chain attacks are an increasingly-worrying risk for both open source and closed source software.
-According to estimates, millions of dollars are lost every year to this attack vector (n.d.,).
+According to estimates, millions of dollars are lost every year to this attack vector (n.d.).
 The reason these attacks take place is due to the lack of visibility into what software used and how it moves throughout the software supply chain.
 In other words, there is a dire need to *study and model software supply chain security risks*.
 
@@ -56,6 +56,14 @@ The intellectual merit lies in our contribution to understanding and predicting 
 
 The broader impact of this research is mainly on software engineering and cyber security. Our research can help software engineers to identify critical packages that create high risks for the repository and the ecosystem. It can also help develop more effective security standards and best practices. Finally, it also helps to identify and mitigate the risks associated with using open-source software in cybersecurity. 
 
+## Future Work
+
+Given the prevalence of supply chain attacks has been on the rise, it is crucial to develop better tools and techniques to mitigate security risks in the OSS supply chain. Our proposed method and existing solutions have made significant progress, but the management of dependencies remains a major issue in the OSS supply chain. The complexity of dependencies in a typical OSS project makes it challenging to track and manage them. 
+
+To overcome this challenge, our future work will focus on developing new approaches to manage dependencies more effectively. One potential solution is to use core-periphery techniques, such as rossa (Della Rossa et al., 2013), rombach (Rombach et al., 2014), and minres (Boyd et al., 2010), and concentrate more on the hidden core structures (Baldwin et al., 2014) of the dependency graphs which provide a more comprehensive view of the dependencies. By visualizing the dependencies in a more meaningful way, these graphs can help identify potential vulnerabilities in OSS components more quickly and accurately.
+
+We hope to create a more secure OSS supply chain by developing these new approaches. This will enable developers to detect and mitigate security risks more efficiently and effectively, leading to safer and more trustworthy OSS projects. Ultimately, our goal is to help build a more resilient OSS community that can withstand the growing threat of supply chain attacks.
+
 ## References and Citations
 
 - MITRE ATT&CK®. (n.d.). https://attack.mitre.org/
@@ -76,3 +84,7 @@ The broader impact of this research is mainly on software engineering and cyber 
 - Zerouali, A., Mens, T., Decan, A., & De Roover, C. (2021). On the impact of security vulnerabilities in the npm and RubyGems dependency networks. Empirical Software Engineering, 27(5). https://doi.org/10.1007/s10664-022-10154-1
 - Ponta, S. E., Plate, H., & Sabetta, A. (2020). Detection, assessment and mitigation of vulnerabilities in open source dependencies. Empirical Software Engineering, 25(5), 3175–3215. https://doi.org/10.1007/s10664-020-09830-x
 - Ohm, M., Plate, H., Sykosch, A., & Tam, K. C. (2020). Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks. Lecture Notes in Computer Science, 23–43. https://doi.org/10.1007/978-3-030-52683-2_2
+- Rombach, M. P., Porter, M. A., Fowler, J. H., & Mucha, P. J. (2014). Core-Periphery Structure in Networks. Siam Journal on Applied Mathematics, 74(1), 167–190. https://doi.org/10.1137/120881683
+- Della Rossa, F., Dercole, F., & Piccardi, C. (2013). Profiling core-periphery network structure by random walkers. Scientific Reports, 3(1). https://doi.org/10.1038/srep01467
+- Boyd, J. D., Fitzgerald, W. F., Mahutga, M. C., & Smith, D. (2010). Computing continuous core/periphery structures for social relations data with MINRES/SVD. Social Networks, 32(2), 125–137. https://doi.org/10.1016/j.socnet.2009.09.003
+- Baldwin, C. Y., MacCormack, A., & Rusnak, J. (2014). Hidden structure: Using network methods to map system architecture. Research Policy, 43(8), 1381–1397. https://doi.org/10.1016/j.respol.2014.05.004
