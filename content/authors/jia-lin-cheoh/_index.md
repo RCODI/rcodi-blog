@@ -27,4 +27,4 @@ social:
 user_groups:
   - Fellows
 ---
-Jia has a B.S. from Purdue in Computer Science. Though she likes all things technical, she loves artistic things just as much. She has worked for a few organizations ( Google, Purdue Supercomputing Center, Singapore airlines as a co-pilot etc. ), and she is just happy to be continuing her PhD at her alma mater.
+Jia has a B.S. in Computer Science from Purdue University and a Master in Computer Science from University of Illinois Urbana-Champaign. She is currently a PhD student in Technology. 

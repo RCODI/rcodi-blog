@@ -11,6 +11,35 @@ is an Assistant Professor at Purdue's Electrical and Computer Engineering Depart
 
 ---
 
+<img src="https://www6.law.northwestern.edu/webfiles/faculty/assets/graphics/graphic-LinnaJrDanielW_v2018-08-08;123847.jpg"  width="150" height="150"> <br>
+**[Daniel W. Linna Jr.](https://www.law.northwestern.edu/faculty/profiles/DanielWLinna/)** 
+ has a joint appointment at Northwestern Pritzker School of Law and McCormick School of Engineering as the Director of Law and Technology Initiatives and a Senior Lecturer. Dan’s teaching and research focus on innovation and technology, including computational law, artificial intelligence, data analytics, leadership, operations, and innovation frameworks.
+
+
+---
+
+<img src="https://polytechnic.purdue.edu/sites/default/files/styles/240px-wide/public/pictures/picture-5565-1634940984.jpg?itok=QmCeQmwU"  width="150" height="150"> <br>
+**[Damon Lercel](https://polytechnic.purdue.edu/profile/dlercel)** 
+has over 30 years of aviation experience managing a breadth of disciplines, which include manned and unmanned aviation, flight test, avionics, maintenance, quality and safety, education, and research. He has held leadership positions with UAViation, Saint Louis University, General Dynamics, Jet Aviation, Midcoast Aviation and Saberliner Corporation. As Program Director of Saint Louis University’s federally funded Center for Aviation Research he was responsible for overseeing a cross – disciplinary research team with a budget in excess of \$4.0 million. Dr. Lercel has provided consulting and training for numerous organizations regarding the adoption and implementation of UAS technologies. In addition, his experience includes leading large research teams and developing global partnerships that support research and educational initiatives – creating significant contributions to the field of aviation science. Organizational leadership experience includes managing large operational teams with over 160 employees and annual revenues over \$30 million.
+ 
+
+---
+
+<img src="https://engineering.purdue.edu/ResourceDB/ResourceFiles/image277153"  width="150" height="150"> <br>
+**[Yung-Hsiang Lu](https://yhlu.net/)** 
+is a professor of Electrical and Computer Engineering at Purdue University. He is a University Faculty Scholar of Purdue University. He is a fellow of the IEEE (Institute of Electrical and Electronics Engineers), distinguished visitor of the Computer Society, distinguished scientist and distinguished speaker of the ACM (Association for Computing Machinery). Dr. Lu is the inaugural director of Purdue’s John Martinson Engineering Entrepreneurial Center (2020-2022). In 2019, he received Outstanding VIP-Based Entrepreneur Award from the VIP (Vertically Integrated Projects) Consortium. His research areas include computer vision, embedded systems, cloud and mobile computing. Dr. Lu has advised 400 undergraduate students in research projects and taught more than 5,000 students in classrooms. He has advised multiple student teams winning business plan competitions; two teams of students started technology companies and raised more than $1.5M.
+
+
+---
+
+<img src="https://engineering.purdue.edu/~ihwang/hwang04web.jpg"  width="150" height="150"> <br>
+**[Inseok Hwang](https://engineering.purdue.edu/~ihwang/)** 
+is a Professor in the School of Aeronautics and Astronautics at Purdue University. He is a member  of Purdue's Signature Area for System-of-Systems research. He earned his Ph.D. degree, specialized in the area of multiple-vehicle control and its application to air traffic control using hybrid systems approach, in the Department of Aeronautics and Astronautics at Stanford University. He was a member of the Hybrid Systems Laboratory at Stanford University. He was a full time instructor in the Department of Aerospace Engineering at Korea Air Force Academy from 1994 to 1997. He is an Associate Fellow of the American Institute of Aeronautics and Astronautics (AIAA) and is a member of the Institute of Electrical and Electronics (IEEE) Control Systems Society and Aerospace & Electronic Systems Society. He is currently an associate editor of the IEEE Transactions on Aerospace and Electronic Systems and Asian Journal of Control, an editorial board member of the International Journal of Aeronautical and Space Sciences (IJASS) and a conference editorial board member of IEEE Control Systems Society.
+
+
+---
+
+
 ![almirall](https://user-images.githubusercontent.com/74989091/113508876-70451600-9520-11eb-9642-b5a60097474d.png) <br>
 **[Esteve Almirall](http://estevealmirall.com/)** 
 Esteve is a lecturer in the Department of Information Systems Management and URL Contracted Doctoral Professor. He studies the intersection between technology and innovation and how IT is changing the way we innovate: from the individual inventor to ecosystems, from owing and buying innovations to benefiting from innovations created by others by aligning incentives and motivations.
