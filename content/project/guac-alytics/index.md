@@ -1,5 +1,5 @@
 ---
-title: GUAC-ALYTICS: Increasing Transparency and Security of Open Source Software Supply-Chains with Network Analytics and AI/ML
+title: "GUAC-ALYTICS: Increasing Transparency and Security of Open Source Software Supply-Chains with Network Analytics and AI/ML"
 authors: [Sabine Brunswicker, Santiago Torres Arias, Sahithi Kasim]
 categories:
   - Research & Development
