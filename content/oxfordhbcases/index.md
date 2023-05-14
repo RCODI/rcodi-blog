@@ -29,6 +29,7 @@ templated: "true"
 <-Insert Text Here->
 
 ### Overview of the cases
+
 <span style="color:pink">
 | Company    | Project |  OI Mode      |    Key insight   | </span>
 | :----------- | :-----------: | :--------: | --------: |
