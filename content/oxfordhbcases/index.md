@@ -30,8 +30,7 @@ templated: "true"
 
 ### Overview of the cases
 
-<span style="color:pink">
-| Company    | Project |  OI Mode      |    Key insight   | </span>
+| Company    | Project |  OI Mode      |    Key insight   |
 | :----------- | :-----------: | :--------: | --------: |
 | Huawei | IoT cellular services | Mode 2 |     |
 | Bosch | Innovation contest on non-electric energy storage | Mode 3 |       |
