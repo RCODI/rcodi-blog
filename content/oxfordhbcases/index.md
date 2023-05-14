@@ -32,7 +32,7 @@ BLABLA TEXT
 
 | Company    | Project |  OI Mode      |    Key insight   |
 | ----------- | ----------- |--------|--------|
-| Bosch | Innovation contest on non-electric energy storage       |Mode 3        |        | 
+| Bosch | Innovation contest on non-electric energy storage       |Mode 3        |  <a href="Accenture-Open-Innovation-At-Bosch.pdf">Accenture Open Innovation at Bosch</a>      | 
 | Paragraph   | Text        |        |        |
 
 
