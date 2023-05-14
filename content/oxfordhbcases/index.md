@@ -31,7 +31,7 @@ templated: "true"
 ### Overview of the cases
 
 | Company    | Project |  OI Mode      |    Key insights   |
-| :----------- | :----------- | :--------: | :-------- |
+| :----------- | :----------- | :-------- | :-------- |
 | Huawei | IoT cellular services | Mode 2 | Partnership coordination activities required to ensure success; Handling opportunistic behavior that prevents knowledge sharing |
 | Bosch | Innovation contest on non-electric energy storage | Mode 3 | The effects of limited knowledge sharing, and limited horizontal interaction between actors; Anonymity as a solution seeker |
 | Pfizer | Design contest on the prefilled syringe | Mode 3 | Knowledge sharing within, and across teams; Overcoming internal resistance among team members towards open innovation approach |
