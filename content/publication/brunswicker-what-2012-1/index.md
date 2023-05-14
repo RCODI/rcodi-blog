@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: What is the role of design-led prototyping in developing novel business models
+title: What is the role of design-led innovation and design-led prototyping in developing
+  novel business models?
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
-- Sam Bucolo
 - Cara Wrigley
+- Savatore Bucolo
 tags: []
 categories: []
-date: '2012-07-01'
+date: '2012-01-01'
 lastmod: 2023-01-19T17:45:54-05:00
 featured: false
 draft: false
@@ -29,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:53.419100Z'
+publishDate: '2023-05-14T15:12:55.627493Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*EGOS Symposium*'
+publication: '*European Group for Organizational Studies (EGOS) Colloquium (28th)*'
 doi: 10.1007/978-3-319-00179-1_13
 links:
 - name: URL

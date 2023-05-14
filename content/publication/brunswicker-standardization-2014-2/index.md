@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Standardization and innovation: A novel perspective towards standards and
-  standardization systems in today’s networked economy'
+title: Standardization Through Formal and Informal Standard Development Organizations
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
+- Jorge Rodriguez
+- Jonathan Wareham
 tags: []
 categories: []
 date: '2014-01-01'
@@ -28,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:15.570037Z'
+publishDate: '2023-05-14T15:12:58.137335Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: '*European Commission*'
+publication: ''
 ---

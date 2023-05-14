@@ -5,7 +5,7 @@ authors:
 - Albert Armisen
 - Ann Majchrzak
 - Sabine Brunswicker
-publication: '*ICIS 2016 Proceedings*'
+publication: ''
 abstract: ''
 draft: false
 url_pdf: http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20
@@ -22,6 +22,9 @@ title: 'Formative and Summative Feedback in Solution Generation: The Role of Com
 subtitle: ''
 tags: []
 projects: []
-date: '2016-12-01'
-publishDate: '2021-04-12T16:49:01.172458Z'
+date: '2016-12-11'
+publishDate: '2023-05-14T15:12:22.391879Z'
+links:
+- name: URL
+  url: http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20
 ---

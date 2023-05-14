@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Managing Open Innovation Projects with Impact
+title: Managing open innovation projects with impact
 subtitle: ''
 summary: ''
 authors:
@@ -31,10 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:00.996637Z'
+publishDate: '2023-05-14T15:13:02.263795Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Whitepaper Series*'
+publication: ''
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2821203
 ---

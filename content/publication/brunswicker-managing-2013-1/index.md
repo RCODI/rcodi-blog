@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Managing Open Innovation in SMEs: A Good Practice Example of a German Software
-  Firm'
+title: 'Managing open innovation in SMEs: A good practice example of a German software
+  firm'
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
-- F Ehrenmann
+- Frank Ehrenmann
 tags: []
 categories: []
 date: '2013-01-01'
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:57.740551Z'
+publishDate: '2023-05-14T15:12:55.852038Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Industrial Engineering and Management (IJIEM)*'
+publication: ''
 links:
 - name: URL
   url: https://www.researchgate.net/publication/286344468_Managing_open_innovation_in_SMEs_A_good_practice_example_of_a_german_software_firm

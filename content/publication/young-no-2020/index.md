@@ -8,7 +8,7 @@ authors:
 - Jeffrey Young
 tags: []
 categories: []
-date: '2020-10-01'
+date: '2020-10-06'
 lastmod: 2023-01-19T17:45:18-05:00
 featured: false
 draft: false
@@ -27,11 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:17.537913Z'
+publishDate: '2023-05-14T15:13:12.014472Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Pandemic Campus Diaries: A Podcast Series*'
+publication: '*EdSurge*'
 links:
 - name: URL
   url: https://www.edsurge.com/news/2020-10-06-with-no-study-buddies-more-college-students-turn-to-cheating

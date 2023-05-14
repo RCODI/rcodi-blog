@@ -8,7 +8,7 @@ authors:
 - Brigid O' Brien
 tags: []
 categories: []
-date: '2017-12-01'
+date: '2017-12-14'
 lastmod: 2021-02-15T18:58:00-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:53.891212Z'
+publishDate: '2023-05-14T15:12:13.413054Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/polytechnic-student-takes-top-ironhacker-honor
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/polytechnic-student-takes-top-ironhacker-honor
 ---

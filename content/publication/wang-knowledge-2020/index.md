@@ -36,27 +36,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:23.997409Z'
+publishDate: '2023-05-14T15:13:10.393806Z'
 publication_types:
 - '2'
-abstract: Purpose This study aims to investigate the effects of project-level external
-  knowledge search breadth and search depth on the innovation performance of open
-  innovation (OI) projects in large firms; it further considers these effects mediated
-  by two forms of control mechanisms (process and outcome control) when the level
-  of project complexity and the two stages of a project – early (problem definition)
-  and late (solution development) – are taken into account. Design/methodology/approach
-  Based on a survey of 187 managers responsible for an OI project, the authors use
-  theory on behavioral-based control mechanisms to explore whether the effect of external
-  knowledge search breadth and depth on OI performance is contingent on having the
-  right levels of control mechanisms in place. Findings The results showed that the
-  control mechanism mediates the relationship between external knowledge search breadth
-  and depth and OI project performance. Furthermore, project complexity is an important
-  moderator of these effects, especially for outcome control. Originality/value A
-  better OI project’s performance is not achieved by external knowledge search breadth
-  and depth alone, but by building process and outcome control mechanism on it to
-  balance knowledge sharing and protecting tension. Furthermore, Outcome control is
-  only helpful with less complex OI projects.
-publication: '*Journal of Knowledge Management*'
+abstract: ''
+publication: ''
 url_pdf: https://doi.org/10.1108/JKM-03-2020-0222
 doi: 10.1108/JKM-03-2020-0222
 ---

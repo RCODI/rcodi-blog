@@ -9,7 +9,7 @@ authors:
 - Jia Lin Cheoh
 tags: []
 categories: []
-date: '2018-10-01'
+date: '2018-10-05'
 lastmod: 2021-02-15T18:57:55-05:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:48.946202Z'
+publishDate: '2023-05-14T15:12:06.538215Z'
 publication_types:
-- '0'
+- '3'
 abstract: New visual similarity technology based on SSIM is developed as a tool for
   measuring visual similarities of multiple web applications of different sizes, which
   is the first technology model that targets web components of different sizes. This

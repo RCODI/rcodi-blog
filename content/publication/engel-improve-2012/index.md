@@ -6,9 +6,9 @@ title: 'ImPRovE: High-impact innovation management consulting services for small
 subtitle: ''
 summary: ''
 authors:
-- K. Engel
-- E. Diedrichs
-- S. Brunswicker
+- Kai Engel
+- Eva Diedrichs
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2012-01-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:58.880521Z'
+publishDate: '2023-05-14T15:12:20.150723Z'
 publication_types:
 - '4'
 abstract: ''

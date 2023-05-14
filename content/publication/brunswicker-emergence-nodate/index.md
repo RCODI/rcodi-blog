@@ -9,12 +9,12 @@ authors:
 - Sabine Brunswicker
 - Satyam Mukherjee
 tags:
+- loose coupling
 - architecture
 - DSM
-- loose coupling
+- open collaboration
 - modular system theory
 - network motifs
-- open collaboration
 - propagation cost
 categories: []
 date: -01-01
@@ -36,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:20.840346Z'
+publishDate: '2023-05-14T15:13:18.301382Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*MIS Quarterly*'
+publication: ''
 ---

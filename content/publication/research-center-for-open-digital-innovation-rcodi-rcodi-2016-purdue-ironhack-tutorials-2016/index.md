@@ -5,7 +5,7 @@ title: 'Rcodi/2016-Purdue-Ironhack-Tutorials: Ih 0.0.16'
 subtitle: ''
 summary: ''
 authors:
-- Research Center For Open Digital Innovation RCODI
+- Research Center for Open Digital Innovation RCODI
 tags: []
 categories: []
 date: '2016-01-01'
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:51.595136Z'
+publishDate: '2023-05-14T15:12:09.620354Z'
 publication_types:
 - '0'
 abstract: A list of tutorials for 2016 Purdue Ironhacks

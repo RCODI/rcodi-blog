@@ -8,7 +8,7 @@ authors:
 - Sandra Gittlen
 tags: []
 categories: []
-date: '2016-05-01'
+date: '2016-05-02'
 lastmod: 2021-02-15T18:58:21-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:09.908986Z'
+publishDate: '2023-05-14T15:12:33.463425Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Network World*'
+publication: ''
 url_pdf: http://www.networkworld.com/article/3062660/open-source-tools/6-colleges-turning-out-open-source-talent.html
+links:
+- name: URL
+  url: http://www.networkworld.com/article/3062660/open-source-tools/6-colleges-turning-out-open-source-talent.html
 ---

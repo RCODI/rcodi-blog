@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Open Innovation Landscape: Established Perspectives and Emerging Themes
-  Across Different Levels of Analysis'
+title: 'The open innovation research landscape: Established perspectives and emerging
+  themes across different levels of analysis'
 subtitle: ''
 summary: ''
 authors:
 - Marcel Bogers
 - Ann-Kristin Zobel
-- Allen Afuah
+- Allan Afuah
 - Esteve Almirall
 - Sabine Brunswicker
 - Linus Dahlander
@@ -16,10 +16,7 @@ authors:
 - Annabelle Gawer
 - Marc Gruber
 - Stefan Haefliger
-- John Hagedoorn
-- Dennis Hilgers
-- Keld Laursen
-- Mats Magnussen
+- ' others'
 tags: []
 categories: []
 date: '2017-01-01'
@@ -41,11 +38,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:55.145532Z'
+publishDate: '2023-05-14T15:13:00.950185Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Industry & Innovation*'
+publication: ''
 doi: 10.1080/13662716.2016.1240068
 links:
 - name: URL

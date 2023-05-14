@@ -10,7 +10,7 @@ authors:
 - Kevin Christopher
 tags: []
 categories: []
-date: '2020-12-01'
+date: '2020-12-04'
 lastmod: 2021-02-15T18:58:38-05:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:23.466188Z'
+publishDate: '2023-05-14T15:12:51.662698Z'
 publication_types:
-- '0'
+- '3'
 abstract: 'Dr. Sabine Brunswicker, Director of Purdue’s Research Center for Open Digital
   Innovation, and Dr. Stacey Connaughton, Director of the Purdue Policy Research Institute
   hosted this online event featuring Kevin Christopher, founder, and principal of
@@ -44,4 +44,7 @@ abstract: 'Dr. Sabine Brunswicker, Director of Purdue’s Research Center for Op
   Nelson, Bill Arnold, Aniket Kate, Matt Halladay'
 publication: ''
 url_pdf: https://www.youtube.com/watch?v=RfM5MXIv9_8
+links:
+- name: URL
+  url: https://www.youtube.com/watch?v=RfM5MXIv9_8
 ---

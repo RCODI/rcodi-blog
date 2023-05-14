@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Fad or a Phenomenon? The Adoption of Open Innovation Practices in Large Firms
+title: 'A fad or a phenomenon?: The adoption of open innovation practices in large
+  firms'
 subtitle: ''
 summary: ''
 authors:
@@ -28,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:56.883489Z'
+publishDate: '2023-05-14T15:12:56.644911Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Research Technology Management*'
+publication: ''
 doi: 10.5437/08956308X5702196
 links:
 - name: URL

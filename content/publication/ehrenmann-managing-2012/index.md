@@ -28,11 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:14.261283Z'
+publishDate: '2023-05-14T15:12:39.334282Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*5th International Conference on Mass Customization and Personalization
   in Central Europe (MCP-CE 2012)*'
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2151892
+links:
+- name: URL
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2151892
 ---

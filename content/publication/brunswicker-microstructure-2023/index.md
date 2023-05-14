@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-04-19T17:41:07.662374Z'
+publishDate: '2023-05-14T15:13:19.058188Z'
 publication_types:
 - '2'
 abstract: 'In their seminal theory on modularity in design, Baldwin and Clark (2000,
@@ -53,7 +53,7 @@ abstract: 'In their seminal theory on modularity in design, Baldwin and Clark (2
   why central rather than shared parts are a potential source of innovation at the
   expense of modularity. These findings contribute to the research and practice of
   modularity in design.'
-publication: '*Industrial and Corporate Change*'
+publication: ''
 doi: 10.1093/icc/dtac051
 links:
 - name: URL

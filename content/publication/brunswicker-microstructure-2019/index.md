@@ -17,7 +17,7 @@ tags:
 - Network motifs
 - Propagation cost
 categories: []
-date: '2019-12-01'
+date: '2019-01-01'
 lastmod: 2021-02-15T18:58:33-05:00
 featured: false
 draft: false
@@ -36,31 +36,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:19.591111Z'
+publishDate: '2023-05-14T15:13:09.641755Z'
 publication_types:
 - '2'
-abstract: 'The established stream of literature on design architectures argues that
-  designers should aim for modular architecture in order increase the system’s technical
-  performance by lowering the propagation costs of the system’s design: A system with
-  a small stable “core”, a cycle of coupled parts of the system, and a large variable
-  periphery reduce the risk of technical feature and increase opportunity for innovation.
-  However, such a core-periphery view ignores the micro-level dependency structures
-  that emerge in open collaboration when a large number of developers produce a complex
-  technical system at distance, virtually, and outside of formal employment relationships.
-  In this paper, we develop a theory of design network motifs that accounts for the
-  smallest design dependencies in the system that emerge in situ. Informed by the
-  network theoretical concept of a “motif”, we introduce design motifs as the smallest
-  unit of design interdependencies in a system architecture and develop a theory of
-  design network motifs describe each system’s ‘motif fingerprint’ and explains how
-  certain motif patterns affect the performance of a system as a whole. We empirically
-  examine our design network motif theory using architectural data of the Open Stack
-  repository NOVA, consisting of 2359 files and 1545532 lines of code. We extract
-  all potential design network motifs created by 872 developers for 5 years. Our results
-  show that design network motifs offer a new way to explain hidden dependencies in
-  complex system architectures. Surprisingly, it is not just cycling that significantly
-  impact a system’s performance but instead, a “feed-forward loop” motif. Our results
-  contribute to the literature on design architectures and open collaboration more
-  broadly.'
-publication: '*Working Paper, RCODI, Purdue University*'
+abstract: ''
+publication: ''
 url_pdf: https://papers.ssrn.com/abstract=3568249
 ---

@@ -7,9 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - John O'Malley
-tags: []
+tags:
+- News
 categories: [2021]
-date: '2021-01-01'
+date: '2021-01-29'
 lastmod: 2021-02-15T18:58:39-05:00
 featured: false
 draft: false
@@ -28,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:23.824982Z'
+publishDate: '2023-05-14T15:12:52.311049Z'
 publication_types:
 - '0'
 abstract: Purdue Polytechnic’s Sabine Brunswicker, Soowon Chang, Dominic Kao and Alejandra
@@ -36,4 +37,7 @@ abstract: Purdue Polytechnic’s Sabine Brunswicker, Soowon Chang, Dominic Kao a
   adapted to the pandemic.
 publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/polytechnic-professors-deliver-protect-purdue-related-research
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/polytechnic-professors-deliver-protect-purdue-related-research
 ---

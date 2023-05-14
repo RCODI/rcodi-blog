@@ -6,7 +6,7 @@ title: Standardization through Formal and Informal Standard Development Organiza
 subtitle: ''
 summary: ''
 authors:
-- SSabine Brunswicker
+- Sabine Brunswicker
 - Rodriguez Jorge
 - Jonathan Wareham
 tags: []
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:56.740352Z'
+publishDate: '2023-05-14T15:12:17.398087Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Research Policy*'
+publication: ''
 ---

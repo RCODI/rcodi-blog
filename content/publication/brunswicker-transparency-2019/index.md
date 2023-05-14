@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Transparency in public policy: A complexity view'
+title: 'Transparency in policy making: A complexity view'
 subtitle: ''
 summary: ''
 authors:
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:56.915830Z'
+publishDate: '2023-05-14T15:13:07.865194Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Government Information Quarterly*'
+publication: ''
 url_pdf: https://doi.org/10.1016/j.giq.2019.05.005
 doi: https://doi.org/10.1016/j.giq.2019.05.005
 ---

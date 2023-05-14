@@ -29,11 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:02.037064Z'
+publishDate: '2023-05-14T15:12:23.444653Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*XXII ISPIM conference 2011. Sustainability in innovation. Innovation
   management challenges*'
 url_pdf: http://publica.fraunhofer.de/documents/N-177940.html
+links:
+- name: URL
+  url: http://publica.fraunhofer.de/documents/N-177940.html
 ---

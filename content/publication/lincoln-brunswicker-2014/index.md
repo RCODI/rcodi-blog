@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:11.106141Z'
+publishDate: '2023-05-14T15:12:35.262381Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Purdue Polytechnic Newsroom*'
+publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/brunswicker-addresses-world-economic-forum-workshop
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/brunswicker-addresses-world-economic-forum-workshop
 ---

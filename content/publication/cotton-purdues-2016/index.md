@@ -9,7 +9,7 @@ authors:
 tags:
 - Media coverage
 categories: []
-date: '2016-04-01'
+date: '2016-04-28'
 lastmod: 2021-02-15T18:58:21-05:00
 featured: false
 draft: false
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:09.740936Z'
+publishDate: '2023-05-14T15:12:33.214974Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Opensource.com*'
+publication: ''
 url_pdf: https://opensource.com/life/16/4/purdue-ironhacks-series-puts-unique-spin-hackathons
+links:
+- name: URL
+  url: https://opensource.com/life/16/4/purdue-ironhacks-series-puts-unique-spin-hackathons
 ---

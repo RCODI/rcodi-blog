@@ -9,7 +9,7 @@ authors:
 - Phillip Fiorini
 tags: []
 categories: []
-date: '2014-10-01'
+date: '2014-10-09'
 lastmod: 2021-02-15T18:58:20-05:00
 featured: false
 draft: false
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:08.857069Z'
+publishDate: '2023-05-14T15:12:31.995344Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Purdue University News*'
+publication: ''
 url_pdf: http://www.purdue.edu/newsroom/releases/2014/Q4/research-indicates-open-innovation-gaining-momentum-among-large-u.s.-and-european-companies.html
+links:
+- name: URL
+  url: http://www.purdue.edu/newsroom/releases/2014/Q4/research-indicates-open-innovation-gaining-momentum-among-large-u.s.-and-european-companies.html
 ---

@@ -27,11 +27,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:55.859691Z'
+publishDate: '2023-05-14T15:12:16.345461Z'
 publication_types:
 - '0'
 abstract: Residents in several Indiana communities are part of new Purdue research
   determining how households consume energy.
-publication: '*Purdue University News*'
+publication: ''
 url_pdf: http://www.purdue.edu/newsroom/releases/2017/Q4/purdue-faculty,-indiana-housing-pair-up-to-research-energy-use.html
+links:
+- name: URL
+  url: http://www.purdue.edu/newsroom/releases/2017/Q4/purdue-faculty,-indiana-housing-pair-up-to-research-energy-use.html
 ---

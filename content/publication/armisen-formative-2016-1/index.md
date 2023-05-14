@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Formative and Summative Feedback in Solution Generation: The Role of Community
-  and Decision Support System in Open Source Software'
+title: 'Formative and summative feedback in solution generation: The role of community
+  and decision support system in open source software'
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2016-12-01'
+date: '2016-01-01'
 lastmod: 2023-01-19T17:46:12-05:00
 featured: false
 draft: false
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:11.119704Z'
+publishDate: '2023-05-14T15:13:01.444442Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*ICIS 2016 Proceedings*'
+publication: ''
 links:
 - name: URL
   url: http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20

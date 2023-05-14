@@ -8,7 +8,7 @@ authors:
 - Colleen Sheehy
 tags: []
 categories: []
-date: '2015-10-01'
+date: '2015-10-07'
 lastmod: 2021-02-15T18:58:19-05:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:08.523972Z'
+publishDate: '2023-05-14T15:12:31.513045Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The Exponent*'
+publication: ''
 ---

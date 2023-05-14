@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '"Alpbach Technology Forum 2016": "New Enlightenment"'
+title: '\"Alpbach Technology Forum 2016\": \"New Enlightenment\"'
 subtitle: ''
 summary: ''
 authors:
-- 'Computerwelt'
+- ' Computerwelt'
 tags: []
 categories: []
-date: '2016-08-01'
+date: '2016-08-19'
 lastmod: 2021-02-15T18:58:19-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:08.352667Z'
+publishDate: '2023-05-14T15:12:31.258306Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: http://www.computerwelt.at/news/detail/artikel/117233-alpbacher-technologiegespraeche-2016-neue-aufklaerun/
+links:
+- name: URL
+  url: http://www.computerwelt.at/news/detail/artikel/117233-alpbacher-technologiegespraeche-2016-neue-aufklaerun/
 ---

@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:58.349654Z'
+publishDate: '2023-05-14T15:12:19.377416Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: https://www.accenture.com/us-en/insight-open-innovation-smart-solutions-pipelines
+links:
+- name: URL
+  url: https://www.accenture.com/us-en/insight-open-innovation-smart-solutions-pipelines
 ---

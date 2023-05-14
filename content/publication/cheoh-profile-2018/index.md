@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:48.388442Z'
+publishDate: '2023-05-14T15:12:02.278390Z'
 publication_types:
 - '2'
 abstract: Jia Lin Cheoh is a third-year undergraduate student in the Department of
@@ -38,7 +38,10 @@ abstract: Jia Lin Cheoh is a third-year undergraduate student in the Department 
   working as a software developer on the Purdue IronHacks platform (www.ironhacks.com)
   with Dr. Brunswicker in HONR 299 and TECH 499 on open data hacking. Her team contributed
   to multiple novel web applications developed by students from various backgrounds.
-publication: '*Purdue Journal of Service Learning and International Engagement*'
+publication: ''
 url_pdf: https://docs.lib.purdue.edu/pjsl/vol5/iss1/22
 doi: 10.5703/1288284316831
+links:
+- name: URL
+  url: https://docs.lib.purdue.edu/pjsl/vol5/iss1/22
 ---

@@ -9,7 +9,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2016-08-01'
+date: '2016-08-02'
 lastmod: 2021-02-15T18:58:09-05:00
 featured: false
 draft: false
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:00.273941Z'
+publishDate: '2023-05-14T15:12:21.417559Z'
 publication_types:
 - '1'
 abstract: There is a conundrum when a firm engages deeply with external sources in

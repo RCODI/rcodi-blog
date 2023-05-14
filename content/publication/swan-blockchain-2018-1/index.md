@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Blockchain Economic Networks and Algorithmic Trust
+title: Blockchain economic networks and algorithmic trust
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2018-08-01'
+date: '2018-01-01'
 lastmod: 2023-01-19T17:46:02-05:00
 featured: false
 draft: false
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:02.069277Z'
+publishDate: '2023-05-14T15:13:06.864159Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*AMCIS 2018 Proceedings*'
+publication: ''
 links:
 - name: URL
   url: https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4

@@ -9,7 +9,7 @@ authors:
 - Jia Lin Cheoh
 tags: []
 categories: []
-date: '2018-10-01'
+date: '2018-10-05'
 lastmod: 2021-02-15T18:55:46-05:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:48.765672Z'
+publishDate: '2023-05-14T15:12:06.219725Z'
 publication_types:
-- '0'
+- '3'
 abstract: In this lightning talk, I will introduce a coding bot that I built together
   with Prof. Sabine Brunswicker, my mentor in Purdue University and PhD advisor to-be,
   where functions predictions in our recommender system is achieved by using neural

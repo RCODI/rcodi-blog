@@ -8,7 +8,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2020-06-01'
+date: '2020-06-09'
 lastmod: 2021-02-15T18:58:34-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:19.783502Z'
+publishDate: '2023-05-14T15:12:45.841858Z'
 publication_types:
-- '0'
+- '3'
 abstract: ''
 publication: ''
 url_pdf: www.ispim-virtual.com
+links:
+- name: URL
+  url: www.ispim-virtual.com
 ---

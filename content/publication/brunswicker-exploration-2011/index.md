@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sabine Brunswicker
 - Ulrich Hutschek
-- Christian Wagner
+- Lena Wagner
 tags: []
 categories: []
 date: '2011-06-01'
@@ -29,11 +29,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:01.511876Z'
+publishDate: '2023-05-14T15:12:22.665118Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*XXII ISPIM conference 2011 - Sustainability in innovation. Innovation
   management challenges*'
 url_pdf: http://publica.fraunhofer.de/documents/N-214628.html
+doi: 10.1504/IJTIP.2012.047374
+links:
+- name: URL
+  url: http://publica.fraunhofer.de/documents/N-214628.html
 ---

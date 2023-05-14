@@ -8,7 +8,7 @@ authors:
 - Patrick Dax
 tags: []
 categories: []
-date: '2016-08-01'
+date: '2016-08-27'
 lastmod: 2021-02-15T18:58:19-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:08.187432Z'
+publishDate: '2023-05-14T15:12:31.005279Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
 url_pdf: https://futurezone.at/science/open-innovation-aufwaermen-fuer-die-arbeitswelt-der-zukunft/218.016.517
+links:
+- name: URL
+  url: https://futurezone.at/science/open-innovation-aufwaermen-fuer-die-arbeitswelt-der-zukunft/218.016.517
 ---

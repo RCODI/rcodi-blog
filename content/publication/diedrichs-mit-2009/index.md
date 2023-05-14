@@ -6,8 +6,8 @@ title: Mit Innovation auf Wachstumskurs in der Krise. Erfolgsgeheimnisse wissens
 subtitle: ''
 summary: ''
 authors:
-- E. Diedrichs
-- S. Brunswicker
+- Eva Diedrichs
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2009-01-01'
@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:02.211366Z'
+publishDate: '2023-05-14T15:12:23.698230Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal Arbeit*'
+publication: ''
 url_pdf: http://publica.fraunhofer.de/dokumente/N-113207.html
+links:
+- name: URL
+  url: http://publica.fraunhofer.de/dokumente/N-113207.html
 ---

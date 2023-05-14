@@ -6,7 +6,7 @@ title: '\" Internet of things\", Big Data y Small Data: infinitas posibilidades 
 subtitle: ''
 summary: ''
 authors:
-- Esteve Almirall
+- Esteban Almirall
 - Sabine Brunswicker
 tags: []
 categories: []
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:12.426871Z'
+publishDate: '2023-05-14T15:13:05.113942Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Harvard Deusto Márketing y Ventas*'
+publication: ''
 links:
 - name: URL
   url: https://dialnet.unirioja.es/servlet/articulo?codigo=4538813

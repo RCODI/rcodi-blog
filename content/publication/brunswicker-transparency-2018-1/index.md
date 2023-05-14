@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transparency as design choice of open data contests
+title: 'Transparency in Policy Making: Guiding Citizens Towards Greater Collective
+  Welfare'
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
-- Bjørn Jensen
-- Zhounan Song
-- Ann Majchrzak
+- Esteve Almirall
+- Melissa Jo Lee
 tags: []
 categories: []
 date: '2018-01-01'
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:24.618528Z'
+publishDate: '2023-05-14T15:13:06.121008Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of the Association for Information Science and Technology*'
+publication: ''
 ---

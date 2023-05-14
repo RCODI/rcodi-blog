@@ -13,7 +13,7 @@ authors:
 - Gerhard Klimeck
 tags: []
 categories: []
-date: '2016-09-01'
+date: '2016-09-09'
 lastmod: 2021-02-15T18:58:13-05:00
 featured: false
 draft: false
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:03.798085Z'
+publishDate: '2023-05-14T15:12:25.274439Z'
 publication_types:
 - '2'
 abstract: Modern science has become collaborative and digital. The Internet has supported
@@ -57,6 +57,10 @@ abstract: Modern science has become collaborative and digital. The Internet has 
   scientific impact needs to account for a scientist’s contribution to programming
   communities that produce digital scientific innovations and the digital work structures
   in which these contributions are embedded.
-publication: '*Scientometrics*'
+publication: ''
 url_pdf: http://link.springer.com/article/10.1007/s11192-016-2106-z
+doi: 10.1007/s11192-016-2106-z
+links:
+- name: URL
+  url: http://link.springer.com/article/10.1007/s11192-016-2106-z
 ---

@@ -9,7 +9,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2017-08-01'
+date: '2017-08-10'
 lastmod: 2021-02-15T18:57:56-05:00
 featured: false
 draft: false
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:49.854767Z'
+publishDate: '2023-05-14T15:12:06.840852Z'
 publication_types:
 - '2'
 abstract: 'Along with environmental awareness, the interdisciplinary field of eco-feedback
@@ -45,6 +45,9 @@ abstract: 'Along with environmental awareness, the interdisciplinary field of ec
   Current research is corroborating empirical evidence in support of eco-feedback,
   but their lack of theoretical grounding has resulted in incomparable constructs
   and inconsistent results.'
-publication: '*AMCIS 2017 Proceedings*'
+publication: ''
 url_pdf: https://aisel.aisnet.org/amcis2017/GreenIS/Presentations/7
+links:
+- name: URL
+  url: https://aisel.aisnet.org/amcis2017/GreenIS/Presentations/7
 ---

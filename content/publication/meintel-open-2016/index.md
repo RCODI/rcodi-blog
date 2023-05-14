@@ -8,7 +8,7 @@ authors:
 - Sven Meintel
 tags: []
 categories: []
-date: '2016-08-01'
+date: '2016-08-19'
 lastmod: 2021-02-15T18:58:18-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:08.014032Z'
+publishDate: '2023-05-14T15:12:30.764021Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: http://www.ots.at/presseaussendung/OTS_20160819_OTS0036/open-2016-wann-sind-offene-systeme-bahnbrechend
+links:
+- name: URL
+  url: http://www.ots.at/presseaussendung/OTS_20160819_OTS0036/open-2016-wann-sind-offene-systeme-bahnbrechend
 ---

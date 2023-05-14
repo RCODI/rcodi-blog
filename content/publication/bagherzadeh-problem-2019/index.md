@@ -6,12 +6,12 @@ title: 'Problem Types and Open Innovation Governance Modes: A Project-Level Empi
 subtitle: ''
 summary: ''
 authors:
-- Mehdi Bagherzadeh
-- Andrei Gurca
-- Sabine Brunswicker
+- M Bagherzadeh
+- A Gurca
+- S Brunswicker
 tags: []
 categories: []
-date: '2019-10-01'
+date: '2019-01-01'
 lastmod: 2021-02-15T18:58:33-05:00
 featured: false
 draft: false
@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:19.074387Z'
+publishDate: '2023-05-14T15:13:08.607185Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Engineering Management*'
+publication: ''
 doi: 10.1109/TEM.2019.2942132
 ---

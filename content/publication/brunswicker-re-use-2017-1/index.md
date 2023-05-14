@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Re-use in Open Crowds: Linking Empirical and Computational Approaches'
+title: Re-Use and Patterns of Digital Innovation in Open Crowds
 subtitle: ''
 summary: ''
 authors:
@@ -28,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:07.357338Z'
+publishDate: '2023-05-14T15:13:02.537059Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Informs*'
+publication: ''
 doi: https://dx.doi.org/10.2139/ssrn.2908650
 ---

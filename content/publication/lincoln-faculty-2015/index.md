@@ -8,7 +8,7 @@ authors:
 - Steven Lincoln
 tags: []
 categories: []
-date: '2015-05-01'
+date: '2015-05-20'
 lastmod: 2021-02-15T18:58:20-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:09.205176Z'
+publishDate: '2023-05-14T15:12:32.461329Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Purdue Polytechnic Newsroom*'
+publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/faculty-staff-students-honored-at-annual-awards
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/faculty-staff-students-honored-at-annual-awards
 ---

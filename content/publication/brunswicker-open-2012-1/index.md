@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Open innovation and cross-industry innovation
+title: Open innovation sourcing in SMEs – Choice or curse?
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2012-08-01'
 lastmod: 2021-02-15T18:58:17-05:00
 featured: false
 draft: false
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:07.148109Z'
+publishDate: '2023-05-14T15:12:43.825494Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
-publication: '*LIMAK Johannes Kepler  University in collaboration with Fraunhofer
-  IAO*'
+publication: '*72nd Annual Meeting of the Academy of Management*'
 ---

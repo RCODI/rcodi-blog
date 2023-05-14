@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Big Data for Open Digital Innovation – A Research Roadmap
+title: Big data for open digital innovation–a research roadmap
 subtitle: ''
 summary: ''
 authors:
@@ -29,11 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:58.601718Z'
+publishDate: '2023-05-14T15:12:58.410628Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Big Data Research*'
+publication: ''
 doi: http://dx.doi.org/10.1016/j.bdr.2015.01.008
 links:
 - name: URL

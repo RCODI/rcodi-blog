@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Optimizing and Satisficing: The Interplay Between Platform Architecture and
-  Developers’ Design Strategies on Platform Performance'
+title: "Optimizing and Satisficing: The Interplay Between Platform Architecture and\
+  \ Producers' Design Strategies for Platform Performance"
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
-- E. Almirall
+- Sabine Brunswicker
+- Esteve Almirall
 - Ann Majchrzak
 tags: []
 categories: []
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:49.506926Z'
+publishDate: '2023-05-14T15:13:09.413779Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Management Information Systems Quarterly*'
+publication: ''
 ---

@@ -9,7 +9,7 @@ authors:
 - S Brunswicker
 tags: []
 categories: []
-date: '2022-08-01'
+date: '2022-08-06'
 lastmod: 2023-01-19T17:46:24-05:00
 featured: false
 draft: false
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:23.431343Z'
+publishDate: '2023-05-14T15:13:17.754705Z'
 publication_types:
 - '1'
 abstract: ''

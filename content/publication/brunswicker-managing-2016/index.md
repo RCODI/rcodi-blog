@@ -1,18 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Managing Open Innovation Projects with Impact
+title: Managing open innovation in small and medium-sized enterprises (SMEs)
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
-- Mehdi Bagherzadeh
-- Allison Lamb
-- Raghav Narsalay
-- Yu Jing
 tags: []
 categories: []
-date: '2016-07-01'
+date: '2016-01-01'
 lastmod: 2021-02-15T18:58:08-05:00
 featured: false
 draft: false
@@ -31,10 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:59.747895Z'
+publishDate: '2023-05-14T15:12:59.882154Z'
 publication_types:
-- '2'
+- '6'
 abstract: ''
-publication: '*SSRN*'
+publication: '*Open tourism*'
 url_pdf: https://ssrn.com/abstract=2821203
 ---

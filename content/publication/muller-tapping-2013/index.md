@@ -8,7 +8,7 @@ authors:
 - Von Eva Müller
 tags: []
 categories: []
-date: '2013-07-01'
+date: '2013-07-03'
 lastmod: 2021-02-15T18:58:23-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:11.628046Z'
+publishDate: '2023-05-14T15:12:36.164432Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Manager Magazin*'
+publication: ''
 url_pdf: http://www.manager-magazin.de/unternehmen/artikel/a-883080.html
+links:
+- name: URL
+  url: http://www.manager-magazin.de/unternehmen/artikel/a-883080.html
 ---

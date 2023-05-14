@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Sabine Brunswicker
 - Esteve Almirall
-- E. Johnston
-- I. Mergel
+- Erik Johnston
+- Ines Mergel
 tags: []
 categories: []
 date: '2015-08-01'
@@ -31,10 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:14.094249Z'
+publishDate: '2023-05-14T15:12:39.119294Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Annual Meeting of Academy of Management*'
 url_pdf: http://proceedings.aom.org/content/2015/1/17780.short
+doi: 10.5465/ambpp.2015.17780symposium
+links:
+- name: URL
+  url: https://journals.aom.org/doi/10.5465/ambpp.2015.17780symposium
 ---

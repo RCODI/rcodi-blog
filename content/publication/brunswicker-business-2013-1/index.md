@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Business Model Experimentation: What is the Role of Design_led Prototyping
-  in Developing Novel Business Models?'
+title: 'Business model experimentation: What is the role of design-led prototyping
+  in developing novel business models?'
 subtitle: ''
 summary: ''
 authors:
@@ -30,12 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:14.579784Z'
+publishDate: '2023-05-14T15:12:56.142023Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*The Experimental Nature of New Venture Creation, Capitalizing on Open
-  Innovaiton 2.0*'
+publication: '*The experimental nature of new venture creation*'
 links:
 - name: URL
   url: http://link.springer.com/chapter/10.1007/978-3-319-00179-1_13#page-1

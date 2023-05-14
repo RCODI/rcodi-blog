@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '"Internet of things", Big Data y Small Data: infinitas posibilidades de
+title: '\" Internet of things\", Big Data y Small Data: infinitas posibilidades de
   análisis'
 subtitle: ''
 summary: ''
@@ -31,10 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:02.552504Z'
+publishDate: '2023-05-14T15:12:24.252668Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Harvard Deusto Márketing y Ventas*'
+publication: ''
 url_pdf: https://dialnet.unirioja.es/servlet/articulo?codigo=4538813
+links:
+- name: URL
+  url: https://dialnet.unirioja.es/servlet/articulo?codigo=4538813
 ---

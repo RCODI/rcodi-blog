@@ -6,8 +6,8 @@ title: 'Managing Open Innovation in SMEs: A Good Practice Example of a German So
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
-- F. Ehrenmann
+- Sabine Brunswicker
+- F Ehrenmann
 tags: []
 categories: []
 date: '2013-01-01'
@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:14.946700Z'
+publishDate: '2023-05-14T15:12:40.360339Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Industrial Engineering and Management (IJIEM)*'
+publication: ''
 url_pdf: https://www.researchgate.net/publication/286344468_Managing_open_innovation_in_SMEs_A_good_practice_example_of_a_german_software_firm
+links:
+- name: URL
+  url: https://www.researchgate.net/publication/286344468_Managing_open_innovation_in_SMEs_A_good_practice_example_of_a_german_software_firm
 ---

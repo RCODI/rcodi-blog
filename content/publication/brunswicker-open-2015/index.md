@@ -6,8 +6,8 @@ title: 'Open Innovation in Small and Medium-Sized Enterprises (SMEs): External K
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
-- W. Vanhaverbeke
+- Sabine Brunswicker
+- Wim Vanhaverbeke
 tags: []
 categories: []
 date: '2015-01-01'
@@ -29,11 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:18.048761Z'
+publishDate: '2023-05-14T15:12:44.317088Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Small Business Management*'
+publication: ''
 url_pdf: http://dx.doi.org/10.1111/jsbm.12120
 doi: 10.1111/jsbm.12120
+links:
+- name: URL
+  url: http://dx.doi.org/10.1111/jsbm.12120
 ---

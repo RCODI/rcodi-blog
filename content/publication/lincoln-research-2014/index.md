@@ -8,7 +8,7 @@ authors:
 - Steven Lincoln
 tags: []
 categories: []
-date: '2014-10-01'
+date: '2014-10-22'
 lastmod: 2021-02-15T18:58:23-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:11.281864Z'
+publishDate: '2023-05-14T15:12:35.674101Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Purdue Polytechnic News*'
+publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/research-open-innovation-gaining-momentum
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/research-open-innovation-gaining-momentum
 ---

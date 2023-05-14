@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:14.431855Z'
+publishDate: '2023-05-14T15:12:39.612231Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*ISPIM Americas Innovation Forum*'
 url_pdf: http://www.ginevraresearch.com/index.php/en/repository/Research-Fellow/Rabl-M./Joint-Exploration-with-the-Enemy---Revealing-Needed/
+links:
+- name: URL
+  url: http://www.ginevraresearch.com/index.php/en/repository/Research-Fellow/Rabl-M./Joint-Exploration-with-the-Enemy---Revealing-Needed/
 ---

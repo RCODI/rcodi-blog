@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2020-11-01'
+date: '2020-11-23'
 lastmod: 2023-01-19T17:46:01-05:00
 featured: false
 draft: false
@@ -26,7 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:00.366410Z'
+publishDate: '2023-05-14T15:12:51.041155Z'
 publication_types:
 - '2'
 abstract: A virtual Purdue hackathon using data science to gain insight into local
@@ -34,7 +34,7 @@ abstract: A virtual Purdue hackathon using data science to gain insight into loc
   The last day to join is Dec. 4. Participants can submit multiple times. Individuals
   age 18 or older, both students and others, can participate in this effort to strengthen
   the Protect Purdue initiative. Total prize money is $5,000.
-publication: '*Purdue Today*'
+publication: ''
 links:
 - name: URL
   url: https://www.purdue.edu/newsroom/purduetoday/releases/2020/Q4/hackathon-to-research-some-local-covid-19-risks-using-data-science.html

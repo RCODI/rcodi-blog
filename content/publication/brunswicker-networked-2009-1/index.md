@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The networked SME: Taking a closer look into open and collaborative innovation
-  in European SMEs'
+title: The networked SME–Taking a closer look into open and collaborative innovation
+  in European SMEs
 subtitle: ''
 summary: ''
 authors:
-- Sabine Brunswicker
-- Henry Chesbrough
+- S Brunswicker
 tags: []
 categories: []
 date: '2009-01-01'
@@ -29,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:16.439367Z'
+publishDate: '2023-05-14T15:13:00.671463Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: '*Haas School of Business, Garwood Center for Innovation. University
-  of California*'
+publication: ''
 ---

@@ -5,7 +5,7 @@ title: Human-AI Interaction
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2017-11-01'
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:55.674055Z'
+publishDate: '2023-05-14T15:12:16.081651Z'
 publication_types:
-- '0'
+- '3'
 abstract: ''
 publication: ''
 ---

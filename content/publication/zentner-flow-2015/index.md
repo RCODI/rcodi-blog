@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'In the Flow: Evolving from Utility Based Socail Medium to Community Peer'
+title: 'In the Flow: Evolving from Utility Based Social Medium to Community Peer'
 subtitle: ''
 summary: ''
 authors:
-- Michael G. Zentner
-- Lynn K. Zentner
+- Michael G Zentner
+- Lynn K Zentner
 - Dwight McKay
 - Swaroop Samek
 - Nathan Denny
@@ -33,11 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:02.724754Z'
+publishDate: '2023-05-14T15:12:59.133164Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Transparency in Social Media, Tools, Methods and Algorithms for Mediating
-  Online Interactions*'
+publication: '*Transparency in Social Media*'
 url_pdf: http://link.springer.com/chapter/10.1007/978-3-319-18552-1_10#page-1
+links:
+- name: URL
+  url: http://link.springer.com/chapter/10.1007/978-3-319-18552-1_10#page-1
 ---

@@ -10,8 +10,8 @@ authors:
 - Sabine Brunswicker
 - Ann Majchrzak
 tags:
-- Control mechanism
 - Innovation performance
+- Control mechanism
 - Knowledge search breadth and depth
 - OI project
 - Process/outcome control
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:19.119937Z'
+publishDate: '2023-05-14T15:13:14.632643Z'
 publication_types:
 - '2'
 abstract: Purpose This study aims to investigate the effects of project-level external
@@ -56,7 +56,7 @@ abstract: Purpose This study aims to investigate the effects of project-level ex
   and depth alone, but by building process and outcome control mechanism on it to
   balance knowledge sharing and protecting tension. Furthermore, Outcome control is
   only helpful with less complex OI projects.
-publication: '*Journal of Knowledge Management*'
+publication: ''
 doi: 10.1108/JKM-03-2020-0222
 links:
 - name: URL

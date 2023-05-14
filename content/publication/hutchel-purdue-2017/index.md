@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:59.578676Z'
+publishDate: '2023-05-14T15:12:20.880672Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: https://www.purdue.edu/newsroom/releases/2017/Q1/purdue,-accenture-examine-open-innovation-in-large-companies.html
+links:
+- name: URL
+  url: https://www.purdue.edu/newsroom/releases/2017/Q1/purdue,-accenture-examine-open-innovation-in-large-companies.html
 ---

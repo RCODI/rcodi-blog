@@ -8,7 +8,7 @@ authors:
 - 'OIC Editor '
 tags: []
 categories: []
-date: '2015-05-01'
+date: '2015-05-30'
 lastmod: 2021-02-15T18:58:23-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:11.460182Z'
+publishDate: '2023-05-14T15:12:35.886641Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Open Innovation Community*'
+publication: ''
 url_pdf: http://openinnovation.net/featured/purdue-red-hat-collaborating-on-open-innovation/
+links:
+- name: URL
+  url: http://openinnovation.net/featured/purdue-red-hat-collaborating-on-open-innovation/
 ---

@@ -8,7 +8,7 @@ authors:
 - ' Stuttgart'
 tags: []
 categories: []
-date: '2016-10-01'
+date: '2016-10-28'
 lastmod: 2021-02-15T18:58:18-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:07.681161Z'
+publishDate: '2023-05-14T15:12:30.259518Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: http://www.pressebox.de/inaktiv/osb-alliance-open-source-business-alliance-ev/Open-to-Openness-Mehr-Offenheit-wagen/boxid/822238
+links:
+- name: URL
+  url: http://www.pressebox.de/inaktiv/osb-alliance-open-source-business-alliance-ev/Open-to-Openness-Mehr-Offenheit-wagen/boxid/822238
 ---

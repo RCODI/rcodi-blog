@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Managing innovation capability in SMEs: The Fraunhofer three-stage approach'
+title: Managing innovation capability in SMEs
 subtitle: ''
 summary: ''
 authors:
-- H.J. Bullinger
+- Hans-Jörg Bullinger
 - Marc Bannert
 - Sabine Brunswicker
 tags: []
@@ -29,10 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:54.274105Z'
+publishDate: '2023-05-14T15:12:54.031359Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Asia-Pacific Tech Monitor*'
+publication: ''
 url_pdf: http://www.techmonitor.net/tm/images/9/9f/07may_jun_sf1.pdf
 ---

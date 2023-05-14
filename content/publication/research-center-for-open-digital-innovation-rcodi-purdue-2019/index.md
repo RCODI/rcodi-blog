@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:18.737757Z'
+publishDate: '2023-05-14T15:12:45.116645Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*This is the youtube channel with the winners from the hack 2019*'
+publication: ''
 url_pdf: https://www.youtube.com/playlist?list=PLIT-Ltqt_HO4-vegc4hue9Gm5IIPUSxZW
+links:
+- name: URL
+  url: https://www.youtube.com/playlist?list=PLIT-Ltqt_HO4-vegc4hue9Gm5IIPUSxZW
 ---

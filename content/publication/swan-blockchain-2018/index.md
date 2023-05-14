@@ -9,7 +9,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2018-08-01'
+date: '2018-08-16'
 lastmod: 2021-02-15T18:58:37-05:00
 featured: false
 draft: false
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:22.423516Z'
+publishDate: '2023-05-14T15:12:49.793145Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*AMCIS 2018 Proceedings*'
+publication: ''
 url_pdf: https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4
+links:
+- name: URL
+  url: https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4
 ---

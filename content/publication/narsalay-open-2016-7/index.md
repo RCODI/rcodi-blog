@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Open Innovation at Bosch
+title: Open Innovation at Samsung
 subtitle: ''
 summary: ''
 authors:
 - Raghav Narsalay
 - Sabine Brunswicker
 - Mehdi Bagherzadeh
-- Kapur Mamta
+- Mamta Kapur
 tags: []
 categories: []
 date: '2016-01-01'
@@ -30,9 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:33.135232Z'
+publishDate: '2023-05-14T15:13:17.015341Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accenture*'
+publication: ''
+url_pdf: https://www.accenture.com/t00010101t000000__w__/gb-en/_acnmedia/pdf-43/accenture-open-innovation-at-samsung.pdf
 ---

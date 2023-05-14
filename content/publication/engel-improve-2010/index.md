@@ -5,9 +5,9 @@ title: ImPRovE. A European project with impact. 50 success stories on innovation
 subtitle: ''
 summary: ''
 authors:
-- K. Engel
-- E. Diedrichs
-- S. Brunswicker
+- Kai Engel
+- Eva Diedrichs
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2010-01-01'
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:59.058459Z'
+publishDate: '2023-05-14T15:12:20.367654Z'
 publication_types:
 - '4'
 abstract: ''

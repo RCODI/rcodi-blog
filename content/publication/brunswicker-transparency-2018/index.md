@@ -9,7 +9,8 @@ authors:
 - Bjørn Jensen
 - Zhounan Song
 - Ann Majchrzak
-tags: []
+tags:
+- innovation
 categories: []
 date: '2018-10-01'
 lastmod: 2021-02-15T18:58:33-05:00
@@ -30,11 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:18.904917Z'
+publishDate: '2023-05-14T15:12:45.319912Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of the Association for Information Science and Technology*'
+publication: ''
 url_pdf: http://doi.wiley.com/10.1002/asi.24033
 doi: 10.1002/asi.24033
+links:
+- name: URL
+  url: http://doi.wiley.com/10.1002/asi.24033
 ---

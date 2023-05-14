@@ -30,10 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:13.714704Z'
+publishDate: '2023-05-14T15:12:38.618615Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Conference of Information Systems (ICIS)*'
 url_pdf: http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1274&context=icis2014
+links:
+- name: URL
+  url: http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1274&context=icis2014
 ---

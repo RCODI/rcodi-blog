@@ -3,12 +3,12 @@
 
 title: 'Eyetracking the use of a simulated prototype of an inflight-entertainment-system.
   (German title: Analyse der Augenbewegungen bei der Bedienung eines simulierten Prototypen
-  eines, Inflight-Entertainment-Systems)'
+  eines ,Inflight-Entertainment-Systems\")'
 subtitle: ''
 summary: ''
 authors:
-- J. Mussgnug
-- S. Brunswicker
+- Jochen Mussgnug
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2003-10-01'
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:15.632265Z'
+publishDate: '2023-05-14T15:12:41.072625Z'
 publication_types:
 - '1'
 abstract: ''

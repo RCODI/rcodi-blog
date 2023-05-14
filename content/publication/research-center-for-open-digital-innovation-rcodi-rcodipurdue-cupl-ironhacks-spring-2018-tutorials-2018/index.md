@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:51.224472Z'
+publishDate: '2023-05-14T15:12:08.948562Z'
 publication_types:
 - '0'
 abstract: Creation of Chinese tutorials for IronHacks (IH) Spring 2018

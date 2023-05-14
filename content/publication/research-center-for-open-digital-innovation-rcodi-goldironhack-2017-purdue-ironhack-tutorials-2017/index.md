@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:51.933326Z'
+publishDate: '2023-05-14T15:12:10.288514Z'
 publication_types:
 - '0'
 abstract: Tutorials of the technologies required for the contest. It includes videos,
@@ -35,4 +35,7 @@ abstract: Tutorials of the technologies required for the contest. It includes vi
 publication: '*Zenodo*'
 url_pdf: https://zenodo.org/record/1305459#.Wz2gxNhKjBI
 doi: 10.5281/zenodo.1305459
+links:
+- name: URL
+  url: https://zenodo.org/record/1305459#.Wz2gxNhKjBI
 ---

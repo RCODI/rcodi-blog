@@ -10,7 +10,7 @@ authors:
 - Albert Armisen
 tags: []
 categories: []
-date: '2016-04-01'
+date: '2016-04-13'
 lastmod: 2021-02-15T18:58:02-05:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:54.945166Z'
+publishDate: '2023-05-14T15:12:14.999098Z'
 publication_types:
-- '0'
+- '3'
 abstract: ''
 publication: ''
 ---

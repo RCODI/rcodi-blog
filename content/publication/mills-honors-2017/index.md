@@ -8,7 +8,7 @@ authors:
 - Bob Mills
 tags: []
 categories: []
-date: '2017-12-01'
+date: '2017-12-13'
 lastmod: 2021-02-15T18:57:56-05:00
 featured: false
 draft: false
@@ -27,12 +27,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:50.361542Z'
+publishDate: '2023-05-14T15:12:07.757151Z'
 publication_types:
 - '0'
 abstract: Three Honors College students received top honors in the Fall 2017 Purdue
   IronHacks competition, which challenges competitors to use data to create something
   novel.
-publication: '*Honors College Community*'
+publication: ''
 url_pdf: https://honors.purdue.edu/community/news/honors-college-students-earn-ironhacks-recognition/
+links:
+- name: URL
+  url: https://honors.purdue.edu/community/news/honors-college-students-earn-ironhacks-recognition/
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Effect of Proximity in Social Data Charts on Perceived Group Unity
+title: The Effect of Proximity in Social Data Charts on Perceived Unity
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,7 @@ authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2018-10-01'
+date: '2018-01-01'
 lastmod: 2023-01-19T17:46:06-05:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:05.600547Z'
+publishDate: '2023-05-14T15:13:08.378351Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IEEE Visual Analytics Science and Technology (VAST)*'
+publication: '*2018 IEEE Conference on Visual Analytics Science and Technology (VAST)*'
 ---

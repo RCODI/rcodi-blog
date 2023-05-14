@@ -9,7 +9,7 @@ authors:
 - Phillip Fiorini
 tags: []
 categories: []
-date: '2015-02-01'
+date: '2015-02-26'
 lastmod: 2021-02-15T18:58:22-05:00
 featured: false
 draft: false
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:10.935818Z'
+publishDate: '2023-05-14T15:12:34.976738Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Purdue University News*'
+publication: ''
 url_pdf: http://www.purdue.edu/newsroom/releases/2016/Q1/microsoft-research-vice-president-to-discuss-computing-innovations.html
+links:
+- name: URL
+  url: http://www.purdue.edu/newsroom/releases/2016/Q1/microsoft-research-vice-president-to-discuss-computing-innovations.html
 ---

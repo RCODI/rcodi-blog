@@ -5,8 +5,8 @@ title: A Fad or a Phenomenon? The Adoption of Open Innovation Practices in Large
 subtitle: ''
 summary: ''
 authors:
-- H. Chesbrough
-- S. Brunswicker
+- Henry Chesbrough
+- Sabine Brunswicker
 tags: []
 categories: []
 date: '2014-01-01'
@@ -28,11 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:03.979930Z'
+publishDate: '2023-05-14T15:12:25.532722Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Research Technology Management*'
+publication: ''
 url_pdf: http://www.tandfonline.com/doi/abs/10.5437/08956308X5702196
 doi: 10.5437/08956308X5702196
+links:
+- name: URL
+  url: http://www.tandfonline.com/doi/abs/10.5437/08956308X5702196
 ---

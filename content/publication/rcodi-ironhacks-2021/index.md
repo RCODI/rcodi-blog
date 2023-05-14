@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:23.653250Z'
+publishDate: '2023-05-14T15:12:51.999088Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
 url_pdf: https://ironhacks.github.io/docs/
+links:
+- name: URL
+  url: https://ironhacks.github.io/docs/
 ---

@@ -8,7 +8,7 @@ authors:
 - ' RCODI'
 tags: []
 categories: []
-date: '2020-11-01'
+date: '2020-11-15'
 lastmod: 2021-02-15T18:58:36-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:21.897593Z'
+publishDate: '2023-05-14T15:12:48.998729Z'
 publication_types:
 - '0'
 abstract: ''
 publication: '*Research Center for Open Digital Innovation*'
 url_pdf: https://github.com/ironhacks/Tutorials-COVID-19
+links:
+- name: URL
+  url: https://github.com/ironhacks/Tutorials-COVID-19
 ---

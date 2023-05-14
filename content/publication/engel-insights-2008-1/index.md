@@ -1,13 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Insights on innovation management in Europe. Tangible results from ImPRovE
+title: 'Insights on Innovation Management in Europe: Tangible Results from IMP3rove'
 subtitle: ''
 summary: ''
 authors:
 - Kai Engel
 - Eva Diedrichs
 - Sabine Brunswicker
+- European Commission (Directorate-General for Enterprise
+- ' Industry)'
 tags: []
 categories: []
 date: '2008-01-01'
@@ -29,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:52.523832Z'
+publishDate: '2023-05-14T15:12:56.864619Z'
 publication_types:
-- '4'
+- '2'
 abstract: ''
 publication: ''
 ---

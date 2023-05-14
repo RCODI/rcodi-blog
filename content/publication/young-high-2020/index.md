@@ -8,7 +8,7 @@ authors:
 - Jeffrey Young
 tags: []
 categories: []
-date: '2020-11-01'
+date: '2020-11-03'
 lastmod: 2023-01-19T17:45:16-05:00
 featured: false
 draft: false
@@ -27,11 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:03.815365Z'
+publishDate: '2023-05-14T15:13:12.532992Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Pandemic Campus Diaries: A Podcast Series*'
+publication: '*EdSurge*'
 links:
 - name: URL
   url: https://www.edsurge.com/news/2020-11-03-high-stakes-high-anxiety-how-the-lead-up-to-election-day-looked-on-six-campuses

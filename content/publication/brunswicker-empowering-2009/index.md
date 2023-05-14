@@ -6,7 +6,7 @@ title: Empowering Europe's future. A future-oriented approach to exploiting clus
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
+- Sabine Brunswicker
 - G. Bhardwaj
 - D Gonzalez
 tags: []
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:07.508950Z'
+publishDate: '2023-05-14T15:12:30.003091Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Performance*'
+publication: ''
 ---

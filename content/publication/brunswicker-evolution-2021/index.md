@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:22.523537Z'
+publishDate: '2023-05-14T15:13:18.024205Z'
 publication_types:
 - '2'
 abstract: 'In Open Source Software (OSS) communities, coordination happens based on
@@ -52,7 +52,7 @@ abstract: 'In Open Source Software (OSS) communities, coordination happens based
   the formation of coordination relationships across different evolutionary periods,
   does knowledge similarity only sustain its effect in the early stages of OSS coordination.
   Our findings contribute to the scholarship on OSS and online communities more broadly.'
-publication: '*Academy of Management Proceedings*'
+publication: ''
 doi: 10.5465/AMBPP.2021.267
 links:
 - name: URL

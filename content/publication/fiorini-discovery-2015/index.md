@@ -9,7 +9,7 @@ authors:
 - Anna Schultz
 tags: []
 categories: []
-date: '2015-09-01'
+date: '2015-09-28'
 lastmod: 2021-02-15T18:58:21-05:00
 featured: false
 draft: false
@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:10.421404Z'
+publishDate: '2023-05-14T15:12:34.223936Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
 url_pdf: https://www.purdue.edu/newsroom/releases/2015/Q3/discovery-lecture-series-features-talk-on-innovation-disruption.html
+links:
+- name: URL
+  url: https://www.purdue.edu/newsroom/releases/2015/Q3/discovery-lecture-series-features-talk-on-innovation-disruption.html
 ---

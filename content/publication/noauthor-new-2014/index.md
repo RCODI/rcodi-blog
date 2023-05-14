@@ -7,7 +7,7 @@ summary: ''
 authors: []
 tags: []
 categories: []
-date: '2014-04-01'
+date: '2014-04-14'
 lastmod: 2021-02-15T18:58:22-05:00
 featured: false
 draft: false
@@ -26,10 +26,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:10.594576Z'
+publishDate: '2023-05-14T15:12:34.465185Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*The University Record: Higher Ed Briefs*'
+publication: ''
 url_pdf: https://record.umich.edu/articles/higher-ed-briefs-18
+links:
+- name: URL
+  url: https://record.umich.edu/articles/higher-ed-briefs-18
 ---

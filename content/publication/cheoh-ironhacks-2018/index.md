@@ -9,7 +9,7 @@ authors:
 - Jia Lin Cheoh
 tags: []
 categories: []
-date: '2018-10-01'
+date: '2018-10-05'
 lastmod: 2021-02-15T18:55:46-05:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 - ironhacks
-publishDate: '2021-04-12T16:48:48.576040Z'
+publishDate: '2023-05-14T15:12:05.947872Z'
 publication_types:
-- '0'
+- '3'
 abstract: New IronHacks software is developed as a tool for running multiphase hackathons,
   which is also the first tool developed to run hackathons in a tightly controlled
   environment. The IronHacks software is a user interface where participants create

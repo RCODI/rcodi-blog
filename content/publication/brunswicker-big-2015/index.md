@@ -5,9 +5,9 @@ title: Big Data for Open Digital Innovation – A Research Roadmap
 subtitle: ''
 summary: ''
 authors:
-- S. Brunswicker
-- E. Bertino
-- S. Matei
+- Sabine Brunswicker
+- Elisa Bertino
+- Sorin Matei
 tags: []
 categories: []
 date: '2015-01-01'
@@ -29,11 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:18.393366Z'
+publishDate: '2023-05-14T15:12:44.608353Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Big Data Research*'
+publication: ''
 url_pdf: http://www.sciencedirect.com/science/article/pii/S221457961500009X
 doi: http://dx.doi.org/10.1016/j.bdr.2015.01.008
+links:
+- name: URL
+  url: http://www.sciencedirect.com/science/article/pii/S221457961500009X
 ---

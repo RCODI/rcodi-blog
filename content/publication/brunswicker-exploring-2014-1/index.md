@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Exploring Open Innovation in Small and Medium-Sized Enterprises
+title: Exploring Open Innovation in Small and medium-sized Enterprises
 subtitle: ''
 summary: ''
 authors:
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:13.377811Z'
+publishDate: '2023-05-14T15:12:57.377824Z'
 publication_types:
 - '6'
 abstract: ''

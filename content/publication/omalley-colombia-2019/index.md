@@ -8,7 +8,7 @@ authors:
 - John O'Malley
 tags: []
 categories: []
-date: '2019-04-01'
+date: '2019-04-22'
 lastmod: 2021-02-15T18:58:32-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:18.571334Z'
+publishDate: '2023-05-14T15:12:44.845240Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Purdue Polytechnic Newsroom*'
+publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/colombia-students-earn-wins-at-purdue-rcodi-spring-2019-ironhacks-competition
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/colombia-students-earn-wins-at-purdue-rcodi-spring-2019-ironhacks-competition
 ---

@@ -12,32 +12,32 @@ tags:
 - Programming
 - Organizations
 - Productivity
-- Software metrics
+- software metrics
 - Complexity theory
-- Modularization
-- Software engineering
-- Software quality
+- modularization
+- software engineering
+- software quality
 - Context
-- Coordination activity
-- Coordination breakdowns
-- Coordination requirements
-- Development process
-- Development productivity
-- Dynamic development contexts
-- Engineering activity
-- Interdependent modules
-- Large-scale projects
+- coordination activity
+- coordination breakdowns
+- coordination requirements
+- development process
+- development productivity
+- dynamic development contexts
+- engineering activity
+- interdependent modules
+- large-scale projects
 - Metrics/measurement
-- Organizational management and coordination
-- Process maturity
-- Product maturity
-- Quality analysis and evaluation
-- Socio-technical congruence
-- Software development projects
-- Software failures
-- Software reliability
-- Technical dependency
-- Work dependency
+- organizational management and coordination
+- process maturity
+- product maturity
+- quality analysis and evaluation
+- socio-technical congruence
+- software development projects
+- software failures
+- software reliability
+- technical dependency
+- work dependency
 categories: []
 date: '2013-03-01'
 lastmod: 2021-02-15T18:58:05-05:00
@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:57.629140Z'
+publishDate: '2023-05-14T15:12:18.459193Z'
 publication_types:
 - '2'
 abstract: The success of software development projects depends on carefully coordinating
@@ -79,6 +79,6 @@ abstract: The success of software development projects depends on carefully coor
   Finally, our results showed the congruence between dependencies and coordinative
   actions is critical both in mature development settings as well as in novel and
   dynamic development contexts.
-publication: '*IEEE Transactions on Software Engineering*'
+publication: ''
 doi: 10.1109/TSE.2012.32
 ---

@@ -7,6 +7,7 @@ summary: ''
 authors:
 - Sabine Brunswicker
 - Sam Bucolo
+- Cara Wrigley
 tags: []
 categories: []
 date: '2012-07-01'
@@ -28,10 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:01.689399Z'
+publishDate: '2023-05-14T15:12:22.950160Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*EGOS Symposium*'
 url_pdf: http://link.springer.com/chapter/10.1007/978-3-319-00179-1_13#page-1
+doi: 10.1007/978-3-319-00179-1_13
+links:
+- name: URL
+  url: http://link.springer.com/chapter/10.1007/978-3-319-00179-1_13#page-1
 ---

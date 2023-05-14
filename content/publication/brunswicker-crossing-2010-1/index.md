@@ -1,12 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Crossing horizons: leveraging cross-industry innovation search in the front-end
-  of the innovation process'
+title: 'Crossing horizons: Applying analogies to source technologies in the front-end
+  of the innovation processes'
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
+- Joachim Warschat
 - Ulrich Hutschek
 tags: []
 categories: []
@@ -29,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:03.630220Z'
+publishDate: '2023-05-14T15:12:53.757040Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*International Journal of Innovation Management*'
+publication: '*PICMET 2010 TECHNOLOGY MANAGEMENT FOR GLOBAL ECONOMIC GROWTH*'
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S1363919610002829
 ---

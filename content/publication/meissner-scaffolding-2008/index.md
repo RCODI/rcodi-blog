@@ -31,11 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:13.916551Z'
+publishDate: '2023-05-14T15:12:38.875949Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*14th International Conference on Concurrent Enterprising. A new wave
   of innovation in collaborative networks*'
 url_pdf: http://ieeexplore.ieee.org/abstract/document/7462128/
+links:
+- name: URL
+  url: http://ieeexplore.ieee.org/abstract/document/7462128/
 ---

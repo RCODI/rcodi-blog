@@ -8,7 +8,7 @@ authors:
 - ' bob'
 tags: []
 categories: []
-date: '2015-05-01'
+date: '2015-05-15'
 lastmod: 2021-02-15T18:58:23-05:00
 featured: false
 draft: false
@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:11.795126Z'
+publishDate: '2023-05-14T15:12:36.418941Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*LXer: Linux News*'
+publication: ''
 url_pdf: http://lxer.com/module/newswire/view/214252/index.html
+links:
+- name: URL
+  url: http://lxer.com/module/newswire/view/214252/index.html
 ---

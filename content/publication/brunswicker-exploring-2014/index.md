@@ -28,10 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:03.085741Z'
+publishDate: '2023-05-14T15:12:24.757246Z'
 publication_types:
 - '6'
 abstract: ''
 publication: '*New Frontiers in Open Innovation*'
 url_pdf: https://books.google.com/books?hl=en&lr=&id=ySsDBQAAQBAJ&oi=fnd&pg=PA135&dq=Exploring+Open+Innovation+in+Small+and+Medium-Sized+Enterprises&ots=jKSvPXVmDW&sig=t2dIFJNT0tnFMIiADWvduZ-aPgM#v=onepage&q=Exploring%20Open%20Innovation%20in%20Small%20and%20Medium-Sized%20Enterprises&f=false
+links:
+- name: URL
+  url: https://books.google.com/books?hl=en&lr=&id=ySsDBQAAQBAJ&oi=fnd&pg=PA135&dq=Exploring+Open+Innovation+in+Small+and+Medium-Sized+Enterprises&ots=jKSvPXVmDW&sig=t2dIFJNT0tnFMIiADWvduZ-aPgM#v=onepage&q=Exploring%20Open%20Innovation%20in%20Small%20and%20Medium-Sized%20Enterprises&f=false
 ---

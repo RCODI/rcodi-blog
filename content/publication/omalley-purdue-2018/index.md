@@ -27,11 +27,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:50.031347Z'
+publishDate: '2023-05-14T15:12:07.143504Z'
 publication_types:
 - '2'
 abstract: Eighty-seven student participants of IronHacks, the open data hacking competition,
   were celebrated on the Universidad Nacional de Colombia campus in Bogota, Colombia.
-publication: '*Purdue Polytechnic Newsroom*'
+publication: ''
 url_pdf: https://polytechnic.purdue.edu/newsroom/purdue-rcodi-spring-2018-ironhacks-winners-announced
+links:
+- name: URL
+  url: https://polytechnic.purdue.edu/newsroom/purdue-rcodi-spring-2018-ironhacks-winners-announced
 ---

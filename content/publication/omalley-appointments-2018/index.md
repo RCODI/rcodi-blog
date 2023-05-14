@@ -27,10 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:50.190062Z'
+publishDate: '2023-05-14T15:12:07.447828Z'
 publication_types:
 - '2'
 abstract: Student honors.
-publication: '*Purdue Polytechnic Newsroom*'
+publication: ''
 url_pdf: https://www.purdue.edu/newsroom/releases/2018/Q3/appointments,-honors-and-activities3.html
+links:
+- name: URL
+  url: https://www.purdue.edu/newsroom/releases/2018/Q3/appointments,-honors-and-activities3.html
 ---

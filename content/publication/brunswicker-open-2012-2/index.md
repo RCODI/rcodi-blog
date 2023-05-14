@@ -1,14 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Open innovation sourcing in SMEs – Choice or curse?
+title: 'Open Innovation Sourcing in Small and Medium-sized Enterprises (SMEs): Choice
+  or Curse?'
 subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
 tags: []
 categories: []
-date: '2012-08-01'
+date: '2012-01-01'
 lastmod: 2021-02-15T18:58:31-05:00
 featured: false
 draft: false
@@ -27,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:17.706119Z'
+publishDate: '2023-05-14T15:13:07.118859Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*72nd Annual Meeting of the Academy of Management*'
+publication: '*Academy of Management Proceedings*'
 ---

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sabine Brunswicker
-- Jeff Nickerson
+- Jeffrey V Nickerson
 - Satyam Mukherjee
 tags: []
 categories: []
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:06.474639Z'
+publishDate: '2023-05-14T15:13:05.895282Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Organization Winter Conference 2018*'
+publication: ''
 ---

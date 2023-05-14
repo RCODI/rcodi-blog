@@ -8,7 +8,7 @@ authors:
 - Jeffrey Young
 tags: []
 categories: []
-date: '2020-10-01'
+date: '2020-10-20'
 lastmod: 2023-01-19T17:45:17-05:00
 featured: false
 draft: false
@@ -27,11 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:45:16.394979Z'
+publishDate: '2023-05-14T15:13:12.247963Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*Pandemic Campus Diaries: A Podcast Series*'
+publication: '*EdSurge*'
 links:
 - name: URL
   url: https://www.edsurge.com/news/2020-10-20-who-is-missing-from-college-during-the-pandemic-a-lot-of-students-actually

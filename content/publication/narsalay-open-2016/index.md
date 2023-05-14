@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Open Innovation at HP Labs
+title: Open Innovation at Bosch
 subtitle: ''
 summary: ''
 authors:
 - Raghav Narsalay
 - Sabine Brunswicker
 - Mehdi Bagherzadeh
-- Gregory Roberts
+- Kapur Mamta
 tags: []
 categories: []
 date: '2016-01-01'
@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-19T22:46:26.938284Z'
+publishDate: '2023-05-14T15:13:15.241562Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Accenture*'
+publication: ''
 url_pdf: https://www.accenture.com/t20170222t041812__w__/cz-en/_acnmedia/pdf-43/accenture-open-innovation-at-hp-labs.pdf
 ---

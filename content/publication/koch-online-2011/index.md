@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Online Crowdsourcing in the Public Sector: How to Design Open Government Platforms'
+title: 'Online crowdsourcing in the public sector: how to design open government platforms'
 subtitle: ''
 summary: ''
 authors:
@@ -29,10 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:13.528984Z'
+publishDate: '2023-05-14T15:12:55.101241Z'
 publication_types:
-- '6'
+- '1'
 abstract: ''
-publication: '*Online Communities and Social Computing*'
+publication: '*International Conference on Online Communities and Social Computing*'
 url_pdf: http://dx.doi.org/10.1007/978-3-642-21796-8_22
 ---

@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:49:00.635356Z'
+publishDate: '2023-05-14T15:12:21.916159Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Outlook*'
+publication: ''
 url_pdf: https://www.accenture.com/us-en/insight-outlook-smart-way-open-innovation-process
+links:
+- name: URL
+  url: https://www.researchgate.net/publication/308382635_The_smart_way_to_open_your_innovation_process
 ---

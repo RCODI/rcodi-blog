@@ -11,7 +11,7 @@ tags:
 - Open innovation
 - Survey
 categories: []
-date: '2018-01-01'
+date: '2018-01-02'
 lastmod: 2021-02-15T18:58:01-05:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-12T16:48:54.064960Z'
+publishDate: '2023-05-14T15:12:13.704846Z'
 publication_types:
 - '2'
 abstract: OVERVIEWWe present a large-sample survey of open innovation adoption and
@@ -44,7 +44,10 @@ abstract: OVERVIEWWe present a large-sample survey of open innovation adoption a
   out of projects and are formalizing processes as they move from problem definition
   to execution. We conclude with observations about the organizational challenges
   and risks of shifting to an open innovation approach.
-publication: '*Research-Technology Management*'
+publication: ''
 url_pdf: https://doi.org/10.1080/08956308.2018.1399022
 doi: 10.1080/08956308.2018.1399022
+links:
+- name: URL
+  url: https://doi.org/10.1080/08956308.2018.1399022
 ---
