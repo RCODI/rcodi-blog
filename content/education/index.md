@@ -24,7 +24,9 @@ name: "wp"
 templated: "true"
 ---
 
-## Education
+## Case Studies
+As part of our educational activities, we have created case studies that can be used for teaching purposes. 
+Some of our case studies have been published in the Oxford Handbook for Open Innovation. You find the complete case study documentation accesssible [here](https://rcodi.org/oxfordhbcases)
 
 ## Courses
 
