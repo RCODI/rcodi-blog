@@ -64,4 +64,4 @@ The case describes how an R&D team at Ford uses the open source/open access soft
 
 HP. (2004). HP News - HP and DreamWorks Give Innovation a Starring Role in ‘Shrek 2.’ https://www.hp.com/us-en/hp-news/press-release.html?id=172006#.Yt9LkezMK0o (Accessed July 25, 2022).
 
-Sabine Brunswicker. (2023). Teaching Engineers about Open Innovation. In Henry Chesbrough, Agnieszka Radziwon, Wim Vanhaverbeke, & Joel West (Eds.), Handbook for Open Innovation. Oxford University Press.
+Brunswicker, S. (2023). Teaching Engineers about Open Innovation. In H. Chesbrough, A. Radziwon, W. Vanhaverbeke, & J. West (Eds.), Handbook for Open Innovation. Oxford University Press.
