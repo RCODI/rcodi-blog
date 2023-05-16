@@ -19,7 +19,7 @@ Software supply chain attacks, a form of software compromise [(MITRE ATT&CK®, 2
 
 The **GUAC-ALYTICS** program aims to increase the transparency of Complex Open Source Software (OSS) Supply-chains using theories and models of network science [(Izenman, 2023)](#3) and machine learning. In OSS, the software's source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development. With the rise of OSS, the software has impacted how individuals and organizations move through the software supply chain, including activities such as source code development, building & packaging, re-configuration & re-packaging (e.g., containerizing), and deployment. Today almost every software vendor – whether a small start-up or a large corporation like Microsoft, IBM, Google or RedHat – reuses and integrates packages from freely-available OSS products when moving through this chain [(Open Source Security and Analysis Report, 2023)](#4). Figure [1](#222) below shows the supply chain of Debian, a popular operating software developed by a large community of OSS developers [(Debian – the Universal Operating System, 2022)](#5).
 
-<a id="222">[222]</a> 
+<a id="222"></a> 
 ![](./Debian.png)
 <p align="center">
 Figure 1: Supply Chain of the Debian Ecosystem
@@ -32,7 +32,7 @@ Guac-alytics builds on top of the **[GUAC project (Graph for Understanding Artif
 ## Why a network view towards OSS supply-chain risk modeling? 
 Open Source Software (OSS) [(Mair, 2022)](#9) has become an essential part of the software development process, enabling organizations to reduce development time and costs by reusing and integrating packages from different OSS products. Recent studies have revealed that around 80% of software contains OSS components. However, this also increases the risks associated with OSS supply chain interdependencies. These interdependencies have also raised concerns about security vulnerabilities and software attacks that could compromise sensitive data and system operations.
 
-<a id="232">[232]</a> 
+<a id="232"></a> 
 ![](./network-supply-chain.png)
 <p align="center">
 Figure 2: OSS Supply Chain Ecosystem as Network of Interdependent Packages
@@ -50,7 +50,7 @@ To achieve this goal, we collect and analyze various representative supply chain
 Our approach involves constructing temporal networks to model open-source software (OSS) supply chains using supply-chain trace data collected from the build provenance [(Buildinfos, 2023)](#18) database. In these networks, each node represents a package, and each edge represents a supply-chain interdependence between two packages. These the node attributes are the popularity and vulnerability measures of each package. The networks we construct will be directed, meaning that the edges have a specific direction indicating the flow of dependencies between packages over time. Also, we define a package’s security risk as the likelihood and the impact of a potential software compromise for that particular package. These models help identify potential weaknesses and interdependencies in the supply chain, enabling organizations to mitigate the risks proactively. In addition, using network science methods, we are trying to identify patterns and anomalies in the data that are difficult to detect using traditional security techniques.
 
 ## Preliminary Results
-<a id="242">[242]</a> 
+<a id="242"></a> 
 ![](./top-20.png)
 <p align="center">
 Figure 3: Top 20 packages based on the out-degree metric
