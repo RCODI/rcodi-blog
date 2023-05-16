@@ -24,7 +24,7 @@ The **GUAC-ALYTICS** program aims to increase the transparency of Complex Open S
 Figure 1: Supply Chain of the Debian Ecosystem
 </p>
 
-However, like any other software, open-source packages can contain **vulnerabilities** and **compromises** that attackers can exploit. Vulnerabilities are weaknesses or flaws in software or hardware systems that attackers can use to gain unauthorized access or control over the system. Vulnerabilities can be introduced during the development process or added by third-party dependencies. These vulnerabilities can pose severe risks to software systems, ranging from data breaches to system failures. We refer to risk as the influence of a node in the OSS supply chain on the security of the overall software system.  The risk of security vulnerabilities and attacks arises due to the interdependencies between the various parts of the OSS supply chain. Therefore, it is essential to manage and monitor open-source software and packages for vulnerabilities (Zapata et al., [2018](https://doi.org/10.1109/icsme.2018.00067); Duan, [2020](https://arxiv.org/abs/2002.01139)). and take necessary measures to mitigate potential risks.
+However, like any other software, open-source packages can contain **vulnerabilities** and **compromises** that attackers can exploit. Vulnerabilities are weaknesses or flaws in software or hardware systems that attackers can use to gain unauthorized access or control over the system. Vulnerabilities can be introduced during the development process or added by third-party dependencies. These vulnerabilities can pose severe risks to software systems, ranging from data breaches to system failures. We refer to risk as the influence of a node in the OSS supply chain on the security of the overall software system.  The risk of security vulnerabilities and attacks arises due to the interdependencies between the various parts of the OSS supply chain. Therefore, it is essential to manage and monitor open-source software and packages for vulnerabilities (Zapata et al., [2018](https://doi.org/10.1109/icsme.2018.00067); [[2]](#2). and take necessary measures to mitigate potential risks.
 
 Guac-alytics builds on top of the **[GUAC project (Graph for Understanding Artifact Composition)](https://github.com/guacsec/guac)** in collaboration with Google and Kusari (GUAC, 2022/2023). This research project develops new theories, models, and technologies for modeling OSS supply-chain risk. It also aims to produce a collection of tools and resources designed to help researchers and practitioners better understand the risk profile of the open-source software supply-chain.
 
@@ -71,7 +71,7 @@ We want to create a more secure OSS supply chain by developing these new approac
 
 ## References
 
-<a id="1">(MITRE ATT&CK®, 2023)</a> 
+<a id="1">[1]</a> 
 MITRE ATT&CK®. (2023). https://attack.mitre.org/
 
 <a id="2">[2]</a> 
