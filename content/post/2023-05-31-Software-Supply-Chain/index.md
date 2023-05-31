@@ -6,7 +6,7 @@ tags:
 date: 2023-05-31
 ---
 
-![Mitigating software supply chain attacks](OSS.png)
+![Mitigating software supply chain attacks](featured.png)
 
 ## RCODI Press Release: On securing software supply chains and mitigating attacks
 
