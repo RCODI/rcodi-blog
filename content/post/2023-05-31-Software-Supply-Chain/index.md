@@ -6,8 +6,6 @@ tags:
 date: 2023-05-31
 ---
 
-![Mitigating software supply chain attacks](featured.png)
-
 ## RCODI Press Release: On securing software supply chains and mitigating attacks
 
 A growing force of study on software supply chains is occurring at Purdue University thanks to the collaboration between Dr. Sabine Brunswicker and Dr. Santiago Torres-Arias. While exploring for better understanding of these software structures, the GUAC-ALYTICS study aims to combat cybersecurity attacks introducing risks to a majority of companies that are utilizing open-source software (OSS). The rising challenges and holistic approaches when taking on this under-resourced topic are carefully documented through this [Purdue Today]( https://www.purdue.edu/newsroom/releases/2023/Q2/software-supply-chain-security-risks-are-here-are-we-equipped-to-act-accordingly-purdue-tandem-tackles-thorny-cybersecurity-issue.html) article.
