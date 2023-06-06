@@ -27,4 +27,4 @@ social:
 user_groups:
   - Fellows
 ---
-Jia has a B.S. in Computer Science from Purdue University and a Master in Computer Science from University of Illinois Urbana-Champaign. She is currently a PhD student in Technology. 
+Jia has a B.S. in Computer Science from Purdue University and a Master in Computer Science from University of Illinois Urbana-Champaign. She is currently a PhD student in Technology.
