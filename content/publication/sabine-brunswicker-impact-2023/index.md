@@ -34,4 +34,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*SMS 43rd Annual Conference*'
+location: Toronto, Canada
 ---
