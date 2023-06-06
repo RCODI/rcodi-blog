@@ -14,6 +14,6 @@ interests:
 ##    link: mailto://thompsone948@gmail.com
 
 user_groups:
-  - Fellows
+  - Alumni
 ---
 Miriam is receiving her M.S in Communication at the Brian Lamb School of Communication. Her interests revolve around privacy, surveillance, and content moderation on digital platforms. She hopes to use her experience working in libraries, anti-privacy organizations, and research to continue advocating for technology justice.
