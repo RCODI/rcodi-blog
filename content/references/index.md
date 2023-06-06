@@ -1,3 +1,29 @@
+---
+id: "4402"
+date: "2023-06-05T06:41:35"
+date_gmt: "2023-06-05T06:41:35"
+guid: "https://rcodi.org/?page_id=4402"
+modified: "2019-01-07T04:51:45"
+modified_gmt: "2019-01-07T04:51:45"
+slug: "oxfordhbcases"
+status: "publish"
+type: "page"
+link: "https://rcodi.org/references/"
+title: "References"
+author: "2"
+featured_media: "0"
+parent: "0"
+menu_order: "0"
+comment_status: "closed"
+ping_status: "closed"
+template: ""
+href: "https://api.w.org/{rel}"
+embeddable: "true"
+count: "0"
+name: "wp"
+templated: "true"
+---
+
 ## Books and Book Chapters
 [1] S. Brunswicker, “Teaching Engineers about Open Innovation,” in Handbook for Open Innovation, H. Chesbrough, A. Radziwon, W. Vanhaverbeke, and J. West, Eds., Oxford University Press, 2023. Accessed: May 14, 2023. [Online]. Available: https://garwoodcenter.wpenginepowered.com/wp-content/uploads/2022/02/20220223_OI-Handbook-CfP.pdf
 
