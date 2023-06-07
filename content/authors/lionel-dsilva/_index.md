@@ -26,11 +26,9 @@ social:
     link: ldsilva@purdue.edu
   - icon: instagram
     icon_pack: fab
-    link: @sierrafoxtrot10
+    link: sierrafoxtrot10
 
 user_groups:
   - Fellows
 ---
-
-I'm a Data Scientist, and former Airport Ops specialist; and my areas of interest are Computer Vision, Sensor Fusion, Generative Algorithms, and Cloud and Distributed Systems. I will be starting my PhD at Purdue in the Fall of 2023, and am very active on LinkedIn and Instagram.
-I also build track/street cars!
+Lionel Dsilva is a incoming PhD student for the Fall 2023 semester. He has
