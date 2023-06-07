@@ -24,7 +24,7 @@ name: "wp"
 templated: "true"
 ---
 
-## Books and Book Chapters
+## **Books and Book Chapters**
 [1] S. Brunswicker, “Teaching Engineers about Open Innovation,” in Handbook for Open Innovation, H. Chesbrough, A. Radziwon, W. Vanhaverbeke, and J. West, Eds., Oxford University Press, 2023. Accessed: May 14, 2023. [Online]. Available: https://garwoodcenter.wpenginepowered.com/wp-content/uploads/2022/02/20220223_OI-Handbook-CfP.pdf
 
 [2] S. Brunswicker, “Managing open innovation in small and medium-sized firms in the tourism sector,” in Open tourism: Open innovation, crowdsourcing, and collaborative consumption challenging the tourism industry, W. Egger, I. Gula, and D. Walcher, Eds., Berlin: Springer, 2015.
@@ -46,7 +46,7 @@ templated: "true"
 [10] S. Brunswicker, C. Wrigley, and S. Bucolo, “Business model experimentation: What is the role of design-led prototyping in developing novel business models?,” in The experimental nature of new venture creation, Springer, Cham, 2013, pp. 139–151.
 
 
-## Conference Proceedings and Abstract Summaries
+## **Conference Proceedings and Abstract Summaries**
 
 [1] S. Brunswicker, M. Elkady, and F. Patel, “Why do participants submit to COVID-19 data science challenges?,” presented at the Collective Intelligence 2021, 2021.
 
@@ -154,25 +154,56 @@ Maschine-Systeme, C. Steffens, M. Thuering, and L. Urbas, Eds., Berlin, Germany:
 [52] M. Swan and S. Brunswicker, “Blockchain Economic Networks and Algorithmic Trust,” AMCIS 2018 Proceedings, Aug. 2018, [Online]. Available: https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4
 
 
+## **Journal Publications**
 
-## Books and Book Chapters
+[1] S. Brunswicker, B. Jensen, Z. Song, and A. Majchrzak, “Transparency as design choice of open data contests,” Journal of the Association for Information Science and Technology, vol. 69, no. 10, pp. 1205–1222, Oct. 2018, doi: 10.1002/asi.24033.
 
-[1] S. Brunswicker, “Teaching Engineers about Open Innovation,” in Handbook for Open Innovation, H. Chesbrough, A. Radziwon, W. Vanhaverbeke, and J. West, Eds., Oxford University Press, 2023. Accessed: May 14, 2023. [Online]. Available: https://garwoodcenter.wpenginepowered.com/wp-content/uploads/2022/02/20220223_OI-Handbook-CfP.pdf
+[2] M. Bogers et al., “The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis,” Industry & Innovation, vol. 24, no. 1, pp. 8–40, 2017, doi: 10.1080/13662716.2016.1240068.
 
-[2] S. Brunswicker, “Managing open innovation in small and medium-sized firms in the tourism sector,” in Open tourism: Open innovation, crowdsourcing, and collaborative consumption challenging the tourism industry, W. Egger, I. Gula, and D. Walcher, Eds., Berlin: Springer, 2015.
+[3] S. Brunswicker and S. Mukherjee, “The microstructure of modularity in design: a design motif view,” Industrial and Corporate Change, vol. 32, no. 1, pp. 234–261, Feb. 2023, doi: 10.1093/icc/dtac051.
 
-[3] M. G. Zentner et al., “In the Flow: Evolving from Utility Based Socail Medium to Community Peer,” in Transparency in Social Media, Tools, Methods and Algorithms for Mediating Online Interactions, S. Adam Matei, M. G. Russell, and E. Bertino, Eds., in Computational Social Sciences, vol. 3. Switzerland: Springer International Publishing, 2015, pp. 183–196. [Online]. Available: http://link.springer.com/chapter/10.1007/978-3-319-18552-1_10#page-1
+[4] S. Brunswicker and S. Mukherjee, “The Microstructure of Complex Design Architectures: A Theory of Design Network Motifs,” Proceedings, vol. 2020, no. 1, p. 21853, Jul. 2020, doi: 10.5465/AMBPP.2020.21853abstract.
 
-[4] S. Brunswicker and M. Banner, “Improving the innovation capability in small and medium-sized firms (Italian title: Lo Sviluppo Delle Competenze per l’Innovazione Nelle Piccole e Medie Impresse),” in Forme organizzative a rete per la competitivita delle Pmi: Modelli teorici ed esperienze aziendali, F. Garibaldo and A. Grandi, Eds., Bologna: Timeo Editore, 2007, pp. 71–98.
+[5] S. Brunswicker and H. Chesbrough, “The Adoption of Open Innovation in Large Firms,” Research-Technology Management, vol. 61, no. 1, pp. 35–45, Jan. 2018, doi: 10.1080/08956308.2018.1399022.
 
-[5] M. Bagherzadeh and S. Brunswicker, “Governance of Knowledge Flows in Open Exploration: The Role of Behavioral Control,” in Decision Making in Behavioral Strategy (DMBS), Information Age Publishing (IAP), T. K. Das, Ed., IAP, 2016, pp. 99–119.
+[6] S. Brunswicker, V. Bilgram, and J. Fueller, “Taming wicked civic challenges with an innovative crowd,” Business Horizons, vol. 60, no. 2, pp. 167–177, Mar. 2017, doi: 10.1016/j.bushor.2016.11.001.
 
-[6] M. Bagherzadeh and S. Brunswicker, “Governance Choice in Open Innovation: The Antecedent Role of External Source Choice,” in Evaluating Media Richness in Organizational Learning, IGI Global, 2018, pp. 181–202.
+[7] M. Bagherzadeh, A. Gurca, and S. Brunswicker, “Problem Types and Open Innovation Governance Modes: A Project-Level Empirical Exploration,” IEEE Transactions on Engineering Management, pp. 1–15, 2019.
 
-[7] S. Brunswicker and V. van de Vrande, “Exploring Open Innovation in Small and Medium-Sized Enterprises,” in New Frontiers in Open Innovation, H. Chesbrough, W. Vanhaverbeke, and J. West, Eds., 1st ed.Oxford, United Kingdom: Oxford University Press, 2014, pp. 135–156. [Online]. Available: https://books.google.com/books?hl=en&lr=&id=ySsDBQAAQBAJ&oi=fnd&pg=PA135&dq=Exploring+Open+Innovation+in+Small+and+Medium-Sized+Enterprises&ots=jKSvPXVmDW&sig=t2dIFJNT0tnFMIiADWvduZ-aPgM#v=onepage&q=Exploring%20Open%20Innovation%20in%20Small%20and%20Medium-Sized%20Enterprises&f=false
+[8] S. Brunswicker, E. Almirall, and A. Majchrzak, “Optimizing and Satisficing: The Interplay Between Platform Architecture and Developers’ Design Strategies on Platform Performance,” Management Information Systems Quarterly, 2019.
 
-[8] S. Brunswicker and U. Hutschek, “Creative escapade: Identifying innovation opportunities in distant industry sectors (German title: Kreative seitensprünge. innovationspotenziale anderer branchen finden und nutzen),” in With Ideas to Success. Technology Management in Practice (German Title: Mit Ideen zum Erfolg. Technologiemanagement in der Praxis), D. Spath, Ed., Stuttgart: Fraunhofer Verlag, 2011, pp. 267–270.
+[9] S. Brunswicker and W. Vanhaverbeke, “Open Innovation in Small and Medium-Sized Enterprises (SMEs): External Knowledge Sourcing Strategies and Internal Organizational Facilitators,” Journal of Small Business Management, vol. 53, no. 4, pp. 1241–1263, 2015, doi: 10.1111/jsbm.12120.
 
-[9] S. Brunswicker, A. Majchrzak, E. Almirall, and R. Tee, “Co-creating Value from Open Data: From Incentivizing Developers to Inducing Co-creation in Open Data Ecosystems,” in Open Innovation and Innovation Networks, in The World Scientific Reference on Innovation, vol. 1. World Scientific Publishing, 2016.
+[10] S. Brunswicker and F. Ehrenmann, “Managing Open Innovation in SMEs: A Good Practice Example of a German Software Firm,” International Journal of Industrial Engineering and Management (IJIEM), vol. 4, no. 1, pp. 33–41, 2013.
 
-[10] S. Brunswicker, C. Wrigley, and S. Bucolo, “Business model experimentation: What is the role of design-led prototyping in developing novel business models?,” in The experimental nature of new venture creation, Springer, Cham, 2013, pp. 139–151.
+[11] C. Wang, S. Brunswicker, and A. Majchrzak, “Knowledge search breadth and depth and OI projects performance: a moderated mediation model of control mechanism,” Journal of Knowledge Management, vol. 25, no. 4, pp. 847–870, Jan. 2021, doi: 10.1108/JKM-03-2020-0222.
+
+[12] A. Armisen, A. Majchrzak, and S. Brunswicker, “Formative and Summative Feedback in Solution Generation: The Role of Community and Decision Support System in Open Source Software,” ICIS 2016 Proceedings, Dec. 2016, [Online]. Available: http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20
+
+[13] S. Brunswicker, U. Hutschek, and L. Wagner, “Exploration in the open innovation front–end: the role of technologies,” International Journal of Technology Intelligence and Planning, vol. 8, no. 1, pp. 1–15, 2012.
+
+[14] S. Brunswicker and S. Mukherjee, “Evolution of Coordination Structures in OSS Software: An Exponential Random Graph Model,” Proceedings, vol. 2021, no. 1, p. 15832, Aug. 2021, doi: 10.5465/AMBPP.2021.267.
+
+[15] S. Brunswicker, S. A. Matei, M. Zentner, L. Zentner, and G. Klimeck, “Creating impact in the digital space: digital practice dependency in communities of digital scientific innovations,” Scientometrics, vol. Online (09 September 2016), pp. 1–26, Sep. 2016, doi: 10.1007/s11192-016-2106-z.
+
+[16] S. Brunswicker and A. Schecter, “Coherence or flexibility? The paradox of change for developers’ digital innovation trajectory on open platforms,” Research Policy, vol. 48, no. 8, p. 103771, Oct. 2019, doi: 10.1016/j.respol.2019.03.016.
+
+[17] S. Brunswicker, E. Bertino, and S. Matei, “Big Data for Open Digital Innovation – A Research Roadmap,” Big Data Research, vol. 2, no. 2, pp. 53–58, 2015, doi: http://dx.doi.org/10.1016/j.bdr.2015.01.008.
+
+[18] H. Chesbrough and S. Brunswicker, “A Fad or a Phenomenon? The Adoption of Open Innovation Practices in Large Firms,” Research Technology Management, vol. 57, no. 2, p. 16, 2014, doi: 10.5437/08956308X5702196.
+
+
+## **Reports**
+[1] S. Brunswicker, J. Rodriguez, and J. D. Wareham, “Standardization Through Formal and Informal Standard Development Organizations,” Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2540536, Dec. 2014. Accessed: Dec. 22, 2020. [Online]. Available: https://papers.ssrn.com/abstract=2540536
+
+[2] H. Chesbrough and S. Brunswicker, “Managing open innovation in large firms,” Fraunhofer-Verlag, Report, 2013.
+
+[3] K. Engel, E. Diedrichs, and S. Brunswicker, “Insights on innovation management in Europe. Tangible results from ImPRovE,” European Commission, Directorate-General for Enterprise and Industry, Report, 2008.
+
+[4] S. Brunswicker and E. Diedrichs, “Innovation management in high-growth SMEs from the knowledge-intensive services (KIS). Setting the pace for growth in Europe,” ImPRovE Global Coordination Team, Report, 2010.
+
+[5] K. Engel, E. Diedrichs, and S. Brunswicker, “ImPRovE. A European project with impact. 50 success stories on innovation management,” European Commission, Directorate-General for Enterprise and Industry, Report, 2010.
+
+[6] K. Engel, E. Diedrichs, and S. Brunswicker, “ImPRovE: High-impact innovation management consulting services for small and medium-sized enterprises (SMEs),” European Commission, Directorate-General for Enterprise and Industry, Report, 2012.
+
+[7] S. Brunswicker and E. Diedrichs, “Gaining competitiveness with innovations beyond technology and products,” IMP3rove Global Coordination Team, Report, 2011.
