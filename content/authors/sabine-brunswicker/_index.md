@@ -35,4 +35,4 @@ At Purdue she founded the Research Center for Open Digital Innovation (RCODI) to
 
 Sabine holds a Master in Engineering and Management Science (University of Technology, Darmstadt, Germany), a Master of Commerce with a specialization in Marketing and Entrepreneurship (UNSW, Sydney, Australia), and a PhD in Engineering Sciences (University of Stuttgart, Germany).
 
-
+My CV [here] (./Brunswicker_CV_2022.pdf)
