@@ -25,185 +25,186 @@ templated: "true"
 ---
 
 ## **Books and Book Chapters**
-[1] S. Brunswicker, “Teaching Engineers about Open Innovation,” in Handbook for Open Innovation, H. Chesbrough, A. Radziwon, W. Vanhaverbeke, and J. West, Eds., Oxford University Press, 2023. Accessed: May 14, 2023. [Online]. Available: https://garwoodcenter.wpenginepowered.com/wp-content/uploads/2022/02/20220223_OI-Handbook-CfP.pdf
 
-[2] S. Brunswicker, “Managing open innovation in small and medium-sized firms in the tourism sector,” in Open tourism: Open innovation, crowdsourcing, and collaborative consumption challenging the tourism industry, W. Egger, I. Gula, and D. Walcher, Eds., Berlin: Springer, 2015.
+Bagherzadeh, M., & Brunswicker, S. (2016). Governance of Knowledge Flows in Open Exploration: The Role of Behavioral Control. In T. K. Das (Ed.), Decision Making in Behavioral Strategy (DMBS), Information Age Publishing (IAP) (pp. 99–119). IAP.
 
-[3] M. G. Zentner et al., “In the Flow: Evolving from Utility Based Socail Medium to Community Peer,” in Transparency in Social Media, Tools, Methods and Algorithms for Mediating Online Interactions, S. Adam Matei, M. G. Russell, and E. Bertino, Eds., in Computational Social Sciences, vol. 3. Switzerland: Springer International Publishing, 2015, pp. 183–196. [Online]. Available: http://link.springer.com/chapter/10.1007/978-3-319-18552-1_10#page-1
+Bagherzadeh, M., & Brunswicker, S. (2018). Governance Choice in Open Innovation: The Antecedent Role of External Source Choice. In Evaluating Media Richness in Organizational Learning (pp. 181–202). IGI Global.
 
-[4] S. Brunswicker and M. Banner, “Improving the innovation capability in small and medium-sized firms (Italian title: Lo Sviluppo Delle Competenze per l’Innovazione Nelle Piccole e Medie Impresse),” in Forme organizzative a rete per la competitivita delle Pmi: Modelli teorici ed esperienze aziendali, F. Garibaldo and A. Grandi, Eds., Bologna: Timeo Editore, 2007, pp. 71–98.
+Brunswicker, S. (2015). Managing open innovation in small and medium-sized firms in the tourism sector. In W. Egger, I. Gula, & D. Walcher (Eds.), Open tourism: Open innovation, crowdsourcing, and collaborative consumption challenging the tourism industry. Springer.
 
-[5] M. Bagherzadeh and S. Brunswicker, “Governance of Knowledge Flows in Open Exploration: The Role of Behavioral Control,” in Decision Making in Behavioral Strategy (DMBS), Information Age Publishing (IAP), T. K. Das, Ed., IAP, 2016, pp. 99–119.
+Brunswicker, S. (2023). Teaching Engineers about Open Innovation. In H. Chesbrough, A. Radziwon, W. Vanhaverbeke, & J. West (Eds.), Handbook for Open Innovation. Oxford University Press. https://garwoodcenter.wpenginepowered.com/wp-content/uploads/2022/02/20220223_OI-Handbook-CfP.pdf
 
-[6] M. Bagherzadeh and S. Brunswicker, “Governance Choice in Open Innovation: The Antecedent Role of External Source Choice,” in Evaluating Media Richness in Organizational Learning, IGI Global, 2018, pp. 181–202.
+Brunswicker, S., & Banner, M. (2007). Improving the innovation capability in small and medium-sized firms (Italian title: Lo Sviluppo Delle Competenze per l’Innovazione Nelle Piccole e Medie Impresse). In F. Garibaldo & A. Grandi (Eds.), Forme organizzative a rete per la competitivita delle Pmi: Modelli teorici ed esperienze aziendali (pp. 71–98). Timeo Editore.
 
-[7] S. Brunswicker and V. van de Vrande, “Exploring Open Innovation in Small and Medium-Sized Enterprises,” in New Frontiers in Open Innovation, H. Chesbrough, W. Vanhaverbeke, and J. West, Eds., 1st ed.Oxford, United Kingdom: Oxford University Press, 2014, pp. 135–156. [Online]. Available: https://books.google.com/books?hl=en&lr=&id=ySsDBQAAQBAJ&oi=fnd&pg=PA135&dq=Exploring+Open+Innovation+in+Small+and+Medium-Sized+Enterprises&ots=jKSvPXVmDW&sig=t2dIFJNT0tnFMIiADWvduZ-aPgM#v=onepage&q=Exploring%20Open%20Innovation%20in%20Small%20and%20Medium-Sized%20Enterprises&f=false
+Brunswicker, S., & Hutschek, U. (2011). Creative escapade: Identifying innovation opportunities in distant industry sectors (German title: Kreative seitensprünge. Innovationspotenziale anderer branchen finden und nutzen). In D. Spath (Ed.), With Ideas to Success. Technology Management in Practice (German Title: Mit Ideen zum Erfolg. Technologiemanagement in der Praxis) (pp. 267–270). Fraunhofer Verlag.
 
-[8] S. Brunswicker and U. Hutschek, “Creative escapade: Identifying innovation opportunities in distant industry sectors (German title: Kreative seitensprünge. innovationspotenziale anderer branchen finden und nutzen),” in With Ideas to Success. Technology Management in Practice (German Title: Mit Ideen zum Erfolg. Technologiemanagement in der Praxis), D. Spath, Ed., Stuttgart: Fraunhofer Verlag, 2011, pp. 267–270.
+Brunswicker, S., Majchrzak, A., Almirall, E., & Tee, R. (2016). Co-creating Value from Open Data: From Incentivizing Developers to Inducing Co-creation in Open Data Ecosystems. In Open Innovation and Innovation Networks (Vol. 1). World Scientific Publishing.
 
-[9] S. Brunswicker, A. Majchrzak, E. Almirall, and R. Tee, “Co-creating Value from Open Data: From Incentivizing Developers to Inducing Co-creation in Open Data Ecosystems,” in Open Innovation and Innovation Networks, in The World Scientific Reference on Innovation, vol. 1. World Scientific Publishing, 2016.
+Brunswicker, S., & van de Vrande, V. (2014). Exploring Open Innovation in Small and Medium-Sized Enterprises. In H. Chesbrough, W. Vanhaverbeke, & J. West (Eds.), New Frontiers in Open Innovation (1st ed., pp. 135–156). Oxford University Press. https://books.google.com/books?hl=en&lr=&id=ySsDBQAAQBAJ&oi=fnd&pg=PA135&dq=Exploring+Open+Innovation+in+Small+and+Medium-Sized+Enterprises&ots=jKSvPXVmDW&sig=t2dIFJNT0tnFMIiADWvduZ-aPgM#v=onepage&q=Exploring%20Open%20Innovation%20in%20Small%20and%20Medium-Sized%20Enterprises&f=false
 
-[10] S. Brunswicker, C. Wrigley, and S. Bucolo, “Business model experimentation: What is the role of design-led prototyping in developing novel business models?,” in The experimental nature of new venture creation, Springer, Cham, 2013, pp. 139–151.
+Brunswicker, S., Wrigley, C., & Bucolo, S. (2013). Business model experimentation: What is the role of design-led prototyping in developing novel business models? In The experimental nature of new venture creation (pp. 139–151). Springer, Cham.
+
+Zentner, M. G., Zentner, L. K., McKay, D., Samek, S., Denny, N., Brunswicker, S., & Klimeck, G. (2015). In the Flow: Evolving from Utility Based Socail Medium to Community Peer. In S. Adam Matei, M. G. Russell, & E. Bertino (Eds.), Transparency in Social Media, Tools, Methods and Algorithms for Mediating Online Interactions (Vol. 3, pp. 183–196). Springer International Publishing. http://link.springer.com/chapter/10.1007/978-3-319-18552-1_10#page-1
 
 
 ## **Conference Proceedings and Abstract Summaries**
 
-[1] S. Brunswicker, M. Elkady, and F. Patel, “Why do participants submit to COVID-19 data science challenges?,” presented at the Collective Intelligence 2021, 2021.
+Armisen, A., & Brunswicker, S. (2015, November). Transparent coupling of firm-sponsored participation in open source software communities: Lightening up hidden influencers. 2nd World Open Innovation Conference.
 
-[2] S. Brunswicker, “Where to look for external innovation inputs? Investigating the interplay of innovation search and collaboration, performance and innovation management practices,” in 70th Annual Meeting of the Academy of Management, Montreal, Quebec, Aug. 2010.
+Bagherzadeh, M., & Brunswicker, S. (2015a). Governance of Knowledge Flows in Open Innovation through Revealing and Behavioral Control. Academy of Management Proceedings, 2015(1), 17565.
 
-[3] S. Brunswicker, S. Bucolo, and C. Wrigley, “What is the role of design-led prototyping in developing novel business models,” in EGOS Symposium, Helsinki, Finland, Jul. 2012. doi: 10.1007/978-3-319-00179-1_13.
+Bagherzadeh, M., & Brunswicker, S. (2014a, October). Joint Exploration with the Enemy-Revealing Needed. ISPIM Americas Innovation Forum. http://www.ginevraresearch.com/index.php/en/repository/Research-Fellow/Rabl-M./Joint-Exploration-with-the-Enemy---Revealing-Needed/
 
-[4] S. Brunswicker, “What is the role of ‘openness’ in superior innovation management?,” in ISPIM Symposium, Singapore, Sep. 2008.
+Bagherzadeh, M., & Brunswicker, S. (2014b, December). Control wanted? Guided revealing and source choice. 2nd World Open Innovation Conference.
 
-[5] K. Tsapparellas, N. Jelev, J. Waters, S. Brunswicker, and L. Mihaylova, “Vision-based Unmanned Aerial Vehicle (UAV)  Runway Detection and Landing for Greater Autonomy,” in Proceedings of the IEEE International Conference on Mechatronics and Automation (ICMA) 2023, Harbin, China: IEEE, 2023.
+Bagherzadeh, M., & Brunswicker, S. (2015b, November). Mix and Match: Preferred ‘Mix of Open Innovation Modes’ for Solving Innovation Problems. 2nd Annual World Open Innovation Conference, Santa Clara, California.
 
-[6] A. Armisen and S. Brunswicker, “Transparent coupling of firm-sponsored participation in open source software communities: lightening up hidden influencers,” in 2nd World Open Innovation Conference, Santa Clara, Nov. 2015.
+Bagherzadeh, M., & Brunswicker, S. (2015c, November). Project attributes and choices of ‘open innovation mode.’ 1st World Open Innovation Conference.
 
-[7] S. Brunswicker and M. Prietula, “Transparency and Reuse in Digital Innovation Contests: A Simulation Study,” in Academy of Management Proceedings, Academy of Management Briarcliff Manor, NY 10510, 2017, p. 17343.
+Brunswicker, S. (2008, September). What is the role of ‘openness’ in superior innovation management? ISPIM Symposium.
 
-[8] B. Jensen and S. Brunswicker, “The Paradox of Transparency in Online Collaboration for Innovation,” in ISPIM Americas Innovation Forum, Montreal, Canada, Oct. 2014.
+Brunswicker, S. (2010, August). Where to look for external innovation inputs? Investigating the interplay of innovation search and collaboration, performance and innovation management practices. 70th Annual Meeting of the Academy of Management.
 
-[9] J. Johnson, A. Majchrzak, and S. Brunswicker, “The Paradox of Minority Dissent in Corporate Innovation Challenges,” presented at the 2nd Annual World Open Innovation Conference, Santa Clara, California, Nov. 2015.
+Brunswicker, S. (2012, August). Open innovation sourcing in SMEs – Choice or curse? 72nd Annual Meeting of the Academy of Management.
 
-[10] Sabine Brunswicker, S. Haefliger, and A. Majchrzak, “The Impact of Feedback from Humans and Machines on Innovation in Online Communities,” in SMS 43rd Annual Conference, Toronto, Canada, Sep. 2023.
+Brunswicker, S. (2016a, August 1). Open Data Contests and Transparency as Design Choice. Open and User Innovation Conference, Harvard University.
 
-[11] S. Brunswicker, C. Rashidian, M. Attal, Z. Yifan, and D. Linna, “The Impact of Empathy in Conversational AI,” in 9th International Conference for Computational Social Science, Copenhagen, Denmark, Jul. 2023.
+Brunswicker, S. (2016b, August 2). How to Manage the Downside of Deep Engagement with External Sources in Open Innovation Projects. Open and User Innovation Conference, Harvard University.
 
-[12] A. Schecter and S. Brunswicker, “The Fluidity of an Individual’s Core-Periphery Position in Digital Knowledge Fields,” in Proceedings of the 55th Hawaii International Conference on System Sciences, Hawaii: Hawaii International Conference on System Sciences, 2022. doi: 10.24251/hicss.2022.778.
+Brunswicker, S. (2018, August). Researching Open Innovation: Theoretical and Empirical Approaches at Different Levels of Analysis. Professional Development Workshop (PDW) at the 75th Annual Meeting of Academy of Management.
 
-[13] S. Brunswicker, N. Steven, B. Butler, and C. Wagner, “The evolution of ideas by crowds and communities: Competition versus cooperation,” in International Conference of Information Systems (ICIS), Auckland, NZ, Dec. 2014. [Online]. Available: http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1274&context=icis2014
+Brunswicker, S., Afuah, A., Fueller, J., Lakhani, K. R., Leimeister, J. M., & Majchrzak, A. (2014). Resolving the debate on competition versus collaboration in open innovation crowds’. In S. Brunswicker (Ed.), Academy of Management Meeting.
 
-[14] S. Brunswicker and J. L. Cheoh, “The Effect of Transparency on Innovation in Web Programming Contests: A Randomized Field Experiment in the Cloud,” in International Conference for Computational Social Science (IC2S2), University of Chicago Booth School of Business, Jul. 2022.
+Brunswicker, S., & Almirall, E. (2015, July). Performance Transparency and Innovation in Digital Ecosystems. 3rd Annual Research Symposium on Complexity and IT.
 
-[15] M. Promann and S. Brunswicker, “The Effect of Proximity in Social Data Charts on Perceived Group Unity,” in IEEE Visual Analytics Science and Technology (VAST), Berlin, Germany, Oct. 2018.
+Brunswicker, S., Almirall, E., Johnston, E., & Mergel, I. (2015, August). Opening Governance with a Public Intent: Studying Opening Governance at Multiple Scales. Annual Meeting of Academy of Management. https://doi.org/10.5465/ambpp.2015.17780symposium
 
-[16] S. Brunswicker, J. Nickerson, and S. Mukherjee, “The Dynamics of Design Microstructures in Open Collaboration: A Motif Perspective,” in Organization Winter Conference 2018, Jan. 2018.
+Brunswicker, S., Bucolo, S., & Wrigley, C. (2012, July). What is the role of design-led prototyping in developing novel business models. EGOS Symposium. https://doi.org/10.1007/978-3-319-00179-1_13
 
-[17] S. Brunswicker and A. Kianto, “Taking a closer look into open innovation in small and medium-sized enterprises (SMEs),” in R&D Management conference 2009. The reality of R&D and its impact on innovation, Vienna, Austria: Lappeenranta University of Technology Press, Jun. 2009.
+Brunswicker, S., & Cheoh, J. L. (2022, July 21). The Effect of Transparency on Innovation in Web Programming Contests: A Randomized Field Experiment in the Cloud. International Conference for Computational Social Science (IC2S2). International Conference for Computational Social Science, University of Chicago Booth School of Business.
 
-[18] S. Brunswicker and R. Seymour, “Surprise! Look who’s capturing the value created from a design excellence award,” in International conference on strategic innovation and creativity in brand & design management, Seoul, Korea, Nov. 2006, pp. 220–235.
+Brunswicker, S., Elkady, M., & Patel, F. (2021a). Why do participants submit to COVID-19 data science challenges? Collective Intelligence 2021.
 
-[19] S. Brunswicker, M. Elkady, and F. Patel, “‪Submissions to a COVID-19 Data Science Challenge: The Role of Skills and Platform Engagement‬,” in Collective Intelligence 2021, in Collective Intelligence. ACM, Jun. 2021. Accessed: Jan. 25, 2023. [Online]. Available: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d1h-ClQAAAAJ&sortby=pubdate&citation_for_view=d1h-ClQAAAAJ:qmtmRrLr0tkC
+Brunswicker, S., Elkady, M., & Patel, F. (2021b, June). ‪Submissions to a COVID-19 Data Science Challenge: The Role of Skills and Platform Engagement‬. Collective Intelligence 2021. Collective Intelligence 2021. https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d1h-ClQAAAAJ&sortby=pubdate&citation_for_view=d1h-ClQAAAAJ:qmtmRrLr0tkC
 
-[20] S. Brunswicker, J. Rodriguez, and J. D. Wareham, “Standardization Through Formal and Informal Standard Development Organizations,” Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2540536, Dec. 2014. Accessed: Dec. 22, 2020. [Online]. Available: https://papers.ssrn.com/abstract=2540536
+Brunswicker, S., & Hsaing, C. (2015, May). Decomposing the ‘architecture’ of innovative mobility solutions developed by a civic innovation crowd: A network perspective (Collaborations, Networks, and Success). Computational Social Science Summit.
 
-[21] S. Brunswicker and S. Mukherjee, “Spatial and Temporal Separation in Coordination Structures in OSS,” presented at the 4th International Conference on Computational Social Science IC2S2, Chicago, United States, Jul. 2018.
+Brunswicker, S., Hutschek, U., & Wagner, L. (2011, June). ”Exploration” in the open innovation front-end. XXII ISPIM Conference 2011 - Sustainability in Innovation. Innovation Management Challenges. https://doi.org/10.1504/IJTIP.2012.047374
 
-[22] J. O. Meissner, S. Brunswicker, S. Schweikert, and P. Wolf, “Scaffolding innovations: Implications of regional innovation barriers for platform-based innovation management improvement,” in 2008 IEEE International Technology Management Conference (ICE), IEEE, 2008, pp. 1–10.
+Brunswicker, S., & Kasim, S. (2023, July). Modeling Complex OSS Supply-Chain Networks to Understand Cyber Security Risks. 9th International Conference on Computational Social Science. 9th International Conference on Computational Social Science, Copenhagen, Denmark.
 
-[23] S. Brunswicker, A. Afuah, J. Fueller, K. R. Lakhani, J. M. Leimeister, and A. Majchrzak, “Resolving the debate on competition versus collaboration in open innovation crowds’,” in Academy of Management Meeting, S. Brunswicker, Ed., Philadelphia, PA, Aug. 2014.
+Brunswicker, S., & Kianto, A. (2009, June). Taking a closer look into open innovation in small and medium-sized enterprises (SMEs). R&D Management Conference 2009. The Reality of R&D and Its Impact on Innovation.
 
-[24] S. Brunswicker, “Researching Open Innovation: Theoretical and Empirical Approaches at Different Levels of Analysis,” in Professional Development Workshop (PDW) at the 75th Annual Meeting of Academy of Management, Chicago, United States, Aug. 2018.
+Brunswicker, S., Matei, S., Zentner, L., Zentner, M., & Klimeck, G. (2016). Digital Innovation in eScience: The Effect of Digital Practice on Traditional Citation-Based Scientific Recognition. Annual Conference of the International Communication Assocation. https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1104180&PHPSESSID=gie4po6euf7achdrp1ke9mjq40
 
-[25] S. Brunswicker and M. Prietula, “Re-use in Open Crowds: Linking Empirical and Computational Approaches,” presented at the Organization Science Winter Conference 23, Park City, Utah: Informs, Jan. 2017. doi: https://dx.doi.org/10.2139/ssrn.2908650.
+Brunswicker, S., & Mukherjee, S. (2017). Problem-centric Network Embeddedness and Productivity in Open Source Software Communities. International Conference on Computational Social Science, Cologne, Germany.
 
-[26] M. Bagherzadeh and S. Brunswicker, “Project attributes and choices of ‘open innovation mode,’” in 1st World Open Innovation Conference, Santa Clara, Nov. 2015.
+Brunswicker, S., & Mukherjee, S. (2018, July). Spatial and Temporal Separation in Coordination Structures in OSS. 4th International Conference on Computational Social Science IC2S2, Chicago, United States.
 
-[27] J. L. Cheoh and S. Brunswicker, “Profile Interview With Sabine Brunswicker,” PJSL, vol. Volume 5, no. Issue 1, p. Article 22, 2018, doi: 10.5703/1288284316831.
+Brunswicker, S., Nickerson, J., & Mukherjee, S. (2018, January). The Dynamics of Design Microstructures in Open Collaboration: A Motif Perspective. Organization Winter Conference 2018. Organization Winter Conference.
 
-[28] S. Brunswicker and S. Mukherjee, “Problem-centric Network Embeddedness and Productivity in Open Source Software Communities,” presented at the International Conference on Computational Social Science, Cologne, Germany, 2017.
+Brunswicker, S., & Prietula, M. (2017a). Transparency and Reuse in Digital Innovation Contests: A Simulation Study. Academy of Management Proceedings, 2017(1), 17343.
 
-[29] S. Brunswicker and E. Almirall, “Performance Transparency and Innovation in Digital Ecosystems,” in 3rd Annual Research Symposium on Complexity and IT, Montpellier, France: Montpellier Business School, Jul. 2015.
+Brunswicker, S., & Prietula, M. (2017b, January). Re-use in Open Crowds: Linking Empirical and Computational Approaches. Organization Science Winter Conference 23, Park City, Utah. https://dx.doi.org/10.2139/ssrn.2908650
 
-[30] S. Brunswicker, E. Almirall, E. Johnston, and I. Mergel, “Opening Governance with a Public Intent: Studying Opening Governance at Multiple Scales,” in Annual Meeting of Academy of Management, Vancouver, British Columbia, Canada, Aug. 2015. doi: 10.5465/ambpp.2015.17780symposium.
+Brunswicker, S., Rashidian, C., Attal, M., Yifan, Z., & Linna, D. (2023, July). The Impact of Empathy in Conversational AI. 9th International Conference for Computational Social Science. 9th International Conference for Computational Social Science, Copenhagen, Denmark.
 
-[31] M. Stabe, S. Brunswicker, and J. Warschat, “Opening ’ towards ’ open innovation,” in 14th International Conference on Concurrent Enterprising. A new wave of innovation in collaborative networks, Lisbon, Portugal: Centre for Concurrent Enterprise, Jun. 2008. [Online]. Available: http://ieeexplore.ieee.org/document/7462129/
+Brunswicker, S., Rodriguez, J. A., & Wareham, J. D. (2015). Governing Standardization through Formal and Informal Standard Development Organizations. Academy of Management Proceedings, 2015(1), 18596.
 
-[32] S. Brunswicker, “Open innovation sourcing in SMEs – Choice or curse?,” in 72nd Annual Meeting of the Academy of Management, Boston, MA, Aug. 2012.
+Brunswicker, S., Rodriguez, J., & Wareham, J. D. (2014). Standardization Through Formal and Informal Standard Development Organizations (SSRN Scholarly Paper ID 2540536). Social Science Research Network. https://papers.ssrn.com/abstract=2540536
 
-[33] S. Brunswicker, “Open Data Contests and Transparency as Design Choice,” presented at the Open and User Innovation Conference, Harvard University, Aug. 2016.
+Brunswicker, S., & Seymour, R. (2006). Surprise! Look who’s capturing the value created from a design excellence award. International Conference on Strategic Innovation and Creativity in Brand & Design Management, 220–235.
 
-[34] S. Brunswicker and S. Kasim, “Modeling Complex OSS Supply-Chain Networks to Understand Cyber Security Risks,” in 9th International Conference on Computational Social Science, Copenhagen, Denmark, Jul. 2023.
+Brunswicker, S., Steven, N., Butler, B., & Wagner, C. (2014, December). The evolution of ideas by crowds and communities: Competition versus cooperation. International Conference of Information Systems (ICIS). http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1274&context=icis2014
 
-[35] M. Bagherzadeh and S. Brunswicker, “Mix and Match: Preferred ‘Mix of Open Innovation Modes’ for Solving Innovation Problems,” presented at the 2nd Annual World Open Innovation Conference, Santa Clara, California, Nov. 2015.
+Cheoh, J. L., & Brunswicker, S. (2018). Profile Interview With Sabine Brunswicker. Purdue Journal of Service Learning and International Engagement, Volume 5(Issue 1), Article 22. https://doi.org/10.5703/1288284316831
 
-[36] S. Kalkurani and S. Brunswicker, “Maximizing Cooperative Behavior in Collective Action Games Through a Deep Q-Learning AI Agent,” in 9th International Conference on Computational Social Science (IC2S2C), Jul. 2023.
+Cheoh, J. L., & Brunswicker, S. (2019). Humans’ Perceptions on Handwritten Digits Generated by a Generative Adversarial Network. IEOM Toronto, Canada, October 23-25, 2019.
 
-[37] F. Ehrenmann and S. Brunswicker, “Managing open innovation in SMEs: The CAS Software AG Case Study,” in 5th International Conference on Mass Customization and Personalization in Central Europe (MCP-CE 2012), Novi Sad, Serbia, Sep. 2012. [Online]. Available: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2151892
+Cheoh, J. L., & Brunswicker, S. (2023a, July). Does Form follow Function? Modeling the Dynamics of Design Exploration in Web Design with a GAM. 9th International Conference for Computational Social Science (Copenhagen, Denmark). 9th International Conference for Computational Social  (Copenhagen, Denmark, Copenhagen, Denmark.
 
-[38] M. Bagherzadeh and S. Brunswicker, “Joint Exploration with the Enemy-Revealing Needed,” in ISPIM Americas Innovation Forum, Montreal, Canada, Oct. 2014. [Online]. Available: http://www.ginevraresearch.com/index.php/en/repository/Research-Fellow/Rabl-M./Joint-Exploration-with-the-Enemy---Revealing-Needed/
+Cheoh, J. L., & Brunswicker, S. (2023b, July 10). How Form and Data Affect Novelty? A Hidden Markov Model of the Dynamics of Design and Its Impact on Novelty. 9th International Conference on Computational Social Science (IC2S2C). Open and User Innovation Conference, Hamburg, Germany.
 
-[39] C. Wagner, U. Hutschek, and S. Brunswicker, “Impact of abstraction levels in the fuzzy front end (FFE) of innovation,” in XXII ISPIM conference 2011. Sustainability in innovation. Innovation management challenges, Hamburg: Lappeenranta University of Technology Press, Jun. 2011. [Online]. Available: http://publica.fraunhofer.de/documents/N-177940.html
+Ehrenmann, F., & Brunswicker, S. (2012, September). Managing open innovation in SMEs: The CAS Software AG Case Study. 5th International Conference on Mass Customization and Personalization in Central Europe (MCP-CE 2012). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2151892
 
-[40] J. L. Cheoh and S. Brunswicker, “Humans’ Perceptions on Handwritten Digits Generated by a Generative Adversarial Network.,” in IEOM Toronto, Canada, October 23-25, 2019, Toronto, 2019.
+Jensen, B., & Brunswicker, S. (2014, October). The Paradox of Transparency in Online Collaboration for Innovation. ISPIM Americas Innovation Forum.
 
-[41] S. Brunswicker, “How to Manage the Downside of Deep Engagement with External Sources in Open Innovation Projects,” presented at the Open and User Innovation Conference, Harvard University, Aug. 2016.
+Johnson, J., Majchrzak, A., & Brunswicker, S. (2015, November). The Paradox of Minority Dissent in Corporate Innovation Challenges. 2nd Annual World Open Innovation Conference, Santa Clara, California.
 
-[42] J. L. Cheoh and S. Brunswicker, “How Form and Data Affect Novelty? A Hidden Markov Model of the Dynamics of Design and Its Impact on Novelty,” in 9th International Conference on Computational Social Science (IC2S2C), Hamburg, Germany, Jul. 2023.
+Kalkurani, S., & Brunswicker, S. (2023, July). Maximizing Cooperative Behavior in Collective Action Games Through a Deep Q-Learning AI Agent. 9th International Conference on Computational Social Science (IC2S2C). 9th International Conference on Computational Social Science (IC2S2C).
 
-[43] S. Brunswicker, J. A. Rodriguez, and J. D. Wareham, “Governing Standardization through Formal and Informal Standard Development Organizations,” in Academy of Management Proceedings, Academy of Management Briarcliff Manor, NY 10510, 2015, p. 18596.
+Meissner, J. O., Brunswicker, S., Schweikert, S., & Wolf, P. (2008). Scaffolding innovations: Implications of regional innovation barriers for platform-based innovation management improvement. 2008 IEEE International Technology Management Conference (ICE), 1–10.
 
-[44] M. Bagherzadeh and S. Brunswicker, “Governance of Knowledge Flows in Open Innovation through Revealing and Behavioral Control,” in Academy of Management Proceedings, Academy of Management Briarcliff Manor, NY 10510, 2015, p. 17565.
+Mukherjee, S., & Brunswicker, S. (2018, June). Functional Coordination in Developer’s Network in Open Source Software. International School and Conference on Network Science, Paris, France. https://www.netsci2018.com/
 
-[45] S. Mukherjee and S. Brunswicker, “Functional Coordination in Developer’s Network in Open Source Software,” presented at the International School and Conference on Network Science, Paris, France, Jun. 2018. [Online]. Available: https://www.netsci2018.com/
+Mussgnug, J., & Brunswicker, S. (2003). Eyetracking the use of a simulated prototype of an inflight-entertainment-system. (German title: Analyse der Augenbewegungen bei der Bedienung eines simulierten Prototypen eines ,Inflight-Entertainment-Systems"). In C. Steffens, M. Thuering, & L. Urbas (Eds.), Mensch-Maschine-Systeme (Vol. 22, pp. 468–487). VDI.
 
-[46] J. Mussgnug and S. Brunswicker, “Eyetracking the use of a simulated prototype of an inflight-entertainment-system. (German title: Analyse der Augenbewegungen bei der Bedienung eines simulierten Prototypen eines ,Inflight-Entertainment-Systems"),” in Mensch-
-Maschine-Systeme, C. Steffens, M. Thuering, and L. Urbas, Eds., Berlin, Germany: VDI, Oct. 2003, pp. 468–487.
+Promann, M., & Brunswicker, S. (2018, October). The Effect of Proximity in Social Data Charts on Perceived Group Unity. IEEE Visual Analytics Science and Technology (VAST). IEEE Visual Analytics Science and Technology (VAST), Berlin, Germany.
 
-[47] S. Brunswicker, U. Hutschek, and L. Wagner, “”Exploration” in the open innovation front-end,” in XXII ISPIM conference 2011 - Sustainability in innovation. Innovation management challenges, Hamburg: Lappeenranta University of Technology Press, Helsinki, Finland, Jun. 2011. doi: 10.1504/IJTIP.2012.047374.
+Sabine Brunswicker, Haefliger, S., & Majchrzak, A. (2023, September). The Impact of Feedback from Humans and Machines on Innovation in Online Communities. SMS 43rd Annual Conference. SMS 43rd Annual Conference, Toronto, Canada.
 
-[48] J. L. Cheoh and S. Brunswicker, “Does Form follow Function? Modeling the Dynamics of Design Exploration in Web Design with a GAM,” in 9th International Conference for Computational Social Science (Copenhagen, Denmark), Copenhagen, Denmark, Jul. 2023.
+Schecter, A., & Brunswicker, S. (2022). The Fluidity of an Individual’s Core-Periphery Position in Digital Knowledge Fields. Proceedings of the 55th Hawaii International Conference on System Sciences. Proceedings of the 55th Hawaii International Conference on System Sciences, Hawaii. https://doi.org/10.24251/hicss.2022.778
 
-[49] S. Brunswicker, S. Matei, L. Zentner, M. Zentner, and G. Klimeck, “Digital Innovation in eScience: The Effect of Digital Practice on Traditional Citation-Based Scientific Recognition,” presented at the Annual Conference of the International Communication Assocation, 2016. [Online]. Available: https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1104180&PHPSESSID=gie4po6euf7achdrp1ke9mjq40
+Stabe, M., Brunswicker, S., & Warschat, J. (2008, June). Opening ’ towards ’ open innovation. 14th International Conference on Concurrent Enterprising. A New Wave of Innovation in Collaborative Networks. http://ieeexplore.ieee.org/document/7462129/
 
-[50] S. Brunswicker and C. Hsaing, “Decomposing the ‘architecture’ of innovative mobility solutions developed by a civic innovation crowd: A network perspective (Collaborations, Networks, and Success),” in Computational Social Science Summit, Chicago, United States: Northwestern University, May 2015.
+Swan, M., & Brunswicker, S. (2018). Blockchain Economic Networks and Algorithmic Trust. AMCIS 2018 Proceedings. https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4
 
-[51] M. Bagherzadeh and S. Brunswicker, “Control wanted? Guided revealing and source choice,” in 2nd World Open Innovation Conference, Napa, California, Dec. 2014.
+Tsapparellas, K., Jelev, N., Waters, J., Brunswicker, S., & Mihaylova, L. (2023). Vision-based Unmanned Aerial Vehicle (UAV)  Runway Detection and Landing for Greater Autonomy. Proceedings of the IEEE International Conference on Mechatronics and Automation (ICMA) 2023. Proceedings of the IEEE International Conference on Mechatronics and Automation (ICMA) 2023, Harbin, China.
 
-[52] M. Swan and S. Brunswicker, “Blockchain Economic Networks and Algorithmic Trust,” AMCIS 2018 Proceedings, Aug. 2018, [Online]. Available: https://aisel.aisnet.org/amcis2018/Philosophy/Presentations/4
+Wagner, C., Hutschek, U., & Brunswicker, S. (2011, June). Impact of abstraction levels in the fuzzy front end (FFE) of innovation. XXII ISPIM Conference 2011. Sustainability in Innovation. Innovation Management Challenges. http://publica.fraunhofer.de/documents/N-177940.html
 
 
 ## **Journal Publications**
 
-[1] S. Brunswicker, B. Jensen, Z. Song, and A. Majchrzak, “Transparency as design choice of open data contests,” Journal of the Association for Information Science and Technology, vol. 69, no. 10, pp. 1205–1222, Oct. 2018, doi: 10.1002/asi.24033.
+Armisen, A., Majchrzak, A., & Brunswicker, S. (2016). Formative and Summative Feedback in Solution Generation: The Role of Community and Decision Support System in Open Source Software. ICIS 2016 Proceedings. http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20
 
-[2] M. Bogers et al., “The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis,” Industry & Innovation, vol. 24, no. 1, pp. 8–40, 2017, doi: 10.1080/13662716.2016.1240068.
+Bagherzadeh, M., Gurca, A., & Brunswicker, S. (2019). Problem Types and Open Innovation Governance Modes: A Project-Level Empirical Exploration. IEEE Transactions on Engineering Management, 1–15.
 
-[3] S. Brunswicker and S. Mukherjee, “The microstructure of modularity in design: a design motif view,” Industrial and Corporate Change, vol. 32, no. 1, pp. 234–261, Feb. 2023, doi: 10.1093/icc/dtac051.
+Bogers, M., Zobel, A.-K., Afuah, A., Almirall, E., Brunswicker, S., Dahlander, L., Frederiksen, L., Gawer, A., Gruber, M., Haefliger, S., Hagedoorn, J., Hilgers, D., Laursen, K., & Magnussen, M. (2017). The Open Innovation Landscape: Established Perspectives and Emerging Themes Across Different Levels of Analysis. Industry & Innovation, 24(1), 8–40. https://doi.org/10.1080/13662716.2016.1240068
 
-[4] S. Brunswicker and S. Mukherjee, “The Microstructure of Complex Design Architectures: A Theory of Design Network Motifs,” Proceedings, vol. 2020, no. 1, p. 21853, Jul. 2020, doi: 10.5465/AMBPP.2020.21853abstract.
+Brunswicker, S., Almirall, E., & Majchrzak, A. (2019). Optimizing and Satisficing: The Interplay Between Platform Architecture and Developers’ Design Strategies on Platform Performance. Management Information Systems Quarterly.
 
-[5] S. Brunswicker and H. Chesbrough, “The Adoption of Open Innovation in Large Firms,” Research-Technology Management, vol. 61, no. 1, pp. 35–45, Jan. 2018, doi: 10.1080/08956308.2018.1399022.
+Brunswicker, S., Bertino, E., & Matei, S. (2015). Big Data for Open Digital Innovation – A Research Roadmap. Big Data Research, 2(2), 53–58. http://dx.doi.org/10.1016/j.bdr.2015.01.008
 
-[6] S. Brunswicker, V. Bilgram, and J. Fueller, “Taming wicked civic challenges with an innovative crowd,” Business Horizons, vol. 60, no. 2, pp. 167–177, Mar. 2017, doi: 10.1016/j.bushor.2016.11.001.
+Brunswicker, S., Bilgram, V., & Fueller, J. (2017). Taming wicked civic challenges with an innovative crowd. Business Horizons, 60(2), 167–177. https://doi.org/10.1016/j.bushor.2016.11.001
 
-[7] M. Bagherzadeh, A. Gurca, and S. Brunswicker, “Problem Types and Open Innovation Governance Modes: A Project-Level Empirical Exploration,” IEEE Transactions on Engineering Management, pp. 1–15, 2019.
+Brunswicker, S., & Chesbrough, H. (2018). The Adoption of Open Innovation in Large Firms. Research-Technology Management, 61(1), 35–45. https://doi.org/10.1080/08956308.2018.1399022
 
-[8] S. Brunswicker, E. Almirall, and A. Majchrzak, “Optimizing and Satisficing: The Interplay Between Platform Architecture and Developers’ Design Strategies on Platform Performance,” Management Information Systems Quarterly, 2019.
+Brunswicker, S., & Ehrenmann, F. (2013). Managing Open Innovation in SMEs: A Good Practice Example of a German Software Firm. International Journal of Industrial Engineering and Management (IJIEM), 4(1), 33–41.
 
-[9] S. Brunswicker and W. Vanhaverbeke, “Open Innovation in Small and Medium-Sized Enterprises (SMEs): External Knowledge Sourcing Strategies and Internal Organizational Facilitators,” Journal of Small Business Management, vol. 53, no. 4, pp. 1241–1263, 2015, doi: 10.1111/jsbm.12120.
+Brunswicker, S., Hutschek, U., & Wagner, L. (2012). Exploration in the open innovation front–end: The role of technologies. International Journal of Technology Intelligence and Planning, 8(1), 1–15.
 
-[10] S. Brunswicker and F. Ehrenmann, “Managing Open Innovation in SMEs: A Good Practice Example of a German Software Firm,” International Journal of Industrial Engineering and Management (IJIEM), vol. 4, no. 1, pp. 33–41, 2013.
+Brunswicker, S., Jensen, B., Song, Z., & Majchrzak, A. (2018). Transparency as design choice of open data contests. Journal of the Association for Information Science and Technology, 69(10), 1205–1222. https://doi.org/10.1002/asi.24033
 
-[11] C. Wang, S. Brunswicker, and A. Majchrzak, “Knowledge search breadth and depth and OI projects performance: a moderated mediation model of control mechanism,” Journal of Knowledge Management, vol. 25, no. 4, pp. 847–870, Jan. 2021, doi: 10.1108/JKM-03-2020-0222.
+Brunswicker, S., Matei, S. A., Zentner, M., Zentner, L., & Klimeck, G. (2016). Creating impact in the digital space: Digital practice dependency in communities of digital scientific innovations. Scientometrics, Online (09 September 2016), 1–26. https://doi.org/10.1007/s11192-016-2106-z
 
-[12] A. Armisen, A. Majchrzak, and S. Brunswicker, “Formative and Summative Feedback in Solution Generation: The Role of Community and Decision Support System in Open Source Software,” ICIS 2016 Proceedings, Dec. 2016, [Online]. Available: http://aisel.aisnet.org/icis2016/SocialMedia/Presentations/20
+Brunswicker, S., & Mukherjee, S. (2020). The Microstructure of Complex Design Architectures: A Theory of Design Network Motifs. Academy of Management Proceedings, 2020(1), 21853. https://doi.org/10.5465/AMBPP.2020.21853abstract
 
-[13] S. Brunswicker, U. Hutschek, and L. Wagner, “Exploration in the open innovation front–end: the role of technologies,” International Journal of Technology Intelligence and Planning, vol. 8, no. 1, pp. 1–15, 2012.
+Brunswicker, S., & Mukherjee, S. (2021). Evolution of Coordination Structures in OSS Software: An Exponential Random Graph Model. Academy of Management Proceedings, 2021(1), 15832. https://doi.org/10.5465/AMBPP.2021.267
 
-[14] S. Brunswicker and S. Mukherjee, “Evolution of Coordination Structures in OSS Software: An Exponential Random Graph Model,” Proceedings, vol. 2021, no. 1, p. 15832, Aug. 2021, doi: 10.5465/AMBPP.2021.267.
+Brunswicker, S., & Mukherjee, S. (2023). The microstructure of modularity in design: A design motif view. Industrial and Corporate Change, 32(1), 234–261. https://doi.org/10.1093/icc/dtac051
 
-[15] S. Brunswicker, S. A. Matei, M. Zentner, L. Zentner, and G. Klimeck, “Creating impact in the digital space: digital practice dependency in communities of digital scientific innovations,” Scientometrics, vol. Online (09 September 2016), pp. 1–26, Sep. 2016, doi: 10.1007/s11192-016-2106-z.
+Brunswicker, S., & Schecter, A. (2019). Coherence or flexibility? The paradox of change for developers’ digital innovation trajectory on open platforms. Research Policy, 48(8), 103771. https://doi.org/10.1016/j.respol.2019.03.016
 
-[16] S. Brunswicker and A. Schecter, “Coherence or flexibility? The paradox of change for developers’ digital innovation trajectory on open platforms,” Research Policy, vol. 48, no. 8, p. 103771, Oct. 2019, doi: 10.1016/j.respol.2019.03.016.
+Brunswicker, S., & Vanhaverbeke, W. (2015). Open Innovation in Small and Medium-Sized Enterprises (SMEs): External Knowledge Sourcing Strategies and Internal Organizational Facilitators. Journal of Small Business Management, 53(4), 1241–1263. https://doi.org/10.1111/jsbm.12120
 
-[17] S. Brunswicker, E. Bertino, and S. Matei, “Big Data for Open Digital Innovation – A Research Roadmap,” Big Data Research, vol. 2, no. 2, pp. 53–58, 2015, doi: http://dx.doi.org/10.1016/j.bdr.2015.01.008.
+Chesbrough, H., & Brunswicker, S. (2014). A Fad or a Phenomenon? The Adoption of Open Innovation Practices in Large Firms. Research Technology Management, 57(2), 16. https://doi.org/10.5437/08956308X5702196
 
-[18] H. Chesbrough and S. Brunswicker, “A Fad or a Phenomenon? The Adoption of Open Innovation Practices in Large Firms,” Research Technology Management, vol. 57, no. 2, p. 16, 2014, doi: 10.5437/08956308X5702196.
+Wang, C., Brunswicker, S., & Majchrzak, A. (2021). Knowledge search breadth and depth and OI projects performance: A moderated mediation model of control mechanism. Journal of Knowledge Management, 25(4), 847–870. https://doi.org/10.1108/JKM-03-2020-0222
 
 
 ## **Reports**
-[1] S. Brunswicker, J. Rodriguez, and J. D. Wareham, “Standardization Through Formal and Informal Standard Development Organizations,” Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2540536, Dec. 2014. Accessed: Dec. 22, 2020. [Online]. Available: https://papers.ssrn.com/abstract=2540536
 
-[2] H. Chesbrough and S. Brunswicker, “Managing open innovation in large firms,” Fraunhofer-Verlag, Report, 2013.
+Brunswicker, S., & Diedrichs, E. (2010). Innovation management in high-growth SMEs from the knowledge-intensive services (KIS). Setting the pace for growth in Europe [Report]. ImPRovE Global Coordination Team.
 
-[3] K. Engel, E. Diedrichs, and S. Brunswicker, “Insights on innovation management in Europe. Tangible results from ImPRovE,” European Commission, Directorate-General for Enterprise and Industry, Report, 2008.
+Brunswicker, S., & Diedrichs, E. (2011). Gaining competitiveness with innovations beyond technology and products [Report]. IMP3rove Global Coordination Team.
 
-[4] S. Brunswicker and E. Diedrichs, “Innovation management in high-growth SMEs from the knowledge-intensive services (KIS). Setting the pace for growth in Europe,” ImPRovE Global Coordination Team, Report, 2010.
+Brunswicker, S., Rodriguez, J., & Wareham, J. D. (2014). Standardization Through Formal and Informal Standard Development Organizations (SSRN Scholarly Paper ID 2540536). Social Science Research Network. https://papers.ssrn.com/abstract=2540536
 
-[5] K. Engel, E. Diedrichs, and S. Brunswicker, “ImPRovE. A European project with impact. 50 success stories on innovation management,” European Commission, Directorate-General for Enterprise and Industry, Report, 2010.
+Chesbrough, H., & Brunswicker, S. (2013). Managing open innovation in large firms [Report]. Fraunhofer-Verlag.
 
-[6] K. Engel, E. Diedrichs, and S. Brunswicker, “ImPRovE: High-impact innovation management consulting services for small and medium-sized enterprises (SMEs),” European Commission, Directorate-General for Enterprise and Industry, Report, 2012.
+Engel, K., Diedrichs, E., & Brunswicker, S. (2008). Insights on innovation management in Europe. Tangible results from ImPRovE [Report]. European Commission, Directorate-General for Enterprise and Industry.
 
-[7] S. Brunswicker and E. Diedrichs, “Gaining competitiveness with innovations beyond technology and products,” IMP3rove Global Coordination Team, Report, 2011.
+Engel, K., Diedrichs, E., & Brunswicker, S. (2010). ImPRovE. A European project with impact. 50 success stories on innovation management [Report]. European Commission, Directorate-General for Enterprise and Industry.
+
+Engel, K., Diedrichs, E., & Brunswicker, S. (2012). ImPRovE: High-impact innovation management consulting services for small and medium-sized enterprises (SMEs) [Report]. European Commission, Directorate-General for Enterprise and Industry.
