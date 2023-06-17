@@ -208,3 +208,23 @@ Engel, K., Diedrichs, E., & Brunswicker, S. (2008). Insights on innovation manag
 Engel, K., Diedrichs, E., & Brunswicker, S. (2010). ImPRovE. A European project with impact. 50 success stories on innovation management [Report]. European Commission, Directorate-General for Enterprise and Industry.
 
 Engel, K., Diedrichs, E., & Brunswicker, S. (2012). ImPRovE: High-impact innovation management consulting services for small and medium-sized enterprises (SMEs) [Report]. European Commission, Directorate-General for Enterprise and Industry.
+
+## **Working Papers**
+
+Brunswicker, S., Armisen, A., & Haefliger, S. (under review 2nd round). Patterns of Open Collaboration. Management Information Systems Quarterly.
+
+Brunswicker, S., Jorge, R., & Wareham, J. (under revision 2nd round). Standardization through Formal and Informal Standard Development Organizations (SDOs). Research Policy.
+
+Brunswicker, S., & Mukherjee, S. (2019). Digital Folding in OSS Co-development: The Effect of Depth of Cohesive Involvement and Openness to Knowledge Diversity on Sustained Development Performance. Working Paper, RCODI, Purdue University.
+
+Brunswicker, S., & Mukherjee, S. (und review, 2nd round). The Emergence of Artifact-mediated Collaboration Structures in Open Source Software Evolution. MIS Quarterly.
+
+Brunswicker, S., & Mukherjee, S. (in preparation). The Paradox of Diversity in Joint Problem Solving in Firm-sponsored Open Source Software (OSS). Information Systems Research.
+
+Brunswicker, S., & Prietula, M. (under review (3rd revision)). Complementor Design Preferences, Transparency-induced Reuse, and Innovation in Functionality and Structure on Digital Platforms. Organization Science.
+
+Kalkurani, S., & Brunswicker, S. (2023). Maximizing Human Agents’ Cooperative Behavior in Collective Action Games Through a Deep Q-Learning AI Agent. Working Paper (under Review at Nature Computional Intelligence).
+
+Promann, M., & Brunswicker, S. (revise & resubmit, 1st round). Eco-Feedback Design: A Systematic Review. Transaction on Human Computer Interaction (TOCHI).
+
+Tsapparellas, K., Jelev, N., Waters, J., Brunswicker, S., & Mihaylova, L. (2023). Vision-based Unmanned Aerial Vehicle (UAV)  Runway Detection and Landing for Greater Autonomy. Proceedings of the IEEE International Conference on Mechatronics and Automation (ICMA) 2023. Proceedings of the IEEE International Conference on Mechatronics and Automation (ICMA) 2023, Harbin, China.
