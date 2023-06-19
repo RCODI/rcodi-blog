@@ -1,5 +1,5 @@
 ---
-title: "ENERGYVIS Project"
+title: "ENERGY/Vis Project"
 subtitle: "Commons Game"
 summary: 
 date: "2018-02-22T02:05:32"
@@ -7,9 +7,7 @@ date_gmt: "2018-02-22T02:05:32"
 #guid: "https://rcodi.org/?page_id=4001"
 modified: "2018-06-10T22:47:34"
 modified_gmt: "2018-06-10T22:47:34"
-authors:
-- "admin"
-- "Jia Lin Cheoh"
+authors: [admin, Jia Lin Cheoh, Sabine Brunswicker, Marlen Promann]
 featured_media: "0"
 menu_order: "0"
 cover: "./Product-1-demo-app.jpg"
@@ -31,18 +29,16 @@ tags:
 #url_slides: ""
 #url_video: ""
 ---
-
+![](./Product-1-demo-app.jpg)
 {{< youtube kqKnGQuLmIw>}}
-
 ---
-
 ## ENERGY/Vis
 
 #### Social Perceptions in Home Energy Graphs
 
 Our information is increasingly data based and our decisions are increasingly guided by data graphs, charts and visualizations. Yet, the dominantly individualist data presentation perspectives utilized in current feedback systems have failed to leverage social behavioral theories to design technologically mediated feedback that could enhance individuals' awareness of and their willingness to cooperate with the digitally interconnected others.
 
-The ENERGYVIS Project was created to gain deeper insight into how the visual structure of a data graph affects the interpretation and comprehension of the data the chart represents and how they might nudge us to more cooperative choices. Little research has examined the role data visualization design plays in shaping behavior in the context of collective action (e.g., recycling, energy conservation, public protest, juries or organizational committees) that require cooperation and pooling of efforts of individual members, often on a voluntary basis. In such dilemmas, everybody is better off if individuals align with the group goal; however, these tasks typically fail because many do not align with the group's goal. In addition to visual encoding patterns to enhance individuals' social awareness and cooperation, this project will offer resources for new cognitive and perceptual experiments.
+The ENERGY/Vis Project was created to gain deeper insight into how the visual structure of a data graph affects the interpretation and comprehension of the data the chart represents and how they might nudge us to more cooperative choices. Little research has examined the role data visualization design plays in shaping behavior in the context of collective action (e.g., recycling, energy conservation, public protest, juries or organizational committees) that require cooperation and pooling of efforts of individual members, often on a voluntary basis. In such dilemmas, everybody is better off if individuals align with the group goal; however, these tasks typically fail because many do not align with the group's goal. In addition to visual encoding patterns to enhance individuals' social awareness and cooperation, this project will offer resources for new cognitive and perceptual experiments.
 
 ## Products and Contributions:
 
@@ -87,8 +83,7 @@ E. 10,000 of eye fixations
 F. 10,000s of code lines( see our Github)
 ![Product 13 - code](./Product-13-code.png)
 
-**Request our data** 
- Email opendigital@purdue.edu
+**Request our data:** Email opendigital@purdue.edu
 
 ## Our Experiments
 
@@ -120,12 +115,15 @@ When using our work please cite our papers
 A. JOURNAL
 
 **A Framework for Eco-Feedback Design For Home Energy Interactions**
+
 Marlen Promann, and Sabine Brunswicker (2018) ACM Transactions on Computer-Human Interaction, (forthcoming).
+
 Promann, M., & Brunswicker, S. (2017). AIS Electronic Library (AISeL) - AMCIS 2017 Proceedings: Affordances Of Eco-Feedback Design in Home Energy Context. Aisnet.org. https://aisel.aisnet.org/amcis2017/GreenIS/Presentations/7/
 
 B. CONFERENCES
 
 **1. The Effect of Enclosure in Group Charts on Perceived Unity.**
+
 Marlen Promann, and Sabine Brunswicker (forthcoming) CSCW, New Jersey, NY, USA, November 3-7
 
 **2. The Effect of Proximal Data Structure on Perceived Group Unity**
@@ -144,12 +142,10 @@ We love this inspiring track of civic design work and look forward to hearing fr
 
 #### Our Researchers
 
-**Dr. Sabine Brunswicker**
-Associate Professor, Director Research Center for Digital Innovation (RCODI) | **[Profile](https://rcodi.org/people/sabine-brunswicker/)**
+**Dr. Sabine Brunswicker** - Associate Professor, Director Research Center for Digital Innovation (RCODI) | **[Profile](https://rcodi.org/people/sabine-brunswicker/)**
 
 
-**Marlen Promman**
-PhD Design Researcher, RCODI Research Fellow |  **[Profile](https://rcodi.org/people/marlen-promann/)**
+**Marlen Promman** - PhD Design Researcher, RCODI Research Fellow |  **[Profile](https://rcodi.org/people/marlen-promann/)**
 
 **Jesus Enrique**
 
@@ -157,10 +153,10 @@ PhD Design Researcher, RCODI Research Fellow |  **[Profile](https://rcodi.org/pe
 Game Developer, RCODI Research Fellow | aldana.sigona(at)gmail(dot)com
 
 **Daniel Fernando**
-**Santos Bustos**
-Software Engineer, RCODI Research Fellow | dfsantosbu(at)unal(dot)edu(dot)co
 
-Note: For graph and game codes, please visit out [GitHub repository ](https://github.com/SmartEnergyGame)
+**Santos Bustos** - Software Engineer, RCODI Research Fellow | dfsantosbu(at)unal(dot)edu(dot)co
+
+Note: For graph and game codes, please visit out [GitHub repository.](https://github.com/SmartEnergyGame)
 
 ### Acknowledgements
 
