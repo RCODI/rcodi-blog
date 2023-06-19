@@ -8,7 +8,7 @@ modified_gmt: "2019-11-05T05:25:01"
 authors: ["admin"]
 tags:
 - Artificial Intelligence
-- Current
+- Concluded
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
@@ -91,4 +91,3 @@ AI Community
 
 - News produced with FACT by citizen journalists
 - Co-authored work with advisory board
-
