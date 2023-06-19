@@ -11,6 +11,8 @@ url_pdf: "" #Do we also have a PDF to upload
 url_slides: ""
 url_video: "" 
 slides: ""
+tags: 
+  - Current
 ---
 
 ![](./guac-1.jpeg)
