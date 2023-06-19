@@ -10,7 +10,6 @@ modified_gmt: "2018-06-10T22:47:34"
 authors: [admin, Jia Lin Cheoh, Sabine Brunswicker, Marlen Promann]
 featured_media: "0"
 menu_order: "0"
-cover: "./Product-1-demo-app.jpg"
 tags:
   - Concluded
   - Deep Learning
@@ -23,17 +22,15 @@ tags:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+url_code: "https://github.com/SmartEnergyGame"
+url_pdf: ""
+url_slides: ""
+url_video: "https://youtu.be/kqKnGQuLmIw"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 ---
-![](./Product-1-demo-app.jpg)
 {{< youtube kqKnGQuLmIw>}}
 ---
 ## ENERGY/Vis
