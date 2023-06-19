@@ -28,6 +28,10 @@ tags:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
 ![](./Product-1-demo-app.jpg)
 {{< youtube kqKnGQuLmIw>}}
