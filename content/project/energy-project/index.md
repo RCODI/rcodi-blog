@@ -1,5 +1,5 @@
 ---
-title: "Energy Project"
+title: "ENERGYVIS Project"
 subtitle: "Commons Game"
 summary: 
 date: "2018-02-22T02:05:32"
@@ -44,65 +44,51 @@ Our information is increasingly data based and our decisions are increasingly gu
 
 The ENERGYVIS Project was created to gain deeper insight into how the visual structure of a data graph affects the interpretation and comprehension of the data the chart represents and how they might nudge us to more cooperative choices. Little research has examined the role data visualization design plays in shaping behavior in the context of collective action (e.g., recycling, energy conservation, public protest, juries or organizational committees) that require cooperation and pooling of efforts of individual members, often on a voluntary basis. In such dilemmas, everybody is better off if individuals align with the group goal; however, these tasks typically fail because many do not align with the group's goal. In addition to visual encoding patterns to enhance individuals' social awareness and cooperation, this project will offer resources for new cognitive and perceptual experiments.
 
-## Products and
+## Products and Contributions:
 
-#### Contributions:
-
+A. One (1) home energy monitoring app.
 ![Product 1 - demo app](./Product-1-demo-app.jpg)
 
-1 home energy monitoring app.
-
+B. One (1) set of unifying design patterns.
 ![Product 2 - gestalt placeholder](./Product-2-gestalt-placeholder.gif)
 
-1 set of unifying design patterns.
-
+C. One (1) new infovis game model.
 ![Product 3 - vis game](./Product-3-vis-game.png)
 
-1 new infovis game model.
-
+D. 10s of new D3.js graphs.
 ![Product 4 - D3 graphs](./Product-4-D3-graphs.gif)
 
-10s of new D3.js graphs.
-
+E. 10s of behavioral games.
 ![Product 5 - many games](./Product-5-many-games.png)
 
-10s of behavioral games.
-
+F. 10s of lab studies.
 ![Product 6 - lab study](./Product-6-lab-study.jpg)
 
-10s of lab studies.
-
+G. 100s of on Amazon Mechanical Turk workers.
 ![Product 7 - Amazon Turk](./Product-7-Amazon-Turk.png)
-
-100s of on Amazon Mechanical Turk workers.
 
 #### Data:
 
+A. 100s of annotations.
 ![Product 8 - annotations](./Product-8-annotations.png)
 
-100s of annotations.
-
+B. 100s of perceived group unity measurements.
 ![Product 9 - unity measurements](./Product-9-unity-measurements.png)
 
-100s of perceived group unity measurements.
-
+C. 1,000s of graph descriptions.
 ![Product 10 - descriptions](./Product-10-descriptions.png)
 
-1,000s of graph descriptions.
-
+D.1,000s of graph based decisions
 ![Product 11 - decisions](./Product-11-decisions.png)
 
-1,000s of graph based decisions
-
+E. 10,000 of eye fixations
 ![Product 12 - eyetracking data](./Product-12-eyetracking-data.png)
 
-10,000 of eye fixations
-
+F. 10,000s of code lines( see our Github)
 ![Product 13 - code](./Product-13-code.png)
 
-10,000s of code lines( see our Github)
-
- Request our data
+**Request our data** 
+ Email opendigital@purdue.edu
 
 ## Our Experiments
 
@@ -129,26 +115,24 @@ We seek to better understand the link between perceiveinng a data visualization 
 [Explore our Motion Graphs](https://smartenergygame.github.io/EnergyMonitorDemo/)
 
 ## Publications
+When using our work please cite our papers
 
-#### When using our work please cite our papers
-
-**JOURNAL**
+A. JOURNAL
 
 **A Framework for Eco-Feedback Design For Home Energy Interactions**
-
 Marlen Promann, and Sabine Brunswicker (2018) ACM Transactions on Computer-Human Interaction, (forthcoming).
+Promann, M., & Brunswicker, S. (2017). AIS Electronic Library (AISeL) - AMCIS 2017 Proceedings: Affordances Of Eco-Feedback Design in Home Energy Context. Aisnet.org. https://aisel.aisnet.org/amcis2017/GreenIS/Presentations/7/
 
-**CONFERENCES**
+B. CONFERENCES
 
-**The Effect of Enclosure in Group Charts on Perceived Unity.**
-
+**1. The Effect of Enclosure in Group Charts on Perceived Unity.**
 Marlen Promann, and Sabine Brunswicker (forthcoming) CSCW, New Jersey, NY, USA, November 3-7
 
-**The Effect of Proximal Data Structure on Perceived Group Unity**
+**2. The Effect of Proximal Data Structure on Perceived Group Unity**
 
 Marlen Promann, and Sabine Brunswicker (forthcoming) IEEEVis VAST, Berlin, Germany, October.
 
-**Affordances of Eco-Feedback Design in Home Energy Context**
+**3. Affordances of Eco-Feedback Design in Home Energy Context**
 
 Marlen Promann, and Sabine Brunswicker (2017) AMCIS, Boston, MA, USA, 10-12 August.
 
@@ -158,37 +142,23 @@ Please reach out to us with feedback, suggestions, data and collaboration reques
 
 We love this inspiring track of civic design work and look forward to hearing from you.
 
-#### Dr. Sabine Brunswicker
+#### Our Researchers
 
-Associate Professor, Director Research Center for Digital Innovation (RCODI)
+**Dr. Sabine Brunswicker**
+Associate Professor, Director Research Center for Digital Innovation (RCODI) | **[Profile](https://rcodi.org/people/sabine-brunswicker/)**
 
-sabine.brunswicker at gmail dot com
 
-#### Marlen Promman
+**Marlen Promman**
+PhD Design Researcher, RCODI Research Fellow |  **[Profile](https://rcodi.org/people/marlen-promann/)**
 
-PhD Design Researcher, RCODI Research Fellow
+**Jesus Enrique**
 
-marlen.promann at gmail dot com
+**Aldana Sigona**
+Game Developer, RCODI Research Fellow | aldana.sigona(at)gmail(dot)com
 
-#### Jesus Enrique
-
-Aldana Sigona
-
-Game Developer
-
-RCODI Research Fellow
-
-aldana.sigona at gmail dot com
-
-#### Daniel Fernando
-
-Santos Bustos
-
-Software Engineer
-
-RCODI Research Fellow
-
-dfsantosbu at unal dot edu dot co
+**Daniel Fernando**
+**Santos Bustos**
+Software Engineer, RCODI Research Fellow | dfsantosbu(at)unal(dot)edu(dot)co
 
 Note: For graph and game codes, please visit out [GitHub repository ](https://github.com/SmartEnergyGame)
 
