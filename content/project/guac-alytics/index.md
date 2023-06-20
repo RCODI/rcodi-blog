@@ -13,9 +13,12 @@ url_video: ""
 slides: ""
 tags: 
   - Current
----
 
-![](./guac-1.jpeg)
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+---
 ## What's GUAC-ALYTICS? 
 Software supply chain attacks, a form of software compromise [(MITRE ATT&CK®, 2023)](#1) refers to a violation of security expectations in a software product that causes harm to its users. These violations may be caused by various actions (or inactions) that include operator misbehaviour (e.g., insider threats), operator negligence and outsider threats (e.g., a malicious hacker exploiting a security vulnerability). The security expectations are confidentiality (or privacy), integrity, and availability of computer software and services. These are increasingly-worrying risks for both open-source and closed-source software. According to estimates, this attack vector loses millions of dollars yearly [(Software Supply Chain Compromises - A Living Dataset, 2020/2023)](#2). These attacks occur due to the lack of visibility into what software is used and how it moves throughout the supply chain. In other words, there is a dire need to _study and model software supply chain security risks_.
 
