@@ -1,7 +1,7 @@
  ---
 title: 'Simulating Performance of DoD Contracts' # Breaking the code here for draft
 featured: true
-tags: [Current]
+tags: [Concluded]
 categories:
   - Research & Development
   - Featured
