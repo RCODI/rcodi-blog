@@ -10,7 +10,7 @@ tags:
   - open-innovation
   - open-source-software-practices
   - transparency-in-open-contest
-  - Current
+  - Concluded
 categories:
   - experiments
 #creator: jealdana

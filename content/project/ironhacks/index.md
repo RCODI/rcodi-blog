@@ -18,7 +18,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
 ## IronHacks
 
  is an open data hacking program that empowers programmers - from beginners to professionals - to solve civic challenges during a multi-phase and learning-oriented process.  The IronHacks platform offers participants a no-set-up programming environment and many powerful features to create novel and useful models and visualizations that help citizens and governments to make better decisions.
