@@ -5,11 +5,12 @@ tags:
   - Artificial Intelligence
 date: 2023-06-19
 ---
+## A promising initiative
 The rapid advancement of AI has transcended beyond virtual and physical systems. Recognizing a pressing need for knowledge and experimentation at Purdue University in this dynamic field, Purdue is marking great progress in establishing the university-wide Institute of Physical Artificial Intelligence (IPAI). And collaborating with IPAI’s groundbreaking initiative is Dr. Sabine Brunswicker as she is now joining the faculty steering committee.
 
 **[Dr. Brunswicker](https://rcodi.org/people/sabine-brunswicker/)**’s research within the IPAI centers around Next Generation Autonomous Systems. This area delves into the unique characteristics and capabilities of innovative systems, including their advanced sensing, learning, processing, and decision-making abilities.
 
-About the Institute of Physical Artificial Intelligence - IPAI at Purdue University.
+## About the Institute of Physical Artificial Intelligence - IPAI at Purdue University.
 The newly established IPAI at Purdue University aims to become a leader in research on the integration of AI and physical systems. This involves various strategic areas to leverage Purdue’s strength in agricultural data, neuromorphic computing, deep fake detection, smart transportation data, AI-based manufacturing, and more. You can visit the website at: [IPAI](https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/)
 
 Moreover, IPAI is part of Purdue Computes that explores depths in 3 dimensions: Computing, Physical AI, and Semiconductors. Its promising growth will bring faculty and students beyond Purdue together to learn and solve societal problems under the lens of computational power. IPAI is launching in September, gathering participation from outstanding alumni and top-notch faculty in this growing industry.
