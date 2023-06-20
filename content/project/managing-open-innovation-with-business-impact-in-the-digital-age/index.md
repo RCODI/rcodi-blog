@@ -3,7 +3,7 @@ featured: false
 title: Managing Open Innovation with Business Impact in the Digital Age
 summary: "This study aims to create a guided open innovation framework to help companies leverage optimal value from open innovation."
 authors: []
-tags: [Current]
+tags: [Concluded]
 post_date_gmt:
 date: 2010-03-14 22:24:08
 categories:
