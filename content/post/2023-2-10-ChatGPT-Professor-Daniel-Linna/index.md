@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 title: 'Decoding ChatGPT: A Conversation with Professor Daniel Linna on its Functionalities on WGN Radio'
 tags:
   - Research
@@ -42,8 +42,8 @@ For more details of this conversation, please check WGN Radio for a full version
 
 ### About Professor Daniel W Linna Jr.
 Professor Daniel W Linna Jr. is a Senior Lecturer and Director of Law & Technology at Northwestern University, Illinois, United States. He is a specialist in intellectual property law and has written and taught on topics such as patent law, copyright law, trademark law, and trade secret law. You can find his biography [here](https://www.law.northwestern.edu/faculty/profiles/DanielWLinna/).
-    
-  
+
+
 _[Learn more about RCODI from our About page!](https://rcodi.org/about/)_
 Interested in partnering or have a question?
 [Email us](mailto:sbrunswi@purdue.edu)

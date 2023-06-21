@@ -9,10 +9,10 @@ image:
 url_code: "https://github.com/TSELab/guac-alytics"
 url_pdf: "" #Do we also have a PDF to upload
 url_slides: ""
-url_video: "" 
+url_video: ""
 slides: ""
-toc: true
-tags: 
+toc: false
+tags:
   - Current
 
 image:
@@ -21,12 +21,12 @@ image:
   preview_only: false
 ---
 {{% toc %}}
-## What's GUAC-ALYTICS? 
+## What's GUAC-ALYTICS?
 Software supply chain attacks, a form of software compromise [(MITRE ATT&CK®, 2023)](#1) refers to a violation of security expectations in a software product that causes harm to its users. These violations may be caused by various actions (or inactions) that include operator misbehaviour (e.g., insider threats), operator negligence and outsider threats (e.g., a malicious hacker exploiting a security vulnerability). The security expectations are confidentiality (or privacy), integrity, and availability of computer software and services. These are increasingly-worrying risks for both open-source and closed-source software. According to estimates, this attack vector loses millions of dollars yearly [(Software Supply Chain Compromises - A Living Dataset, 2020/2023)](#2). These attacks occur due to the lack of visibility into what software is used and how it moves throughout the supply chain. In other words, there is a dire need to _study and model software supply chain security risks_.
 
 The **GUAC-ALYTICS** program aims to increase the transparency of Complex Open Source Software (OSS) Supply-chains using theories and models of network science [(Izenman, 2023)](#3) and machine learning. In OSS, the software's source code is available to anyone to view, use, modify, and distribute. It is created and maintained by a community of developers and users collaborating to improve the software. Open-source packages are pre-built pieces of software that can be used to build other applications. They can be freely downloaded from repositories such as GitHub or npm, making them an essential part of software development. With the rise of OSS, the software has impacted how individuals and organizations move through the software supply chain, including activities such as source code development, building & packaging, re-configuration & re-packaging (e.g., containerizing), and deployment. Today almost every software vendor – whether a small start-up or a large corporation like Microsoft, IBM, Google or RedHat – reuses and integrates packages from freely-available OSS products when moving through this chain [(Open Source Security and Analysis Report, 2023)](#4). Figure [1](#222) below shows the supply chain of Debian, a popular operating software developed by a large community of OSS developers [(Debian – the Universal Operating System, 2022)](#5).
 
-<a id="222"></a> 
+<a id="222"></a>
 ![](./Debian.png)
 <p align="center">
 Figure 1: Supply Chain of the Debian Ecosystem
@@ -36,10 +36,10 @@ However, like any other software, open-source packages can contain **vulnerabili
 
 Guac-alytics builds on top of the **[GUAC project (Graph for Understanding Artifact Composition)](https://github.com/guacsec/guac)** in collaboration with Google and Kusari [(GUAC, 2022/2023)](#8). This research project develops new theories, models, and technologies for modeling OSS supply-chain risk. It also aims to produce a collection of tools and resources designed to help researchers and practitioners better understand the risk profile of the open-source software supply-chain.
 
-## Why a network view towards OSS supply-chain risk modeling? 
+## Why a network view towards OSS supply-chain risk modeling?
 Open Source Software (OSS) [(Mair, 2022)](#9) has become an essential part of the software development process, enabling organizations to reduce development time and costs by reusing and integrating packages from different OSS products. Recent studies have revealed that around 80% of software contains OSS components. However, this also increases the risks associated with OSS supply chain interdependencies. These interdependencies have also raised concerns about security vulnerabilities and software attacks that could compromise sensitive data and system operations.
 
-<a id="232"></a> 
+<a id="232"></a>
 ![](./network-supply-chain.png)
 <p align="center">
 Figure 2: OSS Supply Chain Ecosystem as Network of Interdependent Packages
@@ -57,7 +57,7 @@ To achieve this goal, we collect and analyze various representative supply chain
 Our approach involves constructing temporal networks to model open-source software (OSS) supply chains using supply-chain trace data collected from the build provenance [(Buildinfos, 2023)](#18) database. In these networks, each node represents a package, and each edge represents a supply-chain interdependence between two packages. These the node attributes are the popularity and vulnerability measures of each package. The networks we construct will be directed, meaning that the edges have a specific direction indicating the flow of dependencies between packages over time. Also, we define a package’s security risk as the likelihood and the impact of a potential software compromise for that particular package. These models help identify potential weaknesses and interdependencies in the supply chain, enabling organizations to mitigate the risks proactively. In addition, using network science methods, we are trying to identify patterns and anomalies in the data that are difficult to detect using traditional security techniques.
 
 ## Preliminary Results
-<a id="242"></a> 
+<a id="242"></a>
 ![](./top-20.png)
 <p align="center">
 Figure 3: Top 20 packages based on the out-degree metric
@@ -69,7 +69,7 @@ Our analysis from Figure [3](#242) also suggests that these highly connected ker
 ## Intellectual Merit and Broader Impact
 The intellectual merit lies in our contribution to understanding and predicting the structure and risks within open-source software (OSS) supply chain ecosystems. It describes the social and technical interdependencies between complex systems and advances them in the OSS supply-chain context. Our research proposes a socio-technical network perspective to represent and analyze the complexity and inherent risks of the OSS supply chain. We leverage empirical data from OSS communities to construct temporal networks of OSS supply chains and use efficient algorithms for network mining to analyze them. We also propose to model and value the structural risks of a package within the OSS supply chain ecosystem to identify critical packages that create high risks for the repository and the ecosystem as a whole.
 
-The broader impact of this research is mainly on software engineering and cyber security. Our research can help software engineers to identify critical packages that create high risks for the repository and the ecosystem. It can also help develop more effective security standards and best practices. Finally, it also helps to identify and mitigate the risks associated with using open-source software in cybersecurity. 
+The broader impact of this research is mainly on software engineering and cyber security. Our research can help software engineers to identify critical packages that create high risks for the repository and the ecosystem. It can also help develop more effective security standards and best practices. Finally, it also helps to identify and mitigate the risks associated with using open-source software in cybersecurity.
 
 ## Future Work
 
@@ -81,74 +81,74 @@ We want to create a more secure OSS supply chain by developing these new approac
 
 ## References
 
-<a id="1">[1]</a> 
+<a id="1">[1]</a>
 MITRE ATT&CK®. (2023). https://attack.mitre.org/
 
-<a id="2">[2]</a> 
+<a id="2">[2]</a>
 Software Supply Chain Compromises - A Living Dataset (2020/2023). GitHub - IQTLabs/software-supply-chain-compromises: A dataset of software supply chain compromises. https://github.com/IQTLabs/software-supply-chain-compromises
 
-<a id="3">[3]</a> 
+<a id="3">[3]</a>
 Izenman, A. J. (2023, January 5). Network Models for Data Science. https://doi.org/10.1017/9781108886666
 
-<a id="4">[4]</a> 
+<a id="4">[4]</a>
 Open Source Security and Analysis Report. (2023). https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html
 
-<a id="5">[5]</a> 
+<a id="5">[5]</a>
 Debian -- The Universal Operating System. (2022). https://www.debian.org/
 
-<a id="6">[6]</a> 
+<a id="6">[6]</a>
 Duan, R. (2020, February 4). Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages. arXiv.org. https://arxiv.org/abs/2002.01139
 
-<a id="7">[7]</a> 
+<a id="7">[7]</a>
 Zapata, R. E., Kula, R. G., Chinthanet, B., Ishio, T., Matsumoto, K., & Ihara, A. (2018). Towards Smoother Library Migrations: A Look at Vulnerable Dependency Migrations at Function Level for npm JavaScript Packages. International Conference on Software Maintenance. https://doi.org/10.1109/icsme.2018.00067
 
-<a id="8">[8]</a> 
+<a id="8">[8]</a>
 GUAC (2022/2023). GitHub - guacsec/guac: GUAC aggregates software security metadata into a high fidelity graph database. GitHub. https://github.com/guacsec/guac
 
-<a id="9">[9]</a> 
+<a id="9">[9]</a>
 Mair, D. (2022, November 21). Understanding open source software supply chain risks. https://www.redhat.com/en/blog/understanding-open-source-software-supply-chain-risks
 
-<a id="10">[10]</a> 
+<a id="10">[10]</a>
 Ohm, M., Plate, H., Sykosch, A., & Tam, K. C. (2020). Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks. Lecture Notes in Computer Science, 23–43. https://doi.org/10.1007/978-3-030-52683-2_2
 
-<a id="11">[11]</a> 
+<a id="11">[11]</a>
 Jena, B. K. (2023). SolarWinds Attack And All The Details You Need To Know About It. Simplilearn.com. https://www.simplilearn.com/tutorials/cryptography-tutorial/all-about-solarwinds-attack
 
-<a id="12">[12]</a> 
+<a id="12">[12]</a>
 Zerouali, A., Mens, T., Decan, A., & De Roover, C. (2021). On the impact of security vulnerabilities in the npm and RubyGems dependency networks. Empirical Software Engineering, 27(5). https://doi.org/10.1007/s10664-022-10154-1
 
-<a id="13">[13]</a> 
+<a id="13">[13]</a>
 Brunswicker, S., & Mukherjee, S. (2023). The microstructure of modularity in design: a design motif view. Industrial and Corporate Change.
 
-<a id="14">[14]</a> 
+<a id="14">[14]</a>
 Ponta, S. E., Plate, H., & Sabetta, A. (2020). Detection, assessment and mitigation of vulnerabilities in open source dependencies. Empirical Software Engineering, 25(5), 3175–3215. https://doi.org/10.1007/s10664-020-09830-x
 
-<a id="15">[15]</a> 
+<a id="15">[15]</a>
 Kikas, R., Gousios, G., Dumas, M., & Pfahl, D. (2017). Structure and Evolution of Package Dependency Networks. Mining Software Repositories. https://doi.org/10.1109/msr.2017.55
 
-<a id="16">[16]</a> 
+<a id="16">[16]</a>
 Zimmermann, M., Staicu, C. A., Tenny, C., & Pradel, M. (2019, August). Small World with High Risks: A Study of Security Threats in the npm Ecosystem. In USENIX security symposium (Vol. 17).
 
-<a id="17">[17]</a> 
+<a id="17">[17]</a>
 Debian Popularity Contest. (2023). https://popcon.debian.org/
 
-<a id="18">[18]</a> 
+<a id="18">[18]</a>
 Buildinfos. (2023). https://buildinfos.debian.net/
 
-<a id="19">[19]</a> 
+<a id="19">[19]</a>
 Wikipedia contributors. (2023, March 11). Debian version history. Wikipedia. https://en.wikipedia.org/wiki/Debian_version_history
 
-<a id="20">[20]</a> 
+<a id="20">[20]</a>
 Node degree definition - Math Insight. (2023). https://mathinsight.org/definition/node_degree
 
-<a id="21">[21]</a> 
+<a id="21">[21]</a>
 Della Rossa, F., Dercole, F., & Piccardi, C. (2013). Profiling core-periphery network structure by random walkers. Scientific Reports, 3(1). https://doi.org/10.1038/srep01467
 
-<a id="22">[22]</a> 
+<a id="22">[22]</a>
 Rombach, M. P., Porter, M. A., Fowler, J. H., & Mucha, P. J. (2014). Core-Periphery Structure in Networks. Siam Journal on Applied Mathematics, 74(1), 167–190. https://doi.org/10.1137/0881683
 
 <a id="23">[23]</a>  
 Boyd, J. D., Fitzgerald, W. F., Mahutga, M. C., & Smith, D. (2010). Computing continuous core/periphery structures for social relations data with MINRES/SVD. Social Networks, 32(2), 125–137. https://doi.org/10.1016/j.socnet.2009.09.003
 
-<a id="24">[24]</a> 
+<a id="24">[24]</a>
 Baldwin, C. Y., MacCormack, A., & Rusnak, J. (2014). Hidden structure: Using network methods to map system architecture. Research Policy, 43(8), 1381–1397. https://doi.org/10.1016/j.respol.2014.05.004
