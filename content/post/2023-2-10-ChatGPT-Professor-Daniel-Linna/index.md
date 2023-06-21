@@ -4,6 +4,9 @@ tags:
   - Research
 date: 2023-02-10
 ---
+
+{{% toc %}}
+
 ## Decoding ChatGPT: A Conversation with Professor Daniel Linna on its Functionalities on WGN Radio
 
 As we are 2 months into 2023, there is a shift away from traditional search engines towards the use of Large Language Model (LLM). And our outstanding mention of this conversation is ChatGPT developed by OpenAI. In a recent interview on WGN Radio, Professor Daniel Linna whose research is based in Northwestern University had shared his thoughts on how this technology works.
