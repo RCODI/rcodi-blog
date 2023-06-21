@@ -33,7 +33,19 @@ image:
 ---
 {{< youtube kqKnGQuLmIw>}}
 ---
-## ENERGY/Vis
+# Table of Contents
+
+1. [About ENERGY/Vis](#about-energyvis)
+2. [Product and Contribution](#products-and-contributions)
+  1. [Data](#data)
+3. [Our Experiments](#our-experiments)
+  1. [Perception and Interpretation Experiments](#perception-and-interpretation-experiments)
+  2. [Behavioural Game Studies Focused on Action](#behavioural-game-studies-focused-on-action)
+  3.[Lab Studies with Eye Tracking](#lab-studies-with-eye-tracking)
+4. [Publications](#publications)
+  1. [Our Researchers](#our-researchers)
+
+## About ENERGY/Vis
 
 #### Social Perceptions in Home Energy Graphs
 
@@ -64,7 +76,7 @@ F. 10s of lab studies.
 G. 100s of on Amazon Mechanical Turk workers.
 ![Product 7 - Amazon Turk](./Product-7-Amazon-Turk.png)
 
-#### Data:
+### Data:
 
 A. 100s of annotations.
 ![Product 8 - annotations](./Product-8-annotations.png)
@@ -92,19 +104,19 @@ Research has shown that data based feedback has the potential to make people mor
 
 We extend visual perception theory by borrowing from group identity literature, which suggests that perceiving a unified group is required for group alignment and continued commitment. So, we hypothesize that seeing and identifying with a perceivably unified group can sustain users' energy conservation efforts. We use social computational methods to study the effects of visual graph structures and motion effects on graph perceptions, interpretations and user actions and consolidate a set of design patterns.
 
-## Perception and Interpretation Experiments.
+### Perception and Interpretation Experiments.
 
 We marry theories of visual perception and group identity to deliver theory driven chart designs that support collective awareness. Our perceptual experiments explore how these visual graph structures increase the perception of group unity.
 
 [Explore our Gestalt Graphs](https://smartenergygame.github.io/EnergyCharts/index.html)
 
-## Behavioural Game Studies Focused on Action.
+### Behavioural Game Studies Focused on Action.
 
 We build on existing behavioral game literature and propose a new visualization oriented game framework. We use the behavioral game to explore how the visual graph structures nudge individuals to more cooperative behaviors.
 
 [Demo our behavioral game](https://smart-energy-game.herokuapp.com/demo/)
 
-## Lab Studies with Eye Tracking.
+### Lab Studies with Eye Tracking.
 
 We seek to better understand the link between perceiveinng a data visualization and how interpretinng the unnderlying data is mediated by visual graph structures.
 
@@ -141,7 +153,7 @@ Please reach out to us with feedback, suggestions, data and collaboration reques
 
 We love this inspiring track of civic design work and look forward to hearing from you.
 
-#### Our Researchers
+### Our Researchers
 
 **Dr. Sabine Brunswicker** - Associate Professor, Director Research Center for Digital Innovation (RCODI) | **[Profile](https://rcodi.org/people/sabine-brunswicker/)**
 

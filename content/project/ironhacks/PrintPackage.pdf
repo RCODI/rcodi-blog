@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+        <title>Purdue University</title>
+    <placeholder>   
+        <script src="/ONBPREM/bundles/scripts.ashx?v=mM4An58kVxaVeNoadCA_WL1Fdfrnht9hiAPXdui50Qw1"></script>
+
+    </placeholder><link href="/ONBPREM/App_Themes/XpressHR/Theme.ashx?v=vBQu5O5dw-oPB30uffSNoURQrDb23xUAV2V_i7vE5f01" type="text/css" rel="stylesheet" /><title>
+
+</title></head>
+<body>
+    <div style="padding: 8px;">
+        <table cellspacing="1" cellpadding="1" width="100%" border="0" class="general">
+            <tr>
+                <td class="StepHeader">An error has occurred.
+                </td>
+            </tr>
+            <tr>
+                <td class="general2">
+                    <span id="Label1">Please <a href='Default.aspx' id='linkHomePage'>return to the home page</a> to continue accessing your account. If the error still appears, close the browser and re-start Onboarding 1.0. Error timestamp: 20230620222251.</span>
+                </td>
+            </tr>
+        </table>
+        <script type="text/javascript">
+            function CheckStateOfPage() {
+                var linkHomePage = document.getElementById('linkHomePage');
+                var topMostFrame = getTopmostFrame();
+                if (parent != null && topMostFrame.location != null) {
+                    var url = topMostFrame.location.href.toLowerCase();
+                    if (url.indexOf('default.aspx') != -1 || url.indexOf('.aspx') == -1) {
+                        linkHomePage.onclick = function () { topMostFrame.document.location = '/ONBPREM/default.aspx'; return false; }
+                    }
+                    else if (url.indexOf('workqueueactionproxy.aspx') != -1) {
+                        linkHomePage.onclick = function () { topMostFrame.document.location = '/ONBPREM/Pages/WorkQueue/WorkQueueRefresh.aspx'; return false; }
+                    }
+                    else if (url.indexOf('/doccenter/') != -1) {
+                        linkHomePage.onclick = function () { topMostFrame.document.location = '/ONBPREM/default.aspx'; return false; }
+                    }
+                    else if (url.indexOf('modalframe.aspx') != -1) {
+                        linkHomePage.onclick = function () { window.close(); }
+                    }
+                    else if (url.indexOf('wizardpageflat.aspx') != -1) {
+                        linkHomePage.onclick = function () { topMostFrame.CloseWindow('False'); }
+                    }
+                }
+            }
+            CheckStateOfPage();
+        </script>
+    </div>
+</body>
+</html>
