@@ -11,7 +11,6 @@ url_pdf: "" #Do we also have a PDF to upload
 url_slides: ""
 url_video: ""
 slides: ""
-toc: false
 tags:
   - Current
 
