@@ -2,7 +2,7 @@
 title: Open Source Software practices
 summary: ""
 authors: [Satyam Mukherjee, Sabine Brunswicker]
-tags: [Current]
+tags: [Concluded]
 post_date_gmt:
 date: 2010-07-09 22:24:08
 categories:
