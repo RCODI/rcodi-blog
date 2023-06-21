@@ -33,7 +33,7 @@ image:
 ---
 {{< youtube kqKnGQuLmIw>}}
 ---
-# Table of Contents
+## Table of Contents
 
 1. [About ENERGY/Vis](#about-energyvis)
 2. [Product and Contribution](#products-and-contributions)
@@ -41,7 +41,7 @@ image:
 3. [Our Experiments](#our-experiments)
   1. [Perception and Interpretation Experiments](#perception-and-interpretation-experiments)
   2. [Behavioural Game Studies Focused on Action](#behavioural-game-studies-focused-on-action)
-  3.[Lab Studies with Eye Tracking](#lab-studies-with-eye-tracking)
+  3. [Lab Studies with Eye Tracking](#lab-studies-with-eye-tracking)
 4. [Publications](#publications)
   1. [Our Researchers](#our-researchers)
 
