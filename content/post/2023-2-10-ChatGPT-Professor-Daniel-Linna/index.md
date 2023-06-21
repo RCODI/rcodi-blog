@@ -1,4 +1,5 @@
 ---
+toc: true
 title: 'Decoding ChatGPT: A Conversation with Professor Daniel Linna on its Functionalities on WGN Radio'
 tags:
   - Research
