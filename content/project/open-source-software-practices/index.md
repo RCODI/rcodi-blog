@@ -11,7 +11,7 @@ categories:
 #external_link: ""
 
 image:
-  caption: "(/OSS-graph.jpg)"
+  caption: ""
   focal_point: ""
   preview_only: false
 
