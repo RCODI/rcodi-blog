@@ -23,10 +23,10 @@ social:
     link: https://twinblade02.github.io/LDPortfolio.github.io/
   - icon: envelope
     icon_pack: fab
-    link: ldsilva@purdue.edu
+    link: mailto://ldsilva@purdue.edu
   - icon: instagram
     icon_pack: fab
-    link: sierrafoxtrot10
+    link: https://www.instagram.com/sierrafoxtrot10/
 
 user_groups:
   - Fellows
