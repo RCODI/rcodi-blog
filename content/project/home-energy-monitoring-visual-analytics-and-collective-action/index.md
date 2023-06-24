@@ -5,6 +5,10 @@ tags:
   - Currrent
 status: publish
 title: Home Energy Monitoring, Visual Analytics and Collective-Action
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 attachment_url: null
 comment_status: closed
 categories:
