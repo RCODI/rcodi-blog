@@ -4,7 +4,7 @@ tags:
   - Research
   - Autonomous Systems
   - Artificial Intelligence
-date: 2023-06-19
+date: 2023-06-25
 ---
 ## Taking the next step to an innovative collaboration
 
