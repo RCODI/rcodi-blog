@@ -23,6 +23,7 @@ count: "0"
 name: "wp"
 templated: "true"
 ---
+Author: Lionel Dsilva
 
 # The essential guide to GitHub CLI with Windows machines
 
