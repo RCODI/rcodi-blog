@@ -1,22 +1,18 @@
 ---
-title: 'Purdue University and Windracers Forge Partnership to Advance Next-Generation Autonomous Systems for UAV-based Logistics'
+title: 'An Executive Visit from Windracers - Advancing Next-Generation Autonomous Systems for UAV-based Logistics at Purdue University'
 tags:
   - Research
   - Autonomous Systems
   - Artificial Intelligence
 date: 2023-06-25
 ---
-## Taking the next step to an innovative collaboration
-
 Returning to late May, RCODI and Purdue University welcomed the second-of-the-year visit from Windracers: Mr. Stephen Wright - Windracer’s Chairman, and Mr. Simon Muderack - Windracer’s CEO. Led by **[Dr. Brunswicker](https://rcodi.org/people/sabine-brunswicker/)**- Director of RCODI, this executive meeting held an excellent discussion of a significant collaboration with Windracers - a UK-based autonomous UAS (unmanned aerial system) solution provider.
-
-To address many challenges in developing reliable autonomous systems and AI/ML-enabled aerial logistics, this partnership envisioned a Windracers Fellowship that would launch a unique research program. It shall expand research and testing facilities to study and upgrade UAVs (unmanned aerial vehicles) while partnering with many more UAV-focused companies.
 
 ### The trip that unlocks opportunities
 
-The visit included eventful meetings with many outstanding Purdue professors, researchers in the field, and faculty members. Together, faculty and visitors hosted multiple meaningful discussions regarding operation models, implementation strategies of the proposed program, and further progress on the collaboration. Ending the trip was a visit to the **[PURT (Purdue UAS Research and Test Facility)](https://engineering.purdue.edu/PURT)**, which was one of the highlights of Purdue's capability to test experimental UAS and onboard software with the help of its top of the line motion capture systems.
+To address many challenges in developing reliable autonomous systems and AI/ML-enabled aerial logistics, the visit included eventful meetings with many outstanding Purdue professors, researchers in the field, and faculty members. Together, faculty and visitors hosted multiple meaningful discussions regarding operation models, implementation strategies of the proposed program, and further progress on the collaboration. Ending the trip was a visit to the **[PURT (Purdue UAS Research and Test Facility)](https://engineering.purdue.edu/PURT)**, which was one of the highlights of Purdue's capability to test experimental UAS and onboard software with the help of its top of the line motion capture systems.
 
-This trip marked initial steps to bringing the vision of implementing UAVs for forever reliable aerial logistics for the world. Starting here at Purdue, an expansion of research facilities and faculty support to study and advance UAVs, along with deep connections with many more organizations, is evident in the near future.
+This trip marked initial steps to bringing the vision of implementing UAVs for forever reliable aerial logistics for the world. 
 
 ## About Windracers: 
 
